@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ads Academy · Meta + Google Ads, Beginner to Expert</title>
+<meta name="description" content="One path from beginner to expert in Meta and Google Ads: 16 audio tutorials with read-along, hands-on drills, quizzes, a copy workshop and a taste playground.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' rx='3' fill='%231f5fbf'/%3E%3Ctext x='8' y='12' font-size='10' text-anchor='middle' fill='white' font-family='Arial' font-weight='700'%3EA%3C/text%3E%3C/svg%3E">
+<script>(function(){try{var P=[["aa-taste-v1","mtp-progress-v1"],["aa-ws-v1","ccw-progress-v1"]];P.forEach(function(p){if(!localStorage.getItem(p[0])&&localStorage.getItem(p[1])){localStorage.setItem(p[0],localStorage.getItem(p[1]));localStorage.setItem("aa-imported-"+p[0],new Date().toISOString());}});}catch(e){}})();</script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header id="top">
+  <button id="btnSide" class="iconbtn" title="Show/hide the path (S)" aria-label="Show or hide the course path">☰</button>
+  <a href="#/" class="brand">Ads Academy</a>
+  <div class="topprog" title="Overall progress"><div class="bar"><div id="topFill"></div></div><span id="topTxt">0%</span></div>
+  <nav id="nav">
+    <a href="#/" data-nav="home">Home</a>
+    <a href="#/path" data-nav="path">Path</a>
+    <a href="#/practice" data-nav="practice">Practice</a>
+    <a href="#/glossary" data-nav="glossary">Glossary</a>
+    <a href="#/progress" data-nav="progress">Progress</a>
+  </nav>
+  <button id="btnFocus" class="btn small ghost" title="Focus view: hide everything except the task (F). Esc to exit.">⛶ Focus</button>
+</header>
+<div id="focusbar"><span id="focusInfo"></span><button id="btnExitFocus" class="btn small ghost">✕ Exit focus (Esc)</button></div>
+<div id="layout">
+  <aside id="side" aria-label="Course path"></aside>
+  <main id="main" tabindex="-1"></main>
+</div>
+<div id="tip" role="tooltip" hidden></div>
+<div id="toast" role="status" aria-live="polite"></div>
+<script src="data/course.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

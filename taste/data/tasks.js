@@ -1,0 +1,11593 @@
+window.MTP_DATA={
+"version": 2,
+"tracks": [
+{
+"id": "1",
+"title": "Foundations: the principles"
+},
+{
+"id": "2",
+"title": "Meta ad headlines & primary text"
+},
+{
+"id": "3",
+"title": "Meta creative, images & hooks"
+},
+{
+"id": "4",
+"title": "Offers & big ideas"
+},
+{
+"id": "5",
+"title": "Cold email"
+},
+{
+"id": "6",
+"title": "Mixed mastery & final exam (core)"
+},
+{
+"id": "7",
+"title": "Clinics & local business"
+},
+{
+"id": "8",
+"title": "Svenska: copy på svenska"
+},
+{
+"id": "9",
+"title": "TikTok & short-form video"
+},
+{
+"id": "10",
+"title": "Google Search ads"
+},
+{
+"id": "11",
+"title": "Ad metrics & testing"
+},
+{
+"id": "12",
+"title": "Agency & interview prep"
+}
+],
+"modules": [
+{
+"id": "1.1",
+"title": "Hopkins & Ogilvy",
+"track": "1"
+},
+{
+"id": "1.2",
+"title": "Caples, Schwartz & Lauder",
+"track": "1"
+},
+{
+"id": "1.3",
+"title": "Modern direct response, Meta & cold email basics",
+"track": "1"
+},
+{
+"id": "1.4",
+"title": "Real classic ads (real images)",
+"track": "1"
+},
+{
+"id": "2.1",
+"title": "Headline instinct I (real Upworthy tests)",
+"track": "2"
+},
+{
+"id": "2.2",
+"title": "Headline instinct II (real Upworthy tests)",
+"track": "2"
+},
+{
+"id": "2.3",
+"title": "Headline instinct III (real Upworthy tests)",
+"track": "2"
+},
+{
+"id": "2.4",
+"title": "Primary text for clinics",
+"track": "2"
+},
+{
+"id": "2.5",
+"title": "Headline instinct IV (more real Upworthy tests)",
+"track": "2"
+},
+{
+"id": "3.1",
+"title": "Proven creative tests",
+"track": "3"
+},
+{
+"id": "3.2",
+"title": "Image judgment with mockups",
+"track": "3"
+},
+{
+"id": "3.3",
+"title": "Hooks & video",
+"track": "3"
+},
+{
+"id": "3.4",
+"title": "Real banner tests with real images (Wikipedia)",
+"track": "3"
+},
+{
+"id": "4.1",
+"title": "Proven offer, CTA & headline tests",
+"track": "4"
+},
+{
+"id": "4.2",
+"title": "Building offers (Synlig Media)",
+"track": "4"
+},
+{
+"id": "4.3",
+"title": "Classic big ideas & teardowns",
+"track": "4"
+},
+{
+"id": "4.4",
+"title": "Landing page, form & message tests (real)",
+"track": "4"
+},
+{
+"id": "5.1",
+"title": "Subject lines",
+"track": "5"
+},
+{
+"id": "5.2",
+"title": "Openers & body",
+"track": "5"
+},
+{
+"id": "5.3",
+"title": "CTAs & follow-ups",
+"track": "5"
+},
+{
+"id": "5.4",
+"title": "Write & teardown",
+"track": "5"
+},
+{
+"id": "5.5",
+"title": "Real email subject-line tests",
+"track": "5"
+},
+{
+"id": "6.1",
+"title": "Field work (Ad Library) & mixed",
+"track": "6"
+},
+{
+"id": "6.2",
+"title": "Final exam",
+"track": "6"
+},
+{
+"id": "7.1",
+"title": "Meta ads for clinics (policy-aware)",
+"track": "7"
+},
+{
+"id": "7.2",
+"title": "Offers & Google Business Profile",
+"track": "7"
+},
+{
+"id": "7.3",
+"title": "Cold email to clinic owners",
+"track": "7"
+},
+{
+"id": "7.4",
+"title": "Write it: clinic campaigns",
+"track": "7"
+},
+{
+"id": "8.1",
+"title": "Bra eller dåligt?",
+"track": "8"
+},
+{
+"id": "8.2",
+"title": "Välj vinnaren",
+"track": "8"
+},
+{
+"id": "8.3",
+"title": "Skriv själv",
+"track": "8"
+},
+{
+"id": "9.1",
+"title": "Hooks & the first 3 seconds",
+"track": "9"
+},
+{
+"id": "9.2",
+"title": "UGC scripts & structure",
+"track": "9"
+},
+{
+"id": "10.1",
+"title": "RSA headlines & search intent",
+"track": "10"
+},
+{
+"id": "10.2",
+"title": "Keywords, match types & negatives",
+"track": "10"
+},
+{
+"id": "11.1",
+"title": "Metrics: CTR, CPC, CPM, CPA, ROAS, hook rate",
+"track": "11"
+},
+{
+"id": "11.2",
+"title": "Reading tests & sample size",
+"track": "11"
+},
+{
+"id": "12.1",
+"title": "Teardowns, test plans & interview answers",
+"track": "12"
+}
+],
+"tasks": [
+{
+"type": "lesson",
+"module": "1.1",
+"prompt": "Hopkins: be specific",
+"body": "Claude Hopkins (Scientific Advertising, 1923) argued that general claims like 'best in the world' slide off the reader, while a definite fact is believed. A specific number signals that you measured something. Paraphrase: platitudes are taken with a discount; specifics are accepted as truth.",
+"example": "Hopkins' own Schlitz campaign is the classic: instead of claiming 'pure beer', he described the process (filtered air, artesian wells, steam-cleaned bottles) that every brewery used but none had told the public.",
+"drill": {
+"q": "Which line follows Hopkins?",
+"options": [
+"'Stockholm's best laser clinic'",
+"'Laser hair removal with a 4-step consultation and patch test before your first session'"
+],
+"answer": 1,
+"why": "The second gives a checkable, specific process. The first is a platitude anyone can claim."
+},
+"evidence_type": "principle",
+"metric": "",
+"explanation": "The second gives a checkable, specific process. The first is a platitude anyone can claim.",
+"principles": [
+"specificity",
+"reason_why"
+],
+"id": "t1-1-01",
+"track": "1",
+"source_name": "Wikipedia: Claude C. Hopkins (Schlitz, Pepsodent, sampling)",
+"source_url": "https://en.wikipedia.org/wiki/Claude_C._Hopkins",
+"title": "Hopkins: be specific",
+"options": [],
+"answer": null
+},
+{
+"type": "lesson",
+"module": "1.1",
+"prompt": "Hopkins: the headline picks the reader",
+"body": "Hopkins compared headlines to a salesperson calling out to a crowd: you shout to the people you want, so the right ones turn their heads. A headline that names the reader (or their situation) filters for buyers instead of trying to please everyone.",
+"example": "In the Upworthy archive, 'If You Drink Coffee, Here's A Fact You Really Need To Wake-Up To' beat 'How Your Morning Latte Is Making The Earth Thirsty' on CTR with the same image (see Track 2).",
+"drill": {
+"q": "For a dental clinic ad, which opening line picks the reader better?",
+"options": [
+"'Do you own a smile?'",
+"'Clinic owners in Stockholm: is your Google listing sending patients to the clinic next door?'"
+],
+"answer": 1,
+"why": "It names the exact reader (clinic owners in Stockholm) and their situation. 'Do you own a smile?' calls everyone and no one."
+},
+"evidence_type": "principle",
+"metric": "",
+"explanation": "It names the exact reader (clinic owners in Stockholm) and their situation. 'Do you own a smile?' calls everyone and no one.",
+"principles": [
+"reader_callout"
+],
+"id": "t1-1-02",
+"track": "1",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan",
+"source_url": "https://www.loc.gov/item/23009362/",
+"title": "Hopkins: the headline picks the reader",
+"options": [],
+"answer": null
+},
+{
+"type": "lesson",
+"module": "1.1",
+"prompt": "Hopkins: samples, service and testing",
+"body": "Hopkins pushed samples and free trials because they let the product sell itself, and he treated every ad as a test measured by coupons returned. 'Offer service' — give the reader something useful — rather than begging for a purchase.",
+"example": "Caples' piano ad and Sherwin Cody's English ad both asked only for a free booklet or lesson first — a free first step, measured by returned coupons.",
+"drill": {
+"q": "Which is closest to a Hopkins-style sample for Synlig Media?",
+"options": [
+"A free 'Google-kartan' report showing where the clinic appears on Maps vs 3 competitors",
+"'Book a 60-minute strategy call to hear about our services'"
+],
+"answer": 0,
+"why": "The report gives value up front and demonstrates expertise (a sample). The call asks for time before any value."
+},
+"evidence_type": "principle",
+"metric": "",
+"explanation": "The report gives value up front and demonstrates expertise (a sample). The call asks for time before any value.",
+"principles": [
+"sampling",
+"service"
+],
+"id": "t1-1-03",
+"track": "1",
+"source_name": "Scientific Advertising, public-domain reading edition (McGrinsey Archive PDF)",
+"source_url": "https://www.mcgrinsey.com/media/claude-hopkins/claude-hopkins_scientific-advertising.pdf",
+"title": "Hopkins: samples, service and testing",
+"options": [],
+"answer": null
+},
+{
+"type": "lesson",
+"module": "1.1",
+"prompt": "Ogilvy: the headline is 80 cents of your dollar",
+"body": "Ogilvy, Confessions of an Advertising Man: \"On the average, five times as many people read the headline as read the body copy. When you have written your headline, you have spent eighty cents out of your dollar.\" On Meta, the 'headline' is effectively the first line of primary text plus the first frame of the creative.",
+"example": "Bing's 2012 test: moving ad text into the title (a bigger headline) raised revenue 12% (HBR).",
+"drill": {
+"q": "Where should a Meta ad's main promise go?",
+"options": [
+"In the first line of primary text and visible in the creative",
+"At the end of the text after the story"
+],
+"answer": 0,
+"why": "Most people never tap '...See more'. Put the promise where the eyes land first."
+},
+"evidence_type": "principle",
+"metric": "",
+"explanation": "Most people never tap '...See more'. Put the promise where the eyes land first.",
+"principles": [
+"headline_80"
+],
+"id": "t1-1-04",
+"track": "1",
+"source_name": "Campaign, excerpt from Ogilvy's 'Confessions of an Advertising Man'",
+"source_url": "https://www.campaignlive.co.uk/article/excerpt-confessions-advertising-man/996114",
+"title": "Ogilvy: the headline is 80 cents of your dollar",
+"options": [],
+"answer": null
+},
+{
+"type": "lesson",
+"module": "1.1",
+"prompt": "Ogilvy: one big, specific fact",
+"body": "Ogilvy's 1958 Rolls-Royce headline was a single researched fact: \"At 60 miles an hour the loudest noise in this new Rolls-Royce comes from the electric clock.\" It came from research (a technical editor's report), not from a brainstorm. Specific facts make premium claims believable.",
+"example": "The ad is widely credited with a large sales increase in 1958 (sources differ on the size — treat as reported, not tested).",
+"drill": {
+"q": "Which is the more 'Ogilvy' line for a physio clinic?",
+"options": [
+"'Physiotherapy you'll love'",
+"'Your first visit includes a 45-minute assessment and a written exercise plan you take home'"
+],
+"answer": 1,
+"why": "A concrete, researched fact beats an adjective."
+},
+"evidence_type": "principle",
+"metric": "",
+"explanation": "A concrete, researched fact beats an adjective.",
+"principles": [
+"big_idea",
+"specificity"
+],
+"id": "t1-1-05",
+"track": "1",
+"source_name": "Damn Good Ads: Rolls-Royce 'At 60 miles an hour' (1958)",
+"source_url": "https://damngoodads.com/ads/rolls-royce-electric-clock/",
+"title": "Ogilvy: one big, specific fact",
+"options": [],
+"answer": null
+},
+{
+"type": "goodbad",
+"module": "1.1",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "Headline: \"Quality dental care for the whole family.\"",
+"answer": "bad",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Platitude — every clinic could say it (Hopkins). No number, no reader callout, no reason.",
+"principles": [
+"specificity",
+"reader_callout"
+],
+"id": "t1-1-06",
+"track": "1",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan",
+"source_url": "https://www.loc.gov/item/23009362/",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": [],
+"speed": true
+},
+{
+"type": "pick",
+"module": "1.1",
+"prompt": "Hopkins drill: which line uses reason-why?",
+"options": [
+{
+"text": "'Our implants are the best.'"
+},
+{
+"text": "'Every implant plan starts with a 3D scan, so you see the exact position before anything is done.'"
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Reason-why explains WHY to believe/act.",
+"principles": [
+"reason_why",
+"specificity"
+],
+"id": "t1-1-07",
+"track": "1",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan",
+"source_url": "https://www.loc.gov/item/23009362/",
+"title": "Hopkins drill: which line uses reason-why?",
+"speed": true
+},
+{
+"type": "write",
+"module": "1.1",
+"prompt": "BRIEF: Take the platitude 'Professional skin care you can trust' and rewrite it 3 ways, each with one specific, checkable fact (use placeholders like [X years] if you don't know the real number).",
+"model_answers": [
+"1) 'Every treatment is done by a licensed nurse with [X] years at the clinic.'\n2) 'Your first visit includes a skin analysis and a written plan — before you pay for anything.'\n3) 'We publish our full price list online — no package pressure in the chair.'"
+],
+"steps": [
+"Find the claim behind the adjective (what makes it 'trustworthy'?).",
+"Replace adjective with a fact the reader could verify.",
+"Never invent numbers — use placeholders until you know."
+],
+"checklist": [
+"3 rewrites",
+"Each has a checkable fact",
+"No invented numbers"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"specificity",
+"reason_why"
+],
+"id": "t1-1-08",
+"track": "1",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan",
+"source_url": "https://www.loc.gov/item/23009362/",
+"title": "BRIEF: Take the platitude 'Professional skin care you can trust'…",
+"options": [],
+"answer": null,
+"kind": "other",
+"lang": "en"
+},
+{
+"type": "lesson",
+"module": "1.2",
+"prompt": "Caples: self-interest, news, curiosity",
+"body": "John Caples (Tested Advertising Methods) grouped winning headlines into self-interest (what's in it for me), news (something new), and curiosity — warning that curiosity alone is weak; it must be combined with self-interest.",
+"example": "Caples' own 1926 'They Laughed When I Sat Down at the Piano...' combined a dramatic story (curiosity) with the reader's wish to be admired (self-interest), and brought record coupon returns (Advertising Hall of Fame).",
+"drill": {
+"q": "Which headline combines curiosity WITH self-interest?",
+"options": [
+"'You won't believe this'",
+"'The 3 Google Maps settings most Stockholm clinics leave empty'"
+],
+"answer": 1,
+"why": "It teases (which 3?) and is clearly useful to the reader. Pure curiosity ('you won't believe this') gives no reason to care."
+},
+"evidence_type": "principle",
+"metric": "",
+"explanation": "It teases (which 3?) and is clearly useful to the reader. Pure curiosity ('you won't believe this') gives no reason to care.",
+"principles": [
+"self_interest",
+"curiosity_gap",
+"news"
+],
+"id": "t1-2-01",
+"track": "1",
+"source_name": "Advertising Hall of Fame: John Caples",
+"source_url": "https://advertisinghalloffame.org/inductee/john-caples/",
+"title": "Caples: self-interest, news, curiosity",
+"options": [],
+"answer": null
+},
+{
+"type": "lesson",
+"module": "1.2",
+"prompt": "Schwartz: awareness levels",
+"body": "Eugene Schwartz (Breakthrough Advertising) described five levels: unaware, problem-aware, solution-aware, product-aware, most-aware. Your headline should start where the reader's mind already is. Cold clinic owners seeing a Meta ad are usually problem-aware at best ('fewer bookings') — not aware that their Google Business Profile is the cause.",
+"example": "Summary of the model: Personal MBA, 'Levels of Awareness'.",
+"drill": {
+"q": "A clinic owner who has never thought about Google Maps is…",
+"options": [
+"Product-aware: show the 4,900 kr price first",
+"Unaware/problem-aware: start with the symptom (empty slots, patients choosing competitors) and the free check"
+],
+"answer": 1,
+"why": "Price-first works for the most-aware. Unaware readers need the problem made visible first."
+},
+"evidence_type": "principle",
+"metric": "",
+"explanation": "Price-first works for the most-aware. Unaware readers need the problem made visible first.",
+"principles": [
+"awareness"
+],
+"id": "t1-2-02",
+"track": "1",
+"source_name": "Personal MBA: Levels of Awareness (summary of Schwartz, Breakthrough Advertising)",
+"source_url": "https://personalmba.com/levels-of-awareness/",
+"title": "Schwartz: awareness levels",
+"options": [],
+"answer": null
+},
+{
+"type": "lesson",
+"module": "1.2",
+"prompt": "Schwartz: market sophistication",
+"body": "When a market has heard every claim ('more leads!'), a bigger claim stops working. Schwartz's stages: make the claim → enlarge it → introduce a mechanism (HOW it works) → enlarge the mechanism → identification (speak to who they are). Agency marketing to clinics is a very sophisticated market.",
+"example": "Summary: NordicCopy, 'What is Market Sophistication?'.",
+"drill": {
+"q": "Clinic owners get 'we'll double your leads' messages weekly. Which is a stage-3 (mechanism) message?",
+"options": [
+"'We'll TRIPLE your leads!'",
+"'Most clinics lose Maps clicks because of 3 missing profile fields. We fix them in one go.'"
+],
+"answer": 1,
+"why": "It explains the mechanism (missing fields → lost clicks) instead of shouting a bigger number."
+},
+"evidence_type": "principle",
+"metric": "",
+"explanation": "It explains the mechanism (missing fields → lost clicks) instead of shouting a bigger number.",
+"principles": [
+"sophistication",
+"reason_why"
+],
+"id": "t1-2-03",
+"track": "1",
+"source_name": "NordicCopy: What is Market Sophistication? (summary of Schwartz)",
+"source_url": "https://nordiccopy.com/market-sophistication/",
+"title": "Schwartz: market sophistication",
+"options": [],
+"answer": null
+},
+{
+"type": "lesson",
+"module": "1.2",
+"prompt": "Estée Lauder: let them touch it",
+"body": "Estée Lauder built her brand on putting product on people's skin — free samples, demonstrations, and the 'gift with purchase'. The principle: reduce the risk of trying, make the experience physical and personal.",
+"example": "The Estée Lauder Companies' founder page: she offered customers a free sample when they bought a product, helping establish 'Gift with Purchase'.",
+"drill": {
+"q": "Which is a 'Lauder' move for an aesthetic clinic?",
+"options": [
+"A free skin consultation with a written plan",
+"A 20% discount on a 6-session package for new customers"
+],
+"answer": 0,
+"why": "A free, personal experience lets the customer 'touch' the service without risk. Discounts lower price but not uncertainty."
+},
+"evidence_type": "principle",
+"metric": "",
+"explanation": "A free, personal experience lets the customer 'touch' the service without risk. Discounts lower price but not uncertainty.",
+"principles": [
+"sampling",
+"risk_reversal"
+],
+"id": "t1-2-04",
+"track": "1",
+"source_name": "The Estée Lauder Companies: Our Founder (free samples, Gift with Purchase)",
+"source_url": "https://www.elcompanies.com/en/who-we-are/our-heritage/our-founder",
+"title": "Estée Lauder: let them touch it",
+"options": [],
+"answer": null
+},
+{
+"type": "pick",
+"module": "1.2",
+"prompt": "Caples drill: which is a pure curiosity headline (the weak kind)?",
+"options": [
+{
+"text": "'How 3 Stockholm clinics got more calls from Google Maps'"
+},
+{
+"text": "'What happened at this clinic will shock you'"
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Curiosity with no self-interest. Caples: combine curiosity with a benefit.",
+"principles": [
+"curiosity_gap",
+"self_interest"
+],
+"id": "t1-2-05",
+"track": "1",
+"source_name": "Wikipedia: John Caples",
+"source_url": "https://en.wikipedia.org/wiki/John_Caples",
+"title": "Caples drill: which is a pure curiosity headline (the weak kind)?",
+"speed": true
+},
+{
+"type": "pick",
+"module": "1.2",
+"prompt": "Schwartz drill: a clinic owner who already knows Synlig Media and the 4,900 kr offer (most aware). Best ad?",
+"options": [
+{
+"text": "'7-Day Maps Fix — 4,900 kr. 3 slots left in November. Reply to book.'"
+},
+{
+"text": "A long educational video about why Google Maps matters"
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Most-aware prospects need the offer and terms, not education. (Only state scarcity if true.)",
+"principles": [
+"awareness",
+"offer"
+],
+"id": "t1-2-06",
+"track": "1",
+"source_name": "Personal MBA: Levels of Awareness (summary of Schwartz, Breakthrough Advertising)",
+"source_url": "https://personalmba.com/levels-of-awareness/",
+"title": "Schwartz drill: a clinic owner who already knows Synlig Media an…",
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "1.2",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "Aesthetic clinic: \"Come in for a free 10-minute skin test — touch and try the products before you choose a treatment.\"",
+"answer": "good",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Lauder-style: trial, touch, no risk.",
+"principles": [
+"sampling"
+],
+"id": "t1-2-07",
+"track": "1",
+"source_name": "The Estée Lauder Companies: Our Founder (free samples, Gift with Purchase)",
+"source_url": "https://www.elcompanies.com/en/who-we-are/our-heritage/our-founder",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": [],
+"speed": true
+},
+{
+"type": "lesson",
+"module": "1.3",
+"prompt": "Hormozi: the value equation",
+"body": "Alex Hormozi ($100M Offers): Value = (Dream outcome × Perceived likelihood of achievement) ÷ (Time delay × Effort & sacrifice). Beginners only inflate the top (bigger promises). Stronger offers shrink the bottom: faster, less work for the buyer.",
+"example": "Highrise's winning test literally reduced 'time delay' and 'effort' in the headline/subhead: '30-day Free Trial' + 'Sign-up takes less than 60 seconds' (+30%).",
+"drill": {
+"q": "Which change improves the bottom of the equation for the 4,900 kr Google profile fix?",
+"options": [
+"'Double your patients!'",
+"'We do everything — you approve the changes in one 15-minute call'"
+],
+"answer": 1,
+"why": "It reduces effort & sacrifice for the owner. The first just inflates the promise."
+},
+"evidence_type": "principle",
+"metric": "",
+"explanation": "It reduces effort & sacrifice for the owner. The first just inflates the promise.",
+"principles": [
+"value_equation",
+"offer"
+],
+"id": "t1-3-01",
+"track": "1",
+"source_name": "Acquisition.com free training ($100M Offers, value equation)",
+"source_url": "https://www.acquisition.com/training",
+"title": "Hormozi: the value equation",
+"options": [],
+"answer": null
+},
+{
+"type": "lesson",
+"module": "1.3",
+"prompt": "Meta video: hook → body → CTA",
+"body": "Meta reported (with Nielsen) that up to 47% of a video campaign's value is delivered in the first three seconds, and up to 74% in the first ten. So the first frame and first line must stop the scroll; the body proves; the CTA tells one next step.",
+"example": "Meta: 'Capture Attention with Updated Features for Video Ads'.",
+"drill": {
+"q": "What belongs in second 0–3 of a clinic ad video?",
+"options": [
+"The clinic logo animating in",
+"A person on camera saying the problem in one line, with captions"
+],
+"answer": 1,
+"why": "A logo intro wastes the most valuable seconds. Lead with the hook, readable without sound."
+},
+"evidence_type": "principle",
+"metric": "",
+"explanation": "A logo intro wastes the most valuable seconds. Lead with the hook, readable without sound.",
+"principles": [
+"hook",
+"sound_off"
+],
+"id": "t1-3-02",
+"track": "1",
+"source_name": "Meta for Business, 'Capture Attention with Updated Features for Video Ads'",
+"source_url": "https://www.facebook.com/business/news/updated-features-for-video-ads",
+"title": "Meta video: hook → body → CTA",
+"options": [],
+"answer": null
+},
+{
+"type": "lesson",
+"module": "1.3",
+"prompt": "Creative is targeting (Andromeda era)",
+"body": "Meta says the focus has 'shifted from niche targeting to creative diversification' — upload genuinely different concepts (different angles, messages, visuals) and let the system match them to people. Five near-identical ads are really one ad.",
+"example": "Meta for Business: 'The Creative Advantage: Unlocking the Power of Diversification with Meta Andromeda'.",
+"drill": {
+"q": "Which is real creative diversification?",
+"options": [
+"The same image in 5 background colours",
+"5 concepts: a founder selfie video, a Maps screenshot, a patient-journey story, a myth-buster, a free-report offer"
+],
+"answer": 1,
+"why": "Different ideas reach different people. Colour swaps don't."
+},
+"evidence_type": "principle",
+"metric": "",
+"explanation": "Different ideas reach different people. Colour swaps don't.",
+"principles": [
+"creative_targeting"
+],
+"id": "t1-3-03",
+"track": "1",
+"source_name": "Meta for Business, 'The Creative Advantage: Unlocking the Power of Diversification with Meta Andromeda'",
+"source_url": "https://www.facebook.com/business/news/the-creative-advantage-unlocking-the-power-of-diversification-with-meta-andromeda",
+"title": "Creative is targeting (Andromeda era)",
+"options": [],
+"answer": null
+},
+{
+"type": "lesson",
+"module": "1.3",
+"prompt": "Meta health policy for clinic ads",
+"body": "Meta's Health & Wellness standard prohibits 'statements of inferiority about physical appearance' and restricts cosmetic procedure / weight ads to 18+. Also avoid implying you know the viewer's personal attributes ('Are YOU overweight?'). Safe pattern: describe the service and the process; avoid shaming and unqualified timed result promises.",
+"example": "Meta Transparency Center: Health and Wellness advertising standards.",
+"drill": {
+"q": "Which line is the safer laser clinic ad?",
+"options": [
+"'Embarrassed by your hairy legs? Smooth in 2 weeks!'",
+"'Laser hair removal in Södermalm — free patch test and consultation first'"
+],
+"answer": 1,
+"why": "The first shames appearance and makes a timed promise. The second describes the service and a free first step."
+},
+"evidence_type": "principle",
+"metric": "",
+"explanation": "The first shames appearance and makes a timed promise. The second describes the service and a free first step.",
+"principles": [
+"policy"
+],
+"id": "t1-3-04",
+"track": "1",
+"source_name": "Meta Transparency Center, Advertising Standards: Health and Wellness",
+"source_url": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/",
+"title": "Meta health policy for clinic ads",
+"options": [],
+"answer": null
+},
+{
+"type": "lesson",
+"module": "1.3",
+"prompt": "Cold email basics",
+"body": "Published data agree on a few patterns: short subject lines (2–4 words, Belkins), relevant personalization (Belkins: 7% vs 3% reply), simple language (Boomerang), and a low-friction interest CTA for strangers (Gong). Plain text, one ask, written for one person.",
+"example": "Gong Labs CTA study (304,174 emails) and Belkins subject-line study (5.5M emails).",
+"drill": {
+"q": "Which CTA fits a first cold email to a clinic owner?",
+"options": [
+"'Can we book 45 minutes on Tuesday at 10:00?'",
+"'Vill du att jag skickar Google-kartan för er klinik?' (Want me to send the Maps report for your clinic?)"
+],
+"answer": 1,
+"why": "Interest CTA, easy yes, offers value. A 45-minute meeting is a big ask from a stranger."
+},
+"evidence_type": "principle",
+"metric": "",
+"explanation": "Interest CTA, easy yes, offers value. A 45-minute meeting is a big ask from a stranger.",
+"principles": [
+"interest_cta",
+"brevity"
+],
+"id": "t1-3-05",
+"track": "1",
+"source_name": "Gong Labs, 'Surprising cold email CTA that increases meeting bookings' (304,174 emails)",
+"source_url": "https://www.gong.io/blog/this-surprising-cold-email-cta-will-help-you-book-a-lot-more-meetings",
+"title": "Cold email basics",
+"options": [],
+"answer": null
+},
+{
+"type": "pick",
+"module": "1.3",
+"prompt": "Value equation drill: which change lowers TIME DELAY?",
+"options": [
+{
+"text": "'Award-winning team'"
+},
+{
+"text": "'Report delivered within 24 hours'"
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Time delay is the wait for the result. 24h reduces it; awards affect perceived likelihood at most.",
+"principles": [
+"value_equation"
+],
+"id": "t1-3-06",
+"track": "1",
+"source_name": "Acquisition.com free training ($100M Offers, value equation)",
+"source_url": "https://www.acquisition.com/training",
+"title": "Value equation drill: which change lowers TIME DELAY?",
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "1.3",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "Meta ad plan: 5 ads, all the same photo with different button colours, narrow interest targeting.",
+"answer": "bad",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Not creative diversification; Meta's Andromeda guidance favours genuinely different concepts with broader delivery.",
+"principles": [
+"creative_targeting"
+],
+"id": "t1-3-07",
+"track": "1",
+"source_name": "Meta for Business, 'The Creative Advantage: Unlocking the Power of Diversification with Meta Andromeda'",
+"source_url": "https://www.facebook.com/business/news/the-creative-advantage-unlocking-the-power-of-diversification-with-meta-andromeda",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": [],
+"speed": true
+},
+{
+"type": "missing",
+"module": "1.3",
+"prompt": "What's missing or wrong? Tick everything that applies, then reveal.",
+"artifact": "Video ad: 0–5s animated logo, 5–20s music montage of the clinic interior, ends with 'Visit our website'.",
+"answer": [
+"weak_hook",
+"no_offer",
+"no_cta"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "No hook in the first 3s (Meta: up to 47% of value there), no offer, vague CTA. Also likely meaningless sound-off.",
+"principles": [
+"hook",
+"sound_off"
+],
+"id": "t1-3-08",
+"track": "1",
+"source_name": "Meta for Business, 'Capture Attention with Updated Features for Video Ads'",
+"source_url": "https://www.facebook.com/business/news/updated-features-for-video-ads",
+"title": "What's missing or wrong? Tick everything that applies, then reve…",
+"options": []
+},
+{
+"type": "teardown",
+"module": "1.4",
+"prompt": "Real ad teardown: Kodak, 1889 — 'You press the button, we do the rest.'",
+"intro": "A REAL public-domain ad (1889). There is no test data for it — study it as a cited classic, not a proven test.",
+"parts": [
+{
+"label": "Headline / promise",
+"text": "\"You press the button, — we do the rest.\"",
+"note": "One sentence that removes the reader's biggest fear (cameras were technical). The benefit is NO effort — in Hormozi's value equation it shrinks effort & sacrifice to almost zero."
+},
+{
+"label": "Reason-why",
+"text": "\"The only camera that anybody can use without instructions.\"",
+"note": "A specific claim that backs up the promise (Hopkins: a definite claim beats a general one)."
+},
+{
+"label": "Free first step",
+"text": "\"Send for the Primer, free.\"",
+"note": "A sample-style, low-risk next step — the same move as a free 'Google-kartan' report."
+},
+{
+"label": "Price & offer",
+"text": "\"Price $25.00 — Loaded for 100 Pictures.\"",
+"note": "Concrete offer: one price and exactly what you get. Nothing vague."
+}
+],
+"evidence_type": "principle",
+"metric": "",
+"explanation": "Read each part and its annotation. Ask: could I reuse this move in my own ad?",
+"principles": [
+"value_equation",
+"specificity",
+"sampling",
+"offer"
+],
+"img": {
+"src": "img/real/kodak-1889.jpg",
+"alt": "1889 Kodak ad: 'You press the button, we do the rest'",
+"credit": "Eastman Dry Plate and Film Co., 1889 — public domain, via Wikimedia Commons",
+"page_url": "https://commons.wikimedia.org/wiki/File:You_press_the_button,_we_do_the_rest_(Kodak).jpg"
+},
+"id": "t1-4-01",
+"track": "1",
+"source_name": "Wikimedia Commons: 'You press the button, we do the rest' (Kodak, 1889) — public domain",
+"source_url": "https://commons.wikimedia.org/wiki/File:You_press_the_button,_we_do_the_rest_(Kodak).jpg",
+"title": "Real ad teardown: Kodak, 1889 — 'You press the button, we do the…",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "teardown",
+"module": "1.4",
+"prompt": "Real ad teardown: Pepsodent, 1929 — the campaign Claude Hopkins built (free 10-day tube).",
+"intro": "A REAL public-domain ad (Photoplay, Nov 1929) from the Pepsodent 'film' campaign associated with Claude Hopkins (see Hopkins' biography). No test data published for this exact ad.",
+"parts": [
+{
+"label": "Headline",
+"text": "\"FREE… a 10-day tube to everyone who wants white, dazzling teeth\"",
+"note": "Leads with the offer (free sample) and calls out the reader by desire ('everyone who wants white teeth'). Hopkins: the headline picks the reader."
+},
+{
+"label": "Mechanism",
+"text": "\"Film is found by dental research to discolor teeth…\"",
+"note": "A named enemy ('film') + a mechanism ('removes the film'). Schwartz would call this a stage-3 market move: a new mechanism, not just a bigger claim."
+},
+{
+"label": "Reason-why sub-heads",
+"text": "'The reason for the change' · 'How it acts' · 'Use for a few days'",
+"note": "Reason-why copy broken into scannable chunks. Each sub-head earns the next paragraph."
+},
+{
+"label": "Coupon",
+"text": "\"FREE—10-DAY TUBE. Mail coupon to…\"",
+"note": "Every ad was a measurable test: coupons returned = response. Hopkins treated advertising as salesmanship you can count."
+}
+],
+"evidence_type": "principle",
+"metric": "",
+"explanation": "Read each part and its annotation. Ask: could I reuse this move in my own ad?",
+"principles": [
+"sampling",
+"reason_why",
+"sophistication",
+"test_everything"
+],
+"img": {
+"src": "img/real/pepsodent-1929.png",
+"alt": "1929 Pepsodent magazine ad offering a free 10-day tube",
+"credit": "Pepsodent Co., Photoplay Nov 1929 — public domain, via Wikimedia Commons",
+"page_url": "https://commons.wikimedia.org/wiki/File:Photoplay_-_1929.11_-_7_-_Pepsodent.png"
+},
+"id": "t1-4-02",
+"track": "1",
+"source_name": "Wikimedia Commons: Photoplay, Nov 1929, Pepsodent ad — public domain",
+"source_url": "https://commons.wikimedia.org/wiki/File:Photoplay_-_1929.11_-_7_-_Pepsodent.png",
+"title": "Real ad teardown: Pepsodent, 1929 — the campaign Claude Hopkins …",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "teardown",
+"module": "1.4",
+"prompt": "Real ad teardown: Postum, 1910 — 'There's a Reason'.",
+"intro": "A REAL public-domain ad (1910). Classic structure, but the claims are a warning about health advertising.",
+"parts": [
+{
+"label": "Headline",
+"text": "\"Begin Early — Children 'brought up' on POSTUM…\"",
+"note": "Calls out parents through a picture of a mother and child — the reader sees herself."
+},
+{
+"label": "Reason-why",
+"text": "\"…made of clean, hard wheat, skilfully roasted…\"",
+"note": "Describes the process (like Hopkins' Schlitz ad). Concrete ingredients feel more believable than adjectives."
+},
+{
+"label": "Slogan",
+"text": "\"There's a Reason\"",
+"note": "The whole brand was built on reason-why advertising."
+},
+{
+"label": "Modern caveat",
+"text": "Health claims about children's 'nerve tissue' and 'evil effects'",
+"note": "These are unproven health claims. Today they would break Meta's health policy and Swedish marketing law. Copy the structure, never the claims."
+}
+],
+"evidence_type": "principle",
+"metric": "",
+"explanation": "Read each part and its annotation. Ask: could I reuse this move in my own ad?",
+"principles": [
+"reason_why",
+"reader_callout",
+"policy"
+],
+"img": {
+"src": "img/real/postum-1910.jpg",
+"alt": "1910 Postum ad: 'Begin Early — There's a Reason'",
+"credit": "Postum Cereal Co., 1910 — public domain, via Wikimedia Commons",
+"page_url": "https://commons.wikimedia.org/wiki/File:Postum_Advertisement_1910.jpg"
+},
+"id": "t1-4-03",
+"track": "1",
+"source_name": "Wikimedia Commons: Postum advertisement, 1910 — public domain",
+"source_url": "https://commons.wikimedia.org/wiki/File:Postum_Advertisement_1910.jpg",
+"title": "Real ad teardown: Postum, 1910 — 'There's a Reason'.",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "teardown",
+"module": "1.4",
+"prompt": "Real ad teardown: Woodbury's Facial Soap, 1916 — 'A skin you love to touch'.",
+"intro": "A REAL public-domain ad (1916, J. Walter Thompson era). No test data published — a cited classic.",
+"parts": [
+{
+"label": "Headline",
+"text": "\"A SKIN YOU LOVE TO TOUCH\"",
+"note": "Sells the emotional end result (being touched, desired), not the soap. One of the best-known early emotional headlines."
+},
+{
+"label": "The 'treatment'",
+"text": "\"You, too, can have its charm if you will begin the following treatment tonight\"",
+"note": "Turns soap into a ritual with steps — a mechanism the reader can start TONIGHT (time delay → near zero)."
+},
+{
+"label": "Offer",
+"text": "\"Write today for this picture! See offer below\" (picture + a week's sample for 15c)",
+"note": "Low-cost sample + a premium (the painting) = a measurable response ad."
+},
+{
+"label": "Modern policy check",
+"text": "Relies on insecurity about appearance",
+"note": "On Meta today, ads that imply a negative self-perception about appearance are restricted for health/beauty. Keep the ritual + sample idea, drop the insecurity."
+}
+],
+"evidence_type": "principle",
+"metric": "",
+"explanation": "Read each part and its annotation. Ask: could I reuse this move in my own ad?",
+"principles": [
+"emotion",
+"sampling",
+"policy",
+"value_equation"
+],
+"img": {
+"src": "img/real/woodbury-1916.jpg",
+"alt": "1916 Woodbury's Facial Soap ad: 'A skin you love to touch'",
+"credit": "Andrew Jergens Co., 1916 — public domain, via Wikimedia Commons",
+"page_url": "https://commons.wikimedia.org/wiki/File:1916-skin-touch-soap-ad.jpg"
+},
+"id": "t1-4-04",
+"track": "1",
+"source_name": "Wikimedia Commons: Woodbury's Facial Soap 'A skin you love to touch' ad, 1916 — public domain",
+"source_url": "https://commons.wikimedia.org/wiki/File:1916-skin-touch-soap-ad.jpg",
+"title": "Real ad teardown: Woodbury's Facial Soap, 1916 — 'A skin you lov…",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "pick",
+"module": "1.4",
+"prompt": "Look at the real 1889 Kodak ad. Which line does the most selling for a beginner?",
+"options": [
+{
+"text": "\"You press the button, — we do the rest.\""
+},
+{
+"text": "\"The Eastman Dry Plate and Film Co., Rochester, N.Y.\""
+}
+],
+"answer": 0,
+"evidence_type": "principle",
+"metric": "",
+"explanation": "The promise removes the beginner's fear (effort, know-how). The company name is information, not persuasion. A clinic version: 'You book — we handle the rest (forms, reminders, aftercare).'",
+"principles": [
+"value_equation",
+"headline_80"
+],
+"img": {
+"src": "img/real/kodak-1889.jpg",
+"alt": "1889 Kodak ad: 'You press the button, we do the rest'",
+"credit": "Eastman Dry Plate and Film Co., 1889 — public domain, via Wikimedia Commons",
+"page_url": "https://commons.wikimedia.org/wiki/File:You_press_the_button,_we_do_the_rest_(Kodak).jpg"
+},
+"id": "t1-4-05",
+"track": "1",
+"source_name": "Wikimedia Commons: 'You press the button, we do the rest' (Kodak, 1889) — public domain",
+"source_url": "https://commons.wikimedia.org/wiki/File:You_press_the_button,_we_do_the_rest_(Kodak).jpg",
+"title": "Look at the real 1889 Kodak ad. Which line does the most selling…",
+"v": 2
+},
+{
+"type": "pick",
+"module": "1.4",
+"prompt": "Real 1929 Pepsodent ad. If you could test only ONE change to make it work as a Meta ad today, which is the better first test?",
+"options": [
+{
+"text": "Drop the free sample and lead with the brand name and logo"
+},
+{
+"text": "Keep the free 10-day sample offer, shorten the copy, put the offer in the first line"
+}
+],
+"answer": 1,
+"evidence_type": "principle",
+"metric": "",
+"explanation": "The free sample + reader-callout headline is the engine (Hopkins: samples sell). Keep the engine, adapt the format. Brand-first openings rarely stop the scroll.",
+"principles": [
+"sampling",
+"hook"
+],
+"img": {
+"src": "img/real/pepsodent-1929.png",
+"alt": "1929 Pepsodent magazine ad offering a free 10-day tube",
+"credit": "Pepsodent Co., Photoplay Nov 1929 — public domain, via Wikimedia Commons",
+"page_url": "https://commons.wikimedia.org/wiki/File:Photoplay_-_1929.11_-_7_-_Pepsodent.png"
+},
+"id": "t1-4-06",
+"track": "1",
+"source_name": "Wikimedia Commons: Photoplay, Nov 1929, Pepsodent ad — public domain",
+"source_url": "https://commons.wikimedia.org/wiki/File:Photoplay_-_1929.11_-_7_-_Pepsodent.png",
+"title": "Real 1929 Pepsodent ad. If you could test only ONE change to mak…",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.1",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "How To Stop A Child From Smoking In 30 Seconds"
+},
+{
+"text": "Kids Love To Smoke Cigarettes, Right?"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 2.89% vs 1.35% (79/2,736 vs 35/2,593 clicks/impressions; z≈3.9). Test 51436071220cb80002000788, 2013-02-11. Our own two-proportion z-test on the archive data.",
+"explanation": "A concrete promise (stop X) with a specific time ('30 seconds') beats a sarcastic rhetorical question the reader must decode. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"specificity",
+"self_interest",
+"too_clever"
+],
+"upworthy_test": "51436071220cb80002000788",
+"id": "t2-1-01",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000788)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.1",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Someone Hacked Upworthy's Vault And Put All Our Viral Secrets On The Internet. Not Cool."
+},
+{
+"text": "I Can't Believe Upworthy Said That About Your Mom"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 0.70% vs 0.18% (28/3,989 vs 7/3,984 clicks/impressions; z≈3.6). Test 51480b8de28a19000200a708, 2013-03-19. Our own two-proportion z-test on the archive data.",
+"explanation": "A mini-story with stakes ('hacked the vault... secrets') creates a curiosity gap; the loser is a vague insult joke. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"curiosity_gap",
+"story",
+"too_clever"
+],
+"upworthy_test": "51480b8de28a19000200a708",
+"id": "t2-1-02",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (00a708)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.1",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "This Is What Happens When We Touch Objects Instead Of People"
+},
+{
+"text": "When Was The Last Time You Touched Something Other Than Your Phone?"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 1.45% vs 0.35% (78/5,374 vs 19/5,405 clicks/impressions; z≈6.0). Test 51491741cb47730002007b6f, 2013-03-20. Our own two-proportion z-test on the archive data.",
+"explanation": "The winner promises to SHOW a consequence ('what happens when'); the loser asks a guilt-trip question about the reader. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"curiosity_gap",
+"concrete_image"
+],
+"upworthy_test": "51491741cb47730002007b6f",
+"id": "t2-1-03",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (007b6f)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.1",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Watch The Most Powerful Force In The Universe In Action"
+},
+{
+"text": "Bookmark This For When You’re Sad And Instantly Be 100 Times Happier"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 1.38% vs 0.60% (76/5,499 vs 34/5,699 clicks/impressions; z≈4.2). Test 5149261ecb477300020089c4, 2013-03-20. Our own two-proportion z-test on the archive data.",
+"explanation": "Direct personal benefit plus a use case ('bookmark this for when you're sad') beats a grand abstract claim. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"self_interest",
+"specificity"
+],
+"upworthy_test": "5149261ecb477300020089c4",
+"id": "t2-1-04",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (0089c4)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.1",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "I Never Thought Toys Could Tell You So Much About How The World Works"
+},
+{
+"text": "10 Amazing International Photos That Will Give You Some Perspective"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 1.92% vs 0.85% (103/5,360 vs 47/5,522 clicks/impressions; z≈4.8). Test 5149eb48b245f00002007fdd, 2013-03-20. Our own two-proportion z-test on the archive data.",
+"explanation": "A numbered, concrete package ('10 photos') with a clear payoff beats a vague first-person musing. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"specificity",
+"clarity"
+],
+"upworthy_test": "5149eb48b245f00002007fdd",
+"id": "t2-1-05",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (007fdd)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.1",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "The Bulletproof Plan To Solve The World's Water Crisis"
+},
+{
+"text": "Can Somebody Just Give This Guy A Million Bucks Already?"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 2.08% vs 0.90% (58/2,789 vs 26/2,888 clicks/impressions; z≈3.7). Test 5150ce5a6261cf0002003df7, 2013-03-26. Our own two-proportion z-test on the archive data.",
+"explanation": "An emotional, conversational reaction invites curiosity about 'this guy'; 'bulletproof plan' sounds like a press release. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"curiosity_gap",
+"emotion"
+],
+"upworthy_test": "5150ce5a6261cf0002003df7",
+"id": "t2-1-06",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (003df7)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.1",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Want To Earn My Business? Just Do The Right Thing."
+},
+{
+"text": "This What It Looks Like When A Corporation Has A Soul"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 1.48% vs 0.31% (41/2,775 vs 8/2,606 clicks/impressions; z≈4.5). Test 515ac4534c9a93000200308c, 2013-04-02. Our own two-proportion z-test on the archive data.",
+"explanation": "Shows a scene ('what it looks like when...'); the loser is a lecture aimed at companies, not the reader. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"concrete_image",
+"reader_callout"
+],
+"upworthy_test": "515ac4534c9a93000200308c",
+"id": "t2-1-07",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (00308c)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.1",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "A Bunch Of Nerds Got Tired Of Cyberbullies So They Used Their Powers Of Science To Fight Them"
+},
+{
+"text": "Watch A Bunch Of LAMO NERDS Stop Cyberbullying With Science. WHATEVER!"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 1.99% vs 0.73% (57/2,870 vs 20/2,755 clicks/impressions; z≈4.1). Test 515cad48519f250002009cc1, 2013-04-03. Our own two-proportion z-test on the archive data.",
+"explanation": "Clear story (nerds vs bullies, science as weapon) beats sarcastic ALL-CAPS mockery that is hard to read straight. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"story",
+"too_clever",
+"clarity"
+],
+"upworthy_test": "515cad48519f250002009cc1",
+"id": "t2-1-08",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (009cc1)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.1",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "How Many Students In Philadelphia Schools Are Going To Graduate From College?"
+},
+{
+"text": "A Man Asked These Folks A Quick Question About Our Education System. The Answer Shocked Them"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 1.79% vs 0.49% (52/2,901 vs 14/2,829 clicks/impressions; z≈4.6). Test 5192a06ae36cf87029001419, 2013-05-14. Our own two-proportion z-test on the archive data.",
+"explanation": "A tiny narrative with a reaction ('the answer shocked them') beats a dry statistics question about one city. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"curiosity_gap",
+"story"
+],
+"upworthy_test": "5192a06ae36cf87029001419",
+"id": "t2-1-09",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (001419)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.1",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "How Kicking Your Metaphorical Training Wheels To The Curb Will Set You Free"
+},
+{
+"text": "I Fall In Love With LIFE Every Time I Watch This Video."
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 1.50% vs 0.38% (51/3,401 vs 13/3,444 clicks/impressions; z≈4.8). Test 51ad635232390c0509001d57, 2013-06-04. Our own two-proportion z-test on the archive data.",
+"explanation": "Plain emotional first-person reaction beats a convoluted metaphor ('metaphorical training wheels'). (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"clarity",
+"too_clever",
+"emotion"
+],
+"upworthy_test": "51ad635232390c0509001d57",
+"id": "t2-1-10",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (001d57)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.1",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "A 9-Year-Old Asks McDonald’s CEO A Simple Question. She’s Not Lovin’ His Response."
+},
+{
+"text": "Listen As A Smartypants 9-Year-Old Gives McDonalds’ CEO A Chicken Nugget Of Wisdom"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 3.23% vs 1.47% (110/3,408 vs 52/3,541 clicks/impressions; z≈4.9). Test 51ae2eb8983cae9d69002b3b, 2013-06-04. Our own two-proportion z-test on the archive data.",
+"explanation": "Conflict and a payoff hint ('she's not lovin' his response') beat a pun-heavy summary. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"story",
+"curiosity_gap"
+],
+"upworthy_test": "51ae2eb8983cae9d69002b3b",
+"id": "t2-1-11",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (002b3b)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.1",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Did These Words Really Come Out Of Conan's Mouth?"
+},
+{
+"text": "Watch This. Amazing Things Will Happen. Also, Share This."
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 4.45% vs 2.11% (151/3,397 vs 71/3,369 clicks/impressions; z≈5.4). Test 51aebbebd8dd72f1fa001b39, 2013-06-05. Our own two-proportion z-test on the archive data.",
+"explanation": "A specific named person plus a question creates a curiosity gap; 'Amazing things will happen. Also, share this' is empty hype. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"specificity",
+"curiosity_gap"
+],
+"upworthy_test": "51aebbebd8dd72f1fa001b39",
+"id": "t2-1-12",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (001b39)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.1",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Colbert Bashes The Freakilicious Food That Won't Take 'NO' For An Answer"
+},
+{
+"text": "Watch Colbert Bash The Freakilicious Food That Won't Take 'NO' For An Answer"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 2.85% vs 1.53% (95/3,329 vs 58/3,790 clicks/impressions; z≈3.8). Test 51bfb057b3f46d5245002ba5, 2013-06-18. Our own two-proportion z-test on the archive data.",
+"explanation": "Same words, one change: imperative 'Watch Colbert bash...' framed it as something to consume now. Tiny wording changes can matter. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"test_everything",
+"cta"
+],
+"upworthy_test": "51bfb057b3f46d5245002ba5",
+"id": "t2-1-13",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (002ba5)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.1",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Cookie Monster Is In Jail? I'm Actually Really Happy About The Reason Why."
+},
+{
+"text": "Watch Kids Facing Scary Problems Get Help From An Unexpected Crew Of Furry Friends"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 2.30% vs 0.57% (80/3,480 vs 21/3,712 clicks/impressions; z≈6.2). Test 51c8cc33bd57ec06e200319e, 2013-06-24. Our own two-proportion z-test on the archive data.",
+"explanation": "Surprise + resolution teaser ('in jail? ... happy about the reason why') beats a generic description. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"curiosity_gap",
+"news"
+],
+"upworthy_test": "51c8cc33bd57ec06e200319e",
+"id": "t2-1-14",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (00319e)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.1",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Grab Your Kleenex, Pull Up A Chair, And Be Prepared To Be Inspired By This Nine Year Old"
+},
+{
+"text": "Meet Sarah:  She's Fantabulous And She's Making The World A Better Place One Cupcake At A Time"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 1.53% vs 0.60% (59/3,861 vs 21/3,499 clicks/impressions; z≈3.8). Test 51c9df04095ec2d67b001590, 2013-06-25. Our own two-proportion z-test on the archive data.",
+"explanation": "Tells the reader exactly what emotional experience to expect; the loser leans on cutesy invented words. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"self_interest",
+"clarity",
+"too_clever"
+],
+"upworthy_test": "51c9df04095ec2d67b001590",
+"id": "t2-1-15",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (001590)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.2",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "If We Could Have A Chat With Our 12-Year-Old Selves, Could We Prevent Bullying?"
+},
+{
+"text": "Some Beautiful Proof That We Don't Always Get The \"Be A Good Person\" Thing Right The First Time"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 2.66% vs 1.09% (71/2,666 vs 33/3,032 clicks/impressions; z≈4.4). Test 51d307c5d5c012f4bb004b8c, 2013-07-02. Our own two-proportion z-test on the archive data.",
+"explanation": "'Beautiful proof' promises evidence and a reward; the loser is a hypothetical question. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"proof",
+"curiosity_gap"
+],
+"upworthy_test": "51d307c5d5c012f4bb004b8c",
+"id": "t2-2-01",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (004b8c)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.2",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Congratulations To Everyone Who Already Understands Egypt. This Is For Everyone Else."
+},
+{
+"text": "A Brief Explanation Of The Most Tumultuous Country On The Planet"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 3.27% vs 1.21% (70/2,142 vs 27/2,238 clicks/impressions; z≈4.6). Test 51ddfbdad62ba9059400085c, 2013-07-11. Our own two-proportion z-test on the archive data.",
+"explanation": "Calls out the reader who feels behind ('this is for everyone else') — a reader-selecting headline. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"reader_callout",
+"self_interest"
+],
+"upworthy_test": "51ddfbdad62ba9059400085c",
+"id": "t2-2-02",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (00085c)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.2",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "If This Unconventional Educator Had His Way, No Student Would Ever Be Uniform Again"
+},
+{
+"text": "If This Unconventional Educator Had His Way, Students Would Never Be Uniform"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 3.76% vs 1.97% (104/2,769 vs 53/2,695 clicks/impressions; z≈4.0). Test 51f805a51633fa3737007467, 2013-07-30. Our own two-proportion z-test on the archive data.",
+"explanation": "Near-identical lines: 'No student would ever be uniform again' is the stronger, more absolute and vivid phrasing. Test small edits. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"test_everything",
+"concrete_image"
+],
+"upworthy_test": "51f805a51633fa3737007467",
+"id": "t2-2-03",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (007467)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.2",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Like This Photo If You Agree With It! No, Wait, Please Don't."
+},
+{
+"text": "Why On Earth Would Anyone Like These Photos? But We Do. Every Day."
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 3.29% vs 1.11% (91/2,763 vs 33/2,975 clicks/impressions; z≈5.7). Test 51f92e6364fe44834e005925, 2013-07-31. Our own two-proportion z-test on the archive data.",
+"explanation": "A paradox question ('why would anyone like these? But we do') creates intrigue; the loser is confusing reverse-psychology. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"curiosity_gap",
+"too_clever"
+],
+"upworthy_test": "51f92e6364fe44834e005925",
+"id": "t2-2-04",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (005925)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.2",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "WOW! Best Use Of Ad Space I Have Ever Seen."
+},
+{
+"text": "OMG! Best Use Of A Billboard I Have Ever Seen."
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 7.57% vs 3.06% (182/2,404 vs 90/2,944 clicks/impressions; z≈7.5). Test 51f9ae95be662ba80f00082e, 2013-08-01. Our own two-proportion z-test on the archive data.",
+"explanation": "Concrete noun beats abstract: 'billboard' is a picture in your head, 'ad space' is jargon. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"concrete_image",
+"specificity"
+],
+"upworthy_test": "51f9ae95be662ba80f00082e",
+"id": "t2-2-05",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (00082e)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.2",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "If You Drink Coffee, Here's A Fact You Really Need To Wake-Up To"
+},
+{
+"text": "How Your Morning Latte Is Making The Earth Thirsty"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 4.59% vs 1.91% (137/2,984 vs 54/2,827 clicks/impressions; z≈5.7). Test 5203b05ccb4b08661b0092ee, 2013-08-08. Our own two-proportion z-test on the archive data.",
+"explanation": "Calls out a reader segment ('If you drink coffee') then promises a fact for them — Hopkins' 'headline picks the reader'. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"reader_callout",
+"self_interest"
+],
+"upworthy_test": "5203b05ccb4b08661b0092ee",
+"id": "t2-2-06",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (0092ee)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.2",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Why Surfers Are Actually Safer Than People Making Toast"
+},
+{
+"text": "A Shark Video That Actually Makes Me Fear For Humanity"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 3.46% vs 1.62% (88/2,543 vs 42/2,592 clicks/impressions; z≈4.2). Test 52047571ade3f27bbd0046f0, 2013-08-09. Our own two-proportion z-test on the archive data.",
+"explanation": "Twist on expectation (shark video that makes you fear for humanity) beats a clever comparison that needs thought. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"curiosity_gap",
+"too_clever"
+],
+"upworthy_test": "52047571ade3f27bbd0046f0",
+"id": "t2-2-07",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (0046f0)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.2",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "You'll Want To Know What You Can Do To Give This Kid A Happily Ever After"
+},
+{
+"text": "The Things This 4-Year-Old Is Doing Are Cute. The Reason He's Doing Them Is Heartbreaking."
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 3.96% vs 1.17% (98/2,473 vs 30/2,570 clicks/impressions; z≈6.3). Test 520f2e8dc5ed037ad400208a, 2013-08-17. Our own two-proportion z-test on the archive data.",
+"explanation": "Contrast (cute / heartbreaking) opens a gap; the loser jumps to a call for help before you care. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"curiosity_gap",
+"emotion"
+],
+"upworthy_test": "520f2e8dc5ed037ad400208a",
+"id": "t2-2-08",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (00208a)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.2",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "This Is Where We All Say, 'Why Can't This Happen In My City?'"
+},
+{
+"text": "Next Time You’re Stuck In A Parking Lot You’ll Remember What A Brilliant Idea This Is"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 3.63% vs 1.66% (130/3,582 vs 59/3,558 clicks/impressions; z≈5.2). Test 520ff13905b5c9b3d70057af, 2013-08-17. Our own two-proportion z-test on the archive data.",
+"explanation": "Ties to the reader's own frustrating moment (stuck in a parking lot) — self-interest and memorability. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"self_interest",
+"reader_callout"
+],
+"upworthy_test": "520ff13905b5c9b3d70057af",
+"id": "t2-2-09",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (0057af)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.2",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "If You Eat 1000 Cows In One Sitting, You're Either A Monster, Or You Just Ate McDonalds. Seriously."
+},
+{
+"text": "Frozen Meat Patties Contain HOW MANY DIFFERENT COWS? That's Gross, Filthy-Style."
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 1.60% vs 0.78% (84/5,249 vs 40/5,113 clicks/impressions; z≈3.8). Test 5148fb4dcb47730002005ec0, 2013-03-19. Our own two-proportion z-test on the archive data.",
+"explanation": "Absurd specific number (1000 cows) and a blunt punchline beat an ALL-CAPS gross-out question. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"specificity",
+"concrete_image"
+],
+"upworthy_test": "5148fb4dcb47730002005ec0",
+"id": "t2-2-10",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (005ec0)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.2",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Never Before Have I Seen Such A Cute And Uplifting Video Of A Big Company Actually Doing Good Stuff"
+},
+{
+"text": "Want To Live In A Better World? Me Too. Let's Get On That."
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 1.49% vs 0.34% (30/2,011 vs 7/2,034 clicks/impressions; z≈3.8). Test 53499d0ffe9c5a8ef7000050, 2014-04-12. Our own two-proportion z-test on the archive data.",
+"explanation": "Specific promise of what you'll see (a big company doing good) beats vague 'better world' sloganeering. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"specificity",
+"clarity"
+],
+"upworthy_test": "53499d0ffe9c5a8ef7000050",
+"id": "t2-2-11",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000050)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.2",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "That One Time A Cartoon Punched Fake Science In The Face With ACTUAL FACTS"
+},
+{
+"text": "Take A Shot Of This And Be Immune To Bad Science. Win-Win!"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 2.45% vs 0.91% (93/3,793 vs 35/3,848 clicks/impressions; z≈5.3). Test 535003e4b921b4fc77000008, 2014-04-17. Our own two-proportion z-test on the archive data.",
+"explanation": "Action story (cartoon punches fake science with facts) beats a pun-y medical metaphor. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"story",
+"too_clever"
+],
+"upworthy_test": "535003e4b921b4fc77000008",
+"id": "t2-2-12",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000008)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.2",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Super-Interesting Facts About Being In Love"
+},
+{
+"text": "Looking To Get High, But Wanting To Stay Clean? Try Falling In Love."
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 1.19% vs 0.25% (28/2,355 vs 6/2,415 clicks/impressions; z≈3.9). Test 535dc112786e4fdd51000022, 2014-04-28. Our own two-proportion z-test on the archive data.",
+"explanation": "Plain and clear ('super-interesting facts about being in love') beats a drug-pun that confuses. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"clarity",
+"too_clever"
+],
+"upworthy_test": "535dc112786e4fdd51000022",
+"id": "t2-2-13",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000022)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.2",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "The Story Behind One Sad-Looking Vending Machine In The Middle Of New York City"
+},
+{
+"text": "Ewwww, What Color Is Your Water?"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 2.11% vs 0.49% (43/2,041 vs 10/2,059 clicks/impressions; z≈4.6). Test 5362749529b7aff5850000a0, 2014-05-02. Our own two-proportion z-test on the archive data.",
+"explanation": "A story with a concrete object (a sad vending machine in NYC) beats a gross-out question. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"story",
+"concrete_image"
+],
+"upworthy_test": "5362749529b7aff5850000a0",
+"id": "t2-2-14",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (0000a0)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.2",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Advertising Seems Harmless ... Until You See It For What It Really Is"
+},
+{
+"text": "Why Happy And Secure People Aren't Very Good Consumers"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 3.50% vs 1.39% (88/2,517 vs 36/2,586 clicks/impressions; z≈4.9). Test 536a717f4e2f5a3164000003, 2014-05-08. Our own two-proportion z-test on the archive data.",
+"explanation": "A 'reveal' structure (seems harmless... until) promises insight; the loser states an abstract thesis. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"curiosity_gap"
+],
+"upworthy_test": "536a717f4e2f5a3164000003",
+"id": "t2-2-15",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000003)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.3",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Stuck In An Adult Mindset? Leave The Creativity And Problem Solving To The Kids."
+},
+{
+"text": "Leave It To A Little Kid To Come Up With A Creative Idea To Solve A Huge Problem. No Big Deal."
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 2.27% vs 1.12% (81/3,574 vs 39/3,488 clicks/impressions; z≈3.7). Test 53792e1895df99cf6e00000e, 2014-05-18. Our own two-proportion z-test on the archive data.",
+"explanation": "Clear story of a kid solving a huge problem; the loser lectures the reader about their mindset. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"story",
+"reader_callout"
+],
+"upworthy_test": "53792e1895df99cf6e00000e",
+"id": "t2-3-01",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (00000e)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.3",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "This Beautiful Ham Will Never Make It To Your Dinner Table. The Reason Why Is Just Plain Ridiculous."
+},
+{
+"text": "Meet The Man Who Eats Out Of A Dumpster and Eats Like A King"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 2.61% vs 1.14% (92/3,528 vs 41/3,604 clicks/impressions; z≈4.6). Test 537ae59fbd2aa4b5df000031, 2014-05-21. Our own two-proportion z-test on the archive data.",
+"explanation": "Concrete object + mystery reason ('beautiful ham... reason is ridiculous') beats a flat 'meet the man'. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"curiosity_gap",
+"concrete_image"
+],
+"upworthy_test": "537ae59fbd2aa4b5df000031",
+"id": "t2-3-02",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000031)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.3",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "What It’s Costing Us To Have 1.7 Million People Sleeping In Trucks"
+},
+{
+"text": "Honk If You Love Saving 2 Billion Gallons Of Fuel A Year. Yes, Billion."
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 1.23% vs 0.50% (100/8,147 vs 41/8,200 clicks/impressions; z≈5.0). Test 538506dd80759f316100004d, 2014-06-10. Our own two-proportion z-test on the archive data.",
+"explanation": "A cost framing with one specific number wins over a cutesy 'Honk if...' joke. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"specificity",
+"too_clever"
+],
+"upworthy_test": "538506dd80759f316100004d",
+"id": "t2-3-03",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (00004d)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.3",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "A Kickstarter Project That Could Just Become The Biggest Ever"
+},
+{
+"text": "In Just A Few Years, Kids Will Be Learning To Read On Laptops, iPads, Phones, And Even Their Xbox."
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 1.37% vs 0.51% (86/6,292 vs 32/6,307 clicks/impressions; z≈5.0). Test 538e0896ecc7642ed0000061, 2014-06-03. Our own two-proportion z-test on the archive data.",
+"explanation": "News value and scale ('could become the biggest ever') beats a long prediction sentence. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"news",
+"clarity"
+],
+"upworthy_test": "538e0896ecc7642ed0000061",
+"id": "t2-3-04",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000061)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.3",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "What It Looks Like When We Judge People At First Glance"
+},
+{
+"text": "A Tattooed Veteran And Others Help Us Remember Not To Be So Judgmental"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 3.13% vs 1.19% (98/3,126 vs 37/3,106 clicks/impressions; z≈5.3). Test 53987eab73acb6aa9b00002b, 2014-06-11. Our own two-proportion z-test on the archive data.",
+"explanation": "Universal, visual promise ('what it looks like when we judge') beats a narrower descriptive line. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"concrete_image",
+"self_interest"
+],
+"upworthy_test": "53987eab73acb6aa9b00002b",
+"id": "t2-3-05",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (00002b)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.3",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Sad Pet Adoption Ads Stopped Working, So One Animal Shelter Came Up With A Brilliant New Idea"
+},
+{
+"text": "One Animal Shelter's Dogs Rescue 5000 Office Workers. I'd Wag My Tail If I Had One."
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 2.05% vs 0.64% (86/4,193 vs 26/4,092 clicks/impressions; z≈5.6). Test 539c24359123cd1f5f000008, 2014-06-14. Our own two-proportion z-test on the archive data.",
+"explanation": "A before/after story with a problem ('sad ads stopped working') and a 'brilliant new idea' — classic news + curiosity. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"news",
+"story",
+"curiosity_gap"
+],
+"upworthy_test": "539c24359123cd1f5f000008",
+"id": "t2-3-06",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000008)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.3",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "It Only Takes One Single Minute For This Zany Comedian To Change How You Think About Your Life"
+},
+{
+"text": "Got A Minute? This Zany Comedian Would Like To Free You From Your Fears And Fix Your Life."
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 2.84% vs 1.32% (116/4,078 vs 54/4,096 clicks/impressions; z≈4.8). Test 539cabacddf110e08f000015, 2014-06-14. Our own two-proportion z-test on the archive data.",
+"explanation": "'One single minute' quantifies the effort and the change; the loser overpromises ('fix your life'). (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"specificity",
+"value_equation"
+],
+"upworthy_test": "539cabacddf110e08f000015",
+"id": "t2-3-07",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000015)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.3",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Putting The 'No' Back Into 'Negotiate'"
+},
+{
+"text": "The Genius Way To Never Lose An Argument Again"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 1.41% vs 0.45% (58/4,115 vs 19/4,196 clicks/impressions; z≈4.6). Test 539dda25050be602a8000020, 2014-06-15. Our own two-proportion z-test on the archive data.",
+"explanation": "Big clear benefit ('never lose an argument again') beats a pun ('Putting the No back into Negotiate'). (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"self_interest",
+"too_clever"
+],
+"upworthy_test": "539dda25050be602a8000020",
+"id": "t2-3-08",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000020)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.3",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Think You Hit Your Prime In Your 20’s? Don't Be So Sure."
+},
+{
+"text": "You Might Wanna Ask Yourself These 3 Questions Every Year On Your Birthday"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 2.02% vs 0.84% (62/3,076 vs 26/3,088 clicks/impressions; z≈3.9). Test 53a1cf740a0cb833fa000072, 2014-06-18. Our own two-proportion z-test on the archive data.",
+"explanation": "Specific, usable package (3 questions, every birthday) beats a vague challenge. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"specificity",
+"self_interest"
+],
+"upworthy_test": "53a1cf740a0cb833fa000072",
+"id": "t2-3-09",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000072)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.3",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Watching Those Eyes Smile In The Face Of All This Adversity Is Truly Awesome"
+},
+{
+"text": "3 Little Words Uttered By This Famous Man Might Urge You To Keep On Trying"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 1.57% vs 0.46% (40/2,543 vs 12/2,632 clicks/impressions; z≈4.0). Test 53a26891b5839f7fc5000025, 2014-06-19. Our own two-proportion z-test on the archive data.",
+"explanation": "A specific count ('3 little words') + famous man creates a gap; the loser is generic praise. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"specificity",
+"curiosity_gap"
+],
+"upworthy_test": "53a26891b5839f7fc5000025",
+"id": "t2-3-10",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000025)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.3",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Sweet Fiery Pantalones Of Rocker Sauce, Looks Can Be Deceiving"
+},
+{
+"text": "When You See What This Guy Can Do, You'll Be Saying 'Looks Can Be Deceiving'"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 3.32% vs 1.32% (85/2,557 vs 36/2,732 clicks/impressions; z≈4.9). Test 521b59ca8ccc76855300820f, 2013-08-26. Our own two-proportion z-test on the archive data.",
+"explanation": "Clear promise of a reveal you'll experience ('when you see what this guy can do'); the loser is nonsense slang ('Sweet Fiery Pantalones Of Rocker Sauce'). (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"too_clever",
+"clarity",
+"curiosity_gap"
+],
+"upworthy_test": "521b59ca8ccc76855300820f",
+"id": "t2-3-11",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (00820f)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.3",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "How Cell Phones Can Actually Solve A Bucket Load Of Problems"
+},
+{
+"text": "I Didn't Know My Cell Phone Could Do All These Things. Did You?"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 4.14% vs 1.65% (103/2,490 vs 47/2,851 clicks/impressions; z≈5.5). Test 52202822fd8d6cc571001af7, 2013-08-30. Our own two-proportion z-test on the archive data.",
+"explanation": "Personal discovery + a direct question to the reader ('Did you?') — self-interest; the loser is vague ('a bucket load of problems'). (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"self_interest",
+"curiosity_gap"
+],
+"upworthy_test": "52202822fd8d6cc571001af7",
+"id": "t2-3-12",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (001af7)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.3",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Can Fast Food Really Be Good For The Soul? These Guys Think So."
+},
+{
+"text": "Fast Food Usually Grosses Me Out. But This Video Changed That For 2 Minutes And 10 Seconds."
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 2.28% vs 0.68% (111/4,871 vs 37/5,453 clicks/impressions; z≈6.8). Test 528187a845ccfa1b10000d68, 2013-11-12. Our own two-proportion z-test on the archive data.",
+"explanation": "Honest admission + oddly specific time ('2 minutes and 10 seconds') beats a vague rhetorical question. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"specificity",
+"story"
+],
+"upworthy_test": "528187a845ccfa1b10000d68",
+"id": "t2-3-13",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000d68)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.3",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Finally, Scientific Proof As To Why You Love Upworthy So Much ;)"
+},
+{
+"text": "Turns Out, Happiness Is Sorta Like A Muscle. And Here's How You Can Exercise It."
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 1.20% vs 0.38% (75/6,251 vs 26/6,772 clicks/impressions; z≈5.3). Test 52a8d50c5d65a802ff00019f, 2013-12-11. Our own two-proportion z-test on the archive data.",
+"explanation": "Useful benefit with a 'how-to' ('here's how you can exercise it'); the loser is self-promotional ('why you love Upworthy'). (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"self_interest",
+"service"
+],
+"upworthy_test": "52a8d50c5d65a802ff00019f",
+"id": "t2-3-14",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (00019f)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.3",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "You Know You Take Zillions Of Photos With Your Cellphone Anyway; Why Not Do This With Them?"
+},
+{
+"text": "One Photo A Day Can Keep The Doctor Away? Maybe, Just Maybe."
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 0.97% vs 0.41% (57/5,853 vs 23/5,622 clicks/impressions; z≈3.6). Test 52aac89bddc22f097800532f, 2013-12-13. Our own two-proportion z-test on the archive data.",
+"explanation": "Speaks to a habit the reader already has ('you take zillions of photos anyway') and offers a use; the loser is a pun on a proverb. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"reader_callout",
+"too_clever"
+],
+"upworthy_test": "52aac89bddc22f097800532f",
+"id": "t2-3-15",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (00532f)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.4",
+"prompt": "Laser clinic, cold audience 25–45 in Stockholm. Which first line of primary text is stronger?",
+"options": [
+{
+"text": "Laser hair removal on Södermalm: free patch test + consultation before you pay anything."
+},
+{
+"text": "We are a modern clinic with passionate staff and the latest technology."
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "B leads with the service, the place, and a free first step (Hopkins: sample; Hormozi: lower risk). A is about the clinic, not the reader, and full of claims anyone can make.",
+"principles": [
+"specificity",
+"sampling",
+"reader_callout"
+],
+"id": "t2-4-01",
+"track": "2",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan",
+"source_url": "https://www.loc.gov/item/23009362/",
+"title": "Laser clinic, cold audience 25–45 in Stockholm. Which first line…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.4",
+"prompt": "Dental clinic. Which opening is stronger?",
+"options": [
+{
+"text": "Smile brighter with our amazing dental services!"
+},
+{
+"text": "Afraid of the dentist? Our calm 'first visit' is 30 minutes of talking and X-rays only — no drilling."
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "A names a real feeling (dental anxiety) without shaming, then gives a specific, reassuring fact. B is generic and the 'smile brighter' claim says nothing.",
+"principles": [
+"specificity",
+"reason_why",
+"emotion"
+],
+"id": "t2-4-02",
+"track": "2",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan",
+"source_url": "https://www.loc.gov/item/23009362/",
+"title": "Dental clinic. Which opening is stronger?",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.4",
+"prompt": "Physio clinic. Which version respects Meta's personal-attributes rule?",
+"options": [
+{
+"text": "Back pain that keeps coming back? Our physios start with a 45-minute assessment and a written plan."
+},
+{
+"text": "Do YOU have chronic back pain? We know you're suffering."
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "A asserts knowledge of the viewer's health ('you have... you're suffering') — a personal-attributes risk. B describes a common situation and the service.",
+"principles": [
+"policy",
+"specificity"
+],
+"id": "t2-4-03",
+"track": "2",
+"source_name": "Meta Transparency Center, Advertising Standards: Health and Wellness",
+"source_url": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/",
+"title": "Physio clinic. Which version respects Meta's personal-attributes…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.4",
+"prompt": "Aesthetic clinic, skin treatments. Which is policy-safer AND more persuasive?",
+"options": [
+{
+"text": "Skin consultation with a licensed nurse: we map your skin and explain the options — and the realistic timeline — before any treatment."
+},
+{
+"text": "Hate your wrinkles? Look 10 years younger in 7 days!"
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "A attacks appearance and makes an unqualified timed promise (Meta health policy). B sells certainty and expertise (likelihood of achievement), not insecurity.",
+"principles": [
+"policy",
+"value_equation",
+"proof"
+],
+"id": "t2-4-04",
+"track": "2",
+"source_name": "Meta Transparency Center, Advertising Standards: Health and Wellness",
+"source_url": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/",
+"title": "Aesthetic clinic, skin treatments. Which is policy-safer AND mor…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.4",
+"prompt": "Which proof line is stronger for a dental implant ad?",
+"options": [
+{
+"text": "Thousands of happy patients!"
+},
+{
+"text": "Dr. Lindqvist has placed implants since 2011. Read 214 Google reviews (4.8★) before you book."
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Specific, checkable proof (a person, a year, a number of reviews you can verify) beats vague social proof. Never invent numbers — use the clinic's real data.",
+"principles": [
+"proof",
+"specificity"
+],
+"id": "t2-4-05",
+"track": "2",
+"source_name": "Campaign, excerpt from Ogilvy's 'Confessions of an Advertising Man'",
+"source_url": "https://www.campaignlive.co.uk/article/excerpt-confessions-advertising-man/996114",
+"title": "Which proof line is stronger for a dental implant ad?",
+"speed": true
+},
+{
+"type": "pick",
+"module": "2.4",
+"prompt": "Lead ad CTA for a free consultation. Which closing line is clearer?",
+"options": [
+{
+"text": "Tap 'Book now', pick a time that suits you, and you'll get an SMS confirmation. Free, no obligation."
+},
+{
+"text": "Contact us for more information about our wide range of services."
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "A tells exactly what happens next and removes risk. B gives no reason and no clear next step.",
+"principles": [
+"cta",
+"risk_reversal"
+],
+"id": "t2-4-06",
+"track": "2",
+"source_name": "Michael Aagaard, 'How to Design Call to Action Buttons that Convert' (Unbounce)",
+"source_url": "https://unbounce.com/conversion-rate-optimization/design-call-to-action-buttons/",
+"title": "Lead ad CTA for a free consultation. Which closing line is clear…",
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "2.4",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "Primary text: \"Vi på Klinik Söder brinner för din hälsa! Välkommen till oss. Vi har öppet alla vardagar.\" (We at Klinik Söder are passionate about your health! Welcome. We're open weekdays.)",
+"answer": "bad",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "About the clinic, no reader callout, no specific service, no offer, no reason to act now. Hopkins would call it a platitude.",
+"principles": [
+"reader_callout",
+"offer",
+"specificity"
+],
+"id": "t2-4-07",
+"track": "2",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan",
+"source_url": "https://www.loc.gov/item/23009362/",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": [],
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "2.4",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "Primary text: \"Tandblekning hos tandläkare – inte i ett köpcentrum. Först en kostnadsfri kontroll av emaljen (15 min), sedan får du ett fast pris. Boka en tid som passar dig 👇\" (Teeth whitening at a dentist — not in a mall. First a free 15-min enamel check, then a fixed price. Book a time below.)",
+"answer": "good",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Contrast with the alternative (mall whitening), a specific free first step, a fixed price (reduces uncertainty), one CTA. No appearance-shaming.",
+"principles": [
+"sampling",
+"specificity",
+"cta",
+"sophistication"
+],
+"id": "t2-4-08",
+"track": "2",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan",
+"source_url": "https://www.loc.gov/item/23009362/",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": []
+},
+{
+"type": "goodbad",
+"module": "2.4",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "Primary text: \"Tired of looking old and tired? Our miracle treatment erases 10 years instantly!\"",
+"answer": "bad",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Statement of inferiority about appearance + unqualified instant result promise = Meta policy risk, and the 'miracle' claim is unbelievable.",
+"principles": [
+"policy"
+],
+"id": "t2-4-09",
+"track": "2",
+"source_name": "Meta Transparency Center, Advertising Standards: Health and Wellness",
+"source_url": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": [],
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "2.4",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "Primary text: \"Knee pain on stairs? Our physios in Solna test 6 things in your first 45-min visit and give you a written home plan. New patients this month: assessment 495 kr.\"",
+"answer": "good",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Situation-based callout (not a personal-attribute claim), specific process, specific price, local. Strong reason-why.",
+"principles": [
+"specificity",
+"reason_why",
+"offer"
+],
+"id": "t2-4-10",
+"track": "2",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan",
+"source_url": "https://www.loc.gov/item/23009362/",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": [],
+"speed": true
+},
+{
+"type": "missing",
+"module": "2.4",
+"prompt": "What's missing or wrong? Tick everything that applies, then reveal.",
+"artifact": "Primary text: \"Welcome to Stockholm Smile Clinic! We offer cosmetic dentistry with the latest techniques. Contact us today!\"",
+"answer": [
+"no_offer",
+"no_number",
+"no_proof",
+"weak_hook"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "No offer (what do I get?), no specific fact, no proof, and the first line ('Welcome to…') is not a hook. The CTA exists but is weak.",
+"principles": [
+"offer",
+"specificity",
+"hook"
+],
+"id": "t2-4-11",
+"track": "2",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan",
+"source_url": "https://www.loc.gov/item/23009362/",
+"title": "What's missing or wrong? Tick everything that applies, then reve…",
+"options": []
+},
+{
+"type": "missing",
+"module": "2.4",
+"prompt": "What's missing or wrong? Tick everything that applies, then reveal.",
+"artifact": "Primary text: \"🔥🔥 MEGA DEAL 🔥🔥 Botox 50% off!!! Only today!!! Be beautiful again!!!\"",
+"answer": [
+"policy_risk",
+"hype",
+"no_proof"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "'Be beautiful again' implies the reader isn't (negative self-perception). Hype punctuation and fake-feeling urgency hurt trust; no proof of who performs the treatment (licensed?).",
+"principles": [
+"policy",
+"proof"
+],
+"id": "t2-4-12",
+"track": "2",
+"source_name": "Meta Transparency Center, Advertising Standards: Health and Wellness",
+"source_url": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/",
+"title": "What's missing or wrong? Tick everything that applies, then reve…",
+"options": []
+},
+{
+"type": "missing",
+"module": "2.4",
+"prompt": "What's missing or wrong? Tick everything that applies, then reveal.",
+"artifact": "Primary text: \"Unlock the synergy of holistic wellness through our curated journey of transformative modalities.\"",
+"answer": [
+"too_clever",
+"wrong_audience",
+"no_offer",
+"no_cta"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Jargon — nobody knows what you sell. No audience, no offer, no CTA. Clarity beats cleverness (Upworthy data repeatedly punishes puns and abstractions).",
+"principles": [
+"clarity",
+"too_clever"
+],
+"id": "t2-4-13",
+"track": "2",
+"source_name": "Upworthy Research Archive site",
+"source_url": "https://upworthy.natematias.com/",
+"title": "What's missing or wrong? Tick everything that applies, then reve…",
+"options": []
+},
+{
+"type": "missing",
+"module": "2.4",
+"prompt": "What's missing or wrong? Tick everything that applies, then reveal.",
+"artifact": "Primary text (12 lines): a long story about the clinic's founding in 1998, the founder's education, the interior design, the coffee machine… and at the very end: 'PS: we do laser'.",
+"answer": [
+"too_long",
+"weak_hook",
+"no_offer"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Long copy CAN sell (Ogilvy) — but only if every line is about the reader. Here the service and offer are buried at the end, and the first line doesn't hook.",
+"principles": [
+"headline_80",
+"hook"
+],
+"id": "t2-4-14",
+"track": "2",
+"source_name": "Campaign, excerpt from Ogilvy's 'Confessions of an Advertising Man'",
+"source_url": "https://www.campaignlive.co.uk/article/excerpt-confessions-advertising-man/996114",
+"title": "What's missing or wrong? Tick everything that applies, then reve…",
+"options": []
+},
+{
+"type": "write",
+"module": "2.4",
+"prompt": "BRIEF: Write the first 3 lines of Meta primary text for a laser hair removal clinic on Södermalm, Stockholm. Cold audience, 20–45. Offer: free patch test + consultation. Must be Meta-policy-safe.",
+"model_answers": [
+"Laser hair removal on Södermalm — with a free patch test first.\nYou'll meet a licensed nurse, test a small area, and get a fixed price before you decide.\nPick a time below 👇",
+"Considering laser hair removal? Start with a free 15-minute patch test on Södermalm.\nNo package to buy at the visit — just the test, a plan, and a clear price.\nTap 'Book now' to choose a time.",
+"(sv) Funderar du på laserhårborttagning? Börja med ett kostnadsfritt testskott på Södermalm.\nLegitimerad sjuksköterska, fast pris innan du bestämmer dig.\nVälj en tid nedan 👇"
+],
+"steps": [
+"Start with WHAT + WHERE (service + Södermalm) so the right reader self-selects.",
+"Put the free first step in line 1 (sample / risk reversal).",
+"Add one specific trust fact (licensed nurse, fixed price).",
+"No body-shaming, no timed promise ('smooth in 2 weeks').",
+"End with one CTA that says what happens next."
+],
+"checklist": [
+"Service and location in line 1",
+"A free/low-risk first step",
+"At least one specific fact",
+"No negative self-perception or timed promise",
+"Exactly one clear CTA",
+"Readable in under 10 seconds"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"reader_callout",
+"sampling",
+"policy",
+"cta"
+],
+"id": "t2-4-15",
+"track": "2",
+"source_name": "Meta Transparency Center, Advertising Standards: Health and Wellness",
+"source_url": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/",
+"title": "BRIEF: Write the first 3 lines of Meta primary text for a laser …",
+"options": [],
+"answer": null,
+"kind": "primary",
+"lang": "en"
+},
+{
+"type": "write",
+"module": "2.4",
+"prompt": "BRIEF: Rewrite this weak dental ad so it would pass Hopkins' test (specific, reason-why): \"We are the best dentist in town. Great service, modern equipment. Book today!\"",
+"model_answers": [
+"Afraid of the dentist? Our 'first visit' at Tandkliniken Vasastan is 30 minutes: we talk, take X-rays, and show you the plan on screen. No treatment that day. Book a time that suits you.",
+"New in Vasastan? Dr. Ek has worked here since 2009. Your first check-up includes X-rays and a written price plan — so nothing is a surprise. Book online in 1 minute."
+],
+"steps": [
+"Delete every claim anyone could make ('best', 'great', 'modern').",
+"Replace with one specific fact the reader can check (years, process, what's included).",
+"Give the reason the reader should believe/act.",
+"Lower the risk of the first step.",
+"Keep one CTA."
+],
+"checklist": [
+"No superlatives without proof",
+"At least two specific facts",
+"A reason-why",
+"Low-risk first step",
+"One CTA"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"specificity",
+"reason_why"
+],
+"id": "t2-4-16",
+"track": "2",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan",
+"source_url": "https://www.loc.gov/item/23009362/",
+"title": "BRIEF: Rewrite this weak dental ad so it would pass Hopkins' tes…",
+"options": [],
+"answer": null,
+"kind": "primary",
+"lang": "en"
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "What A Cheery 13-Year-Old Girl Said To Matt Damon Devastated Him"
+},
+{
+"text": "Find Out How A 13-Year-Old Girl Gave Matt Damon Perspective"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 8.41% vs 1.10% (304/3,615 vs 40/3,629 clicks/impressions; z≈14.6). Test 530e906bff24f84145000005, 2014-02-27. Our own two-proportion z-test on the archive data.",
+"explanation": "A strong emotion word ('devastated') promises a bigger payoff than the flat 'gave perspective'. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"emotion",
+"curiosity_gap"
+],
+"upworthy_test": "530e906bff24f84145000005",
+"speed": true,
+"id": "t2-5-01",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000005)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "A Hilarious Note About Orangutans That Might Just Hit Too Close To Home"
+},
+{
+"text": "Real Talk: Maybe This Orangutan Wouldn't Look So Sad If We Would Just Stop Wrecking Her Home"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 1.62% vs 0.17% (75/4,633 vs 8/4,602 clicks/impressions; z≈7.4). Test 5332fe040967e669a5000008, 2014-03-26. Our own two-proportion z-test on the archive data.",
+"explanation": "'Hilarious' + 'hits close to home' promises fun and relevance; the loser lectures the reader ('if we would just stop'). (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"emotion",
+"clarity"
+],
+"upworthy_test": "5332fe040967e669a5000008",
+"speed": true,
+"id": "t2-5-02",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000008)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "There’s A Very Important Story Behind The Food You Put On Your Table. Want To Know More?"
+},
+{
+"text": "I Wouldn't Eat That If I Were You... It's Not Poison Or Anything, It's Just..."
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 2.10% vs 0.49% (104/4,961 vs 24/4,918 clicks/impressions; z≈7.1). Test 5330659aca310643da000066, 2014-03-24. Our own two-proportion z-test on the archive data.",
+"explanation": "A spoken, intriguing warning beats a generic 'important story… want to know more?'. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"curiosity_gap",
+"hook"
+],
+"upworthy_test": "5330659aca310643da000066",
+"speed": true,
+"id": "t2-5-03",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000066)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "When These People Are There For Their Country, Who Will Be There For Their Dogs?"
+},
+{
+"text": "Seeing What They Do To Dogs When Their Owners Aren't Around Totally Made My Day"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 2.27% vs 0.33% (70/3,086 vs 10/3,055 clicks/impressions; z≈6.7). Test 5458fec6b8328a51e200002d, 2014-11-05. Our own two-proportion z-test on the archive data.",
+"explanation": "'Totally made my day' promises a feel-good payoff; the loser asks a heavy rhetorical question. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"emotion"
+],
+"upworthy_test": "5458fec6b8328a51e200002d",
+"speed": true,
+"id": "t2-5-04",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (00002d)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Did These Words Really Come Out Of Conan's Mouth?"
+},
+{
+"text": "Watch This. Amazing Things Will Happen. Also, Share This."
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 7.49% vs 4.64% (450/6,011 vs 289/6,230 clicks/impressions; z≈6.6). Test 5231ec1bb814110dae00a5f2, 2013-09-12. Our own two-proportion z-test on the archive data.",
+"explanation": "A specific person (Conan) + a surprise beats a command with no content ('Watch this. Amazing things will happen'). (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"specificity",
+"curiosity_gap"
+],
+"upworthy_test": "5231ec1bb814110dae00a5f2",
+"speed": true,
+"id": "t2-5-05",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (00a5f2)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "When Her Kid’s Started Giving Up On Life This Teacher Changed Her Curriculum"
+},
+{
+"text": "Pretty Cool If Your Resume Can Include The Title, 'Life Changer'"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 3.61% vs 1.05% (106/2,936 vs 31/2,948 clicks/impressions; z≈6.5). Test 5228be6e7009c38e7700b82a, 2013-09-05. Our own two-proportion z-test on the archive data.",
+"explanation": "A mini-story (problem → action) beats a vague label ('Life Changer'). (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"story",
+"concrete_image"
+],
+"upworthy_test": "5228be6e7009c38e7700b82a",
+"speed": true,
+"id": "t2-5-06",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (00b82a)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Rosario Dawson And I Have Something Very Important In Common"
+},
+{
+"text": "This Famous Actress Doesn't HAVE To Do This, But I'm So Glad She Is"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 4.16% vs 1.46% (128/3,077 vs 44/3,024 clicks/impressions; z≈6.4). Test 5143607d220cb80002000949, 2013-02-11. Our own two-proportion z-test on the archive data.",
+"explanation": "Curiosity about what the actress is doing beat a vague 'something in common'. (Borderline — both are vague.) (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"curiosity_gap"
+],
+"upworthy_test": "5143607d220cb80002000949",
+"speed": true,
+"id": "t2-5-07",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000949)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "He's Funny But He's Right - Why A Seemingly Innocent Piece Of Clothing Needs A New Name"
+},
+{
+"text": "Why Our Undershirts Needs A Name Change, Immediately"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 3.23% vs 1.71% (264/8,175 vs 138/8,073 clicks/impressions; z≈6.2). Test 533a186ba0c400d7d2000006, 2014-04-01. Our own two-proportion z-test on the archive data.",
+"explanation": "'He's funny but he's right' sets up entertainment + a point; the loser is a flat statement. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"curiosity_gap",
+"emotion"
+],
+"upworthy_test": "533a186ba0c400d7d2000006",
+"speed": true,
+"id": "t2-5-08",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000006)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "With People Like Stormie, The Future Will Be Bright"
+},
+{
+"text": "It Takes Some People A Lifetime To Go Through All That She Went Through By The End Of Freshman Year"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 2.57% vs 0.88% (111/4,312 vs 38/4,337 clicks/impressions; z≈6.1). Test 5243e968eeb84f3886004311, 2013-09-26. Our own two-proportion z-test on the archive data.",
+"explanation": "A concrete, dramatic comparison ('a lifetime… by the end of freshman year') beats a vague compliment. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"concrete_image",
+"story"
+],
+"upworthy_test": "5243e968eeb84f3886004311",
+"speed": true,
+"id": "t2-5-09",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (004311)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "10 Tagged Baby Turtles Might Help Save The Future Of Their Species. But They Need Your Help, Too."
+},
+{
+"text": "A Bunch Of Baby Sea Turtles Are About To Steal Your Heart. Guaranteed."
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 1.76% vs 0.36% (69/3,925 vs 14/3,850 clicks/impressions; z≈6.0). Test 54538df05bc2317d29000042, 2014-10-31. Our own two-proportion z-test on the archive data.",
+"explanation": "Pure emotional promise ('steal your heart') beat the long cause-led ask. On a feed, the reward comes before the cause. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"emotion",
+"hook"
+],
+"upworthy_test": "54538df05bc2317d29000042",
+"speed": true,
+"id": "t2-5-10",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000042)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "A Little Kid Talks To Paris Hilton... Wait, Where Are You Going? I Promise Its A Good Thing."
+},
+{
+"text": "Kids Are Using @justinbeiber To Learn English. Don't Worry, It's A Good Thing!"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 2.42% vs 0.52% (69/2,852 vs 14/2,710 clicks/impressions; z≈5.9). Test 51df7a7e76b2975f83002924, 2013-07-12. Our own two-proportion z-test on the archive data.",
+"explanation": "A playful, conversational voice that anticipates the reader's reaction beat the explanation. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"hook",
+"curiosity_gap"
+],
+"upworthy_test": "51df7a7e76b2975f83002924",
+"speed": true,
+"id": "t2-5-11",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (002924)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "The Wizard of Oz Will Never Be The Same After A Dad Takes You And His Son Down The Yellow Brick Road"
+},
+{
+"text": "A Dad Knows For A Fact That The Best Role Model For His Son Is Dorothy From The Wizard Of Oz"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 2.20% vs 0.60% (85/3,869 vs 23/3,825 clicks/impressions; z≈5.9). Test 5390a8538a590eea0600000e, 2014-06-05. Our own two-proportion z-test on the archive data.",
+"explanation": "'Will never be the same' + a vivid scene beat a flat claim. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"concrete_image",
+"curiosity_gap"
+],
+"upworthy_test": "5390a8538a590eea0600000e",
+"speed": true,
+"id": "t2-5-12",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (00000e)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "A Beautiful Reason You'd Might Risk Your Life For People Whose You Don't Know"
+},
+{
+"text": "A Beautiful, Haunting Poem That Could Change The Way You Look At Your Whole Existence"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 1.99% vs 0.65% (102/5,113 vs 33/5,040 clicks/impressions; z≈5.9). Test 53fa5cc5cc8076c5fe000015, 2014-08-24. Our own two-proportion z-test on the archive data.",
+"explanation": "A promise of a personal transformation ('change the way you look at…') beat a confusing, ungrammatical line. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"clarity",
+"self_interest"
+],
+"upworthy_test": "53fa5cc5cc8076c5fe000015",
+"speed": true,
+"id": "t2-5-13",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000015)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "I'd Compare It To A 13 Year-Long Reality Show. But This Is Actually, You Know, Real. And Very Good."
+},
+{
+"text": "For 13 Years These Boys' Lives Were Filmed. The Result Is Better Than Any Reality Show I've Seen."
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 3.24% vs 1.14% (110/3,393 vs 37/3,242 clicks/impressions; z≈5.8). Test 52616360060a550711009b0d, 2013-10-18. Our own two-proportion z-test on the archive data.",
+"explanation": "Specific number + comparison to something familiar (reality shows) told the reader exactly what they get. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"specificity",
+"clarity"
+],
+"upworthy_test": "52616360060a550711009b0d",
+"speed": true,
+"id": "t2-5-14",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (009b0d)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "She Was In Love. He Was A Dream Dog. Then The Trouble Started."
+},
+{
+"text": "10 Years Ago She Fell In Love. He Was Sweet, Kind, And Gorgeous. Then Things Went Terribly Wrong."
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 1.85% vs 0.47% (77/4,155 vs 19/4,064 clicks/impressions; z≈5.8). Test 53dac82ace6a426216000023, 2014-07-31. Our own two-proportion z-test on the archive data.",
+"explanation": "A specific time ('10 years ago') and a twist; the loser gives away it's a dog story. Story structure in one line. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"story",
+"specificity"
+],
+"upworthy_test": "53dac82ace6a426216000023",
+"speed": true,
+"id": "t2-5-15",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000023)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Forget Willpower. Here's A Mind Trick That Can Stop You From Sabotaging Your Future."
+},
+{
+"text": "You Know That Thing That Stands In The Way Of Your Dreams? Here's How To Kick It’s Butt."
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 1.48% vs 0.29% (59/3,983 vs 12/4,165 clicks/impressions; z≈5.8). Test 53f253aaf1592f712e000017, 2014-08-18. Our own two-proportion z-test on the archive data.",
+"explanation": "'Forget willpower' challenges a belief and promises a mechanism ('a mind trick') — Schwartz's new-mechanism move. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"sophistication",
+"self_interest"
+],
+"upworthy_test": "53f253aaf1592f712e000017",
+"speed": true,
+"id": "t2-5-16",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000017)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "The First 1 Minute And 20 Seconds Are So Hard To Watch, But The End Is Just Too Important"
+},
+{
+"text": "The Last 90 Seconds Tell You Everything You Need To Know About How To Rescue Them"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 1.87% vs 0.63% (94/5,039 vs 33/5,272 clicks/impressions; z≈5.7). Test 54329357ae8713d9fc000011, 2014-10-06. Our own two-proportion z-test on the archive data.",
+"explanation": "Honest warning + payoff ('hard to watch, but the end is too important') beat a generic promise. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"curiosity_gap",
+"emotion"
+],
+"upworthy_test": "54329357ae8713d9fc000011",
+"speed": true,
+"id": "t2-5-17",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000011)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Is There Any Better Way To Face Your Greatest Fears Than With Your Favorite Pop Star By Your Side?"
+},
+{
+"text": "This Song Will Get Stuck In Your Head. And With A Music Video Like This? That's Not A Bad Thing."
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 1.13% vs 0.32% (81/7,194 vs 23/7,097 clicks/impressions; z≈5.6). Test 5451a9f34b3f9786f8000001, 2014-10-30. Our own two-proportion z-test on the archive data.",
+"explanation": "A clear, simple promise about the song beat a long rhetorical question. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"clarity"
+],
+"upworthy_test": "5451a9f34b3f9786f8000001",
+"speed": true,
+"id": "t2-5-18",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000001)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Young Teen Trains Hard. Little Brother In Danger. Where's The Right Hook?"
+},
+{
+"text": "I Was As Shocked As That Cute Little Boy At The Crazy Direction This Ad Took At The End"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 1.42% vs 0.59% (117/8,219 vs 52/8,840 clicks/impressions; z≈5.5). Test 52a16b68f478ef23fd00006b, 2013-12-06. Our own two-proportion z-test on the archive data.",
+"explanation": "A personal reaction + a twist at the end beat a cryptic 3-fragment teaser. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"curiosity_gap",
+"story"
+],
+"upworthy_test": "52a16b68f478ef23fd00006b",
+"speed": true,
+"id": "t2-5-19",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (00006b)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "You Shouldn't Text And Drive For The Same Reason You Shouldn't Zone Out While A Lion Eats Your Arm"
+},
+{
+"text": "A Short Film That Shows You How Your Brain Breaks When You Do Something You're Not Supposed To Do"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 3.27% vs 1.14% (96/2,933 vs 33/2,884 clicks/impressions; z≈5.5). Test 52d6b780e0a8cd9e23002556, 2014-01-15. Our own two-proportion z-test on the archive data.",
+"explanation": "'Shows you how your brain breaks' = a clear self-interest promise; the loser's metaphor (lion) is too clever. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"self_interest",
+"too_clever"
+],
+"upworthy_test": "52d6b780e0a8cd9e23002556",
+"speed": true,
+"id": "t2-5-20",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (002556)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "A Pitbull Hid Her Newborns Behind A Tree, That's When The Whole Neighborhood Got Involved"
+},
+{
+"text": "Dozens Of A-Listers Are Hosting A Holiday Special, But Here's A Sneak Peak Of The Real Stars"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 1.52% vs 0.36% (66/4,339 vs 15/4,201 clicks/impressions; z≈5.5). Test 54755f0d32613100242c0000, 2014-11-26. Our own two-proportion z-test on the archive data.",
+"explanation": "A concrete mini-story (pitbull, newborns, neighbourhood) beat a vague celebrity tease. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"story",
+"concrete_image"
+],
+"upworthy_test": "54755f0d32613100242c0000",
+"speed": true,
+"id": "t2-5-21",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (2c0000)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "If A Photographer Asked You To Get This Close To A Stranger In The Name Of Art What Would You Say?"
+},
+{
+"text": "A Photographer Convinces Strangers To Do Something Really Odd, And They Totally Love It"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 2.61% vs 1.40% (197/7,548 vs 108/7,704 clicks/impressions; z≈5.3). Test 525f7fd9580e8df9e90043ee, 2013-10-17. Our own two-proportion z-test on the archive data.",
+"explanation": "Describes the outcome ('they totally love it'); the loser asks the reader to imagine an awkward question. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"concrete_image",
+"emotion"
+],
+"upworthy_test": "525f7fd9580e8df9e90043ee",
+"speed": true,
+"id": "t2-5-22",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (0043ee)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Something's Not Quite Right With These H&M Posters"
+},
+{
+"text": "I Think We'd All Like Having These Stickers On All Photoshopped Posters"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 5.57% vs 2.77% (158/2,835 vs 78/2,817 clicks/impressions; z≈5.3). Test 52e6770068476eb3aa00000e, 2014-01-27. Our own two-proportion z-test on the archive data.",
+"explanation": "Short, specific (H&M) and intriguing beat a long opinion. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"brevity",
+"curiosity_gap"
+],
+"upworthy_test": "52e6770068476eb3aa00000e",
+"speed": true,
+"id": "t2-5-23",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (00000e)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Chimps Are Almost Human, So Why Don't They Have Rights?"
+},
+{
+"text": "Seeing A Chimpanzee Mourn His Best Friend Makes Me Believe Chimps Are Like People"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 2.51% vs 0.69% (66/2,627 vs 18/2,625 clicks/impressions; z≈5.3). Test 537b5babbd2aa46497000060, 2014-05-20. Our own two-proportion z-test on the archive data.",
+"explanation": "A specific emotional scene (mourning a friend) beat an abstract argument about rights. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"concrete_image",
+"emotion"
+],
+"upworthy_test": "537b5babbd2aa46497000060",
+"speed": true,
+"id": "t2-5-24",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000060)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Watch This Non-Celebrity Bring A Room Full Of World Leaders To A Standing Ovation"
+},
+{
+"text": "Incredible Young Woman Pleads To World Leaders To Save Her Home"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 1.99% vs 0.73% (93/4,662 vs 34/4,689 clicks/impressions; z≈5.3). Test 5424287c996e90efa6000036, 2014-09-25. Our own two-proportion z-test on the archive data.",
+"explanation": "Underdog drama ('non-celebrity… standing ovation') beat a generic description. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"story",
+"proof"
+],
+"upworthy_test": "5424287c996e90efa6000036",
+"speed": true,
+"id": "t2-5-25",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000036)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "He’s Worked At Pizza Hut For 8 Years. Guess How Much He Makes."
+},
+{
+"text": "An Interview About Fast Food That’ll Make You Think Twice About The Free Market"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 5.62% vs 2.72% (159/2,831 vs 66/2,426 clicks/impressions; z≈5.2). Test 521a6fe0e2b703ad9600cbf3, 2013-08-25. Our own two-proportion z-test on the archive data.",
+"explanation": "A specific fact + a guess for the reader ('Guess how much he makes') beat an abstract topic (the free market). (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"specificity",
+"curiosity_gap"
+],
+"upworthy_test": "521a6fe0e2b703ad9600cbf3",
+"speed": true,
+"id": "t2-5-26",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (00cbf3)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "An Extremely Funny Thing Happens When Some Teachers Try (And Fail) To Americanize A Child"
+},
+{
+"text": "Teachers Try To Americanize A Mexican Child's Name And They Get A Hilarious Result (To Us, At Least)"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 3.82% vs 1.97% (171/4,477 vs 89/4,523 clicks/impressions; z≈5.2). Test 53169523a16f78f2a000003e, 2014-03-05. Our own two-proportion z-test on the archive data.",
+"explanation": "Clearer setup and outcome ('hilarious result') beat the vaguer 'extremely funny thing'. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"clarity"
+],
+"upworthy_test": "53169523a16f78f2a000003e",
+"speed": true,
+"id": "t2-5-27",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (00003e)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "A Lovely Young Lady Sings Her Heart Out About Autism"
+},
+{
+"text": "This Girl Wrote New Lyrics For 'Let It Go,' And They Are Quite Stunning"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 1.92% vs 0.68% (86/4,490 vs 30/4,424 clicks/impressions; z≈5.2). Test 539a069a8a06400fe3000016, 2014-06-12. Our own two-proportion z-test on the archive data.",
+"explanation": "Recognisable reference ('Let It Go') beat a vague description. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"concrete_image",
+"specificity"
+],
+"upworthy_test": "539a069a8a06400fe3000016",
+"speed": true,
+"id": "t2-5-28",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000016)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Surfing Is Awesome. Surfing In These Waves? Way Less Than Awesome."
+},
+{
+"text": "One Of The Grossest Surf Videos I've Ever Seen For Sure"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 1.90% vs 0.46% (58/3,059 vs 14/3,071 clicks/impressions; z≈5.2). Test 543b55c6b47833584a000034, 2014-10-13. Our own two-proportion z-test on the archive data.",
+"explanation": "A strong, odd personal claim ('grossest surf video') beat a mild comparison. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"hook",
+"emotion"
+],
+"upworthy_test": "543b55c6b47833584a000034",
+"speed": true,
+"id": "t2-5-29",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000034)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "2.5",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Why This Boat Is So Important To A Whole Community — No, They're Not Pirates"
+},
+{
+"text": "One Of The Most Inspiring Things I've Ever Seen Happen To A Place That Some Won't Even Visit"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 0.71% vs 0.08% (36/5,043 vs 4/5,127 clicks/impressions; z≈5.1). Test 5400adb3f27b21d27d000052, 2014-08-29. Our own two-proportion z-test on the archive data.",
+"explanation": "Superlative personal reaction + curiosity beat a confusing denial ('No, they're not pirates'). (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"curiosity_gap",
+"clarity"
+],
+"upworthy_test": "5400adb3f27b21d27d000052",
+"speed": true,
+"id": "t2-5-30",
+"track": "2",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000052)",
+"v": 2
+},
+{
+"type": "pick",
+"module": "3.1",
+"prompt": "Obama 2008 splash page (sign-up rate). Which media won?",
+"options": [
+{
+"text": "A short video montage of Obama's speeches ('Sam's Video') — the staff favourite"
+},
+{
+"text": "A still black-and-white photo of the Obama family"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "All 3 videos (5.95–7.76% sign-up) lost to all 3 images (8.54–9.66%). ~310,382 visitors, full-factorial test.",
+"explanation": "The team expected video to win. A calm, clear photo let people read the button and act. Lesson: the 'impressive' creative is not always the converting one — test it. On Meta, a strong still image can beat a video for a direct-response goal.",
+"principles": [
+"test_everything",
+"contrast"
+],
+"id": "t3-1-01",
+"track": "3",
+"source_name": "Dan Siroker, 'How Obama Raised $60 Million by Running a Simple Experiment'",
+"source_url": "https://medium.com/siroker/how-obama-raised-60-million-by-running-a-simple-experiment-e2e29b41bade",
+"title": "Obama 2008 splash page (sign-up rate). Which media won?",
+"speed": true
+},
+{
+"type": "pick",
+"module": "3.1",
+"prompt": "Obama 2008 splash page: best button text?",
+"options": [
+{
+"text": "Learn More"
+},
+{
+"text": "Sign Up"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "'Learn More' got 18.6% more sign-ups per visitor than the default 'Sign Up' (WIRED); combined with the family photo the page improved 40.6% (8.26% → 11.6%).",
+"explanation": "'Learn More' feels like a lower-commitment step. Cold audiences respond to low-friction CTAs — the same idea as Gong's interest-based CTA for cold email.",
+"principles": [
+"cta",
+"interest_cta",
+"risk_reversal"
+],
+"id": "t3-1-02",
+"track": "3",
+"source_name": "WIRED, 'The A/B Test: Inside the technology that's changing the rules of business'",
+"source_url": "https://www.wired.com/story/the-ab-test/",
+"title": "Obama 2008 splash page: best button text?",
+"speed": true
+},
+{
+"type": "pick",
+"module": "3.1",
+"prompt": "AdEspresso $1,000 test, lead-gen eBook, Facebook mobile feed, same text. Which format had the LOWEST cost per lead? (Most of their community predicted video.)",
+"options": [
+{
+"text": "Single image ad"
+},
+{
+"text": "Slideshow video ad"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "Image ≈ $2.78 per lead vs video ≈ $3.87 vs carousel ≈ $7.76 ($333 spend each). Small test — directional, not universal.",
+"explanation": "A clear single image with the offer in view was cheapest per lead. AdEspresso's takeaway: 'Classic image ads still work really well'. Don't assume video always wins; test formats.",
+"principles": [
+"test_everything",
+"contrast"
+],
+"id": "t3-1-03",
+"track": "3",
+"source_name": "AdEspresso, 'Image vs. Video vs. Carousel: Which is the Best Facebook Ad Format? (a $1,000 Experiment)'",
+"source_url": "https://adespresso.com/blog/best-facebook-ad-format-experiment/",
+"title": "AdEspresso $1,000 test, lead-gen eBook, Facebook mobile feed, sa…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "3.1",
+"prompt": "Same AdEspresso test. Image ad vs carousel — which had the lower cost per lead?",
+"options": [
+{
+"text": "Single image ad (one message)"
+},
+{
+"text": "Carousel with 4 cards (more information)"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "Carousel cost per lead was ~2.8x the image ad; carousel CTR ~1.12% vs ~2.03% image.",
+"explanation": "More cards ≠ more persuasion. On a small mobile screen one clear message usually beats several competing ones for cold traffic (carousels can work better lower in the funnel).",
+"principles": [
+"clarity",
+"contrast"
+],
+"id": "t3-1-04",
+"track": "3",
+"source_name": "AdEspresso, 'Image vs. Video vs. Carousel: Which is the Best Facebook Ad Format? (a $1,000 Experiment)'",
+"source_url": "https://adespresso.com/blog/best-facebook-ad-format-experiment/",
+"title": "Same AdEspresso test. Image ad vs carousel — which had the lower…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "3.1",
+"prompt": "AdEspresso thumbnail test on a Wistia/Soapbox video ad (same video, same text). Which thumbnail got the lower cost per install?",
+"options": [
+{
+"text": "Cartoon-style graphic"
+},
+{
+"text": "Photo of the founder/presenter (Adam)"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "Photo of Adam: $25.02 per install vs cartoon: $49.87 (2x). Authors note conversions were not statistically significant.",
+"explanation": "A real human face (who also appeared on the landing page) won. Faces draw attention and create message match. Caveat: small sample.",
+"principles": [
+"face",
+"contrast"
+],
+"id": "t3-1-05",
+"track": "3",
+"source_name": "AdEspresso, 'Facebook Video Thumbnail: Is it Essential...? (a $1,000 Experiment)'",
+"source_url": "https://adespresso.com/blog/facebook-video-thumbnail-impact-experiment/",
+"title": "AdEspresso thumbnail test on a Wistia/Soapbox video ad (same vid…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "3.1",
+"prompt": "Wistia's 'One, Ten, One Hundred' experiment: three ads for the same app made for $1k, $10k and $100k. Which had the lowest cost per install on Facebook — the $10k or the $100k video?",
+"options": [
+{
+"text": "The $100,000 video"
+},
+{
+"text": "The $10,000 video"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "Cost per install: $10k video $23.57; $1k video $54.04; $100k video $77.54 (reported in AdEspresso's thumbnail article).",
+"explanation": "Production budget is not performance. The most expensive ad was the worst. The idea, the clarity and the first seconds matter more than polish.",
+"principles": [
+"hook",
+"test_everything"
+],
+"id": "t3-1-06",
+"track": "3",
+"source_name": "AdEspresso, 'Facebook Video Thumbnail: Is it Essential...? (a $1,000 Experiment)'",
+"source_url": "https://adespresso.com/blog/facebook-video-thumbnail-impact-experiment/",
+"title": "Wistia's 'One, Ten, One Hundred' experiment: three ads for the s…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "3.1",
+"prompt": "Meta internal tests on captions for feed video ads. Which version increased average video view time?",
+"options": [
+{
+"text": "Video with captions"
+},
+{
+"text": "Same video without captions (sound required)"
+}
+],
+"answer": 0,
+"evidence_type": "case_study",
+"metric": "Meta: 'captioned video ads increase video view time by an average of 12%'. Meta also reports 41% of video ads in one study were basically meaningless without sound.",
+"explanation": "Most feed video starts muted. If the message needs sound, most people miss it. Burn in captions and make the first frames readable without audio.",
+"principles": [
+"sound_off",
+"hook"
+],
+"id": "t3-1-07",
+"track": "3",
+"source_name": "Meta for Business, 'Capture Attention with Updated Features for Video Ads'",
+"source_url": "https://www.facebook.com/business/news/updated-features-for-video-ads",
+"title": "Meta internal tests on captions for feed video ads. Which versio…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "3.1",
+"prompt": "Standard Foods (Taiwan) A/B test on Meta. Which campaign had the lower cost per click?",
+"options": [
+{
+"text": "Usual photo ads optimised for link clicks"
+},
+{
+"text": "Usual ads + vertical 9:16 Reels built on Meta's 'Reels creative essentials' (safe zones, key info early, sound on)"
+}
+],
+"answer": 1,
+"evidence_type": "case_study",
+"metric": "Reported: 36% lower cost per click, 34% lower cost per landing-page view, 2.9x higher CTR for the campaign featuring Reels.",
+"explanation": "Native-format creative (vertical, text in safe zones, the key message early) gave the system better ads to deliver. Note: this is Meta's own case study — reported results, not independently verified.",
+"principles": [
+"hook",
+"creative_targeting"
+],
+"id": "t3-1-08",
+"track": "3",
+"source_name": "Meta for Business success story: Standard Foods (Reels A/B test)",
+"source_url": "https://www.facebook.com/business/success/standard-foods",
+"title": "Standard Foods (Taiwan) A/B test on Meta. Which campaign had the…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "3.1",
+"prompt": "Cancer Research UK A/B test on Facebook/Instagram: which strategy got more conversions at a lower cost per acquisition?",
+"options": [
+{
+"text": "Business-as-usual (Feed + Stories)"
+},
+{
+"text": "Reels-first strategy"
+}
+],
+"answer": 1,
+"evidence_type": "case_study",
+"metric": "Reported: Reels-first reached 10,000 more people, drove 2% more conversions and had a lower CPA.",
+"explanation": "Modest but real lift from adding placements/creative made for them. Notice how small the effect is — honest case studies don't always show 300% wins.",
+"principles": [
+"creative_targeting"
+],
+"id": "t3-1-09",
+"track": "3",
+"source_name": "Meta for Government & Nonprofits: Cancer Research UK case study",
+"source_url": "https://www.facebook.com/government-nonprofits/case-studies/2024-05-21-cancer-research-uk",
+"title": "Cancer Research UK A/B test on Facebook/Instagram: which strateg…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "3.1",
+"prompt": "GOV.UK organ donation trial (1,085,322 users). Two versions of the SAME social-norm message. Which got more registrations?",
+"options": [
+{
+"text": "'Every day thousands of people who see this page decide to register.' (text only)"
+},
+{
+"text": "Same text + a stock photo of a group of people"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "The social-norms + image variant was the only arm that did WORSE than the plain control prompt (OR 0.94, n=2,879 sign-ups vs 3,085 control). Text-only social norms beat control.",
+"explanation": "An image that looks like a generic stock photo can make a message feel like an advert and lower trust. Images must add meaning, not decoration.",
+"principles": [
+"contrast",
+"test_everything"
+],
+"id": "t3-1-10",
+"track": "3",
+"source_name": "Sallis et al., organ donor registration RCT with 1,085,322 GOV.UK users (BMC/PMC)",
+"source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6150960/",
+"title": "GOV.UK organ donation trial (1,085,322 users). Two versions of t…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "3.2",
+"prompt": "MOCKUP pair. Which feed image is more likely to stop the scroll for a dental clinic ad?",
+"options": [
+{
+"text": "Clinic logo centred on a pale grey background",
+"mock": {
+"page": "Klinik Exempel",
+"cta": "Book now",
+"bg": "#dfe3e8",
+"fg": "#9aa3ad",
+"overlay": "KLINIK EXEMPEL",
+"size": "s",
+"face": null,
+"focal": "one",
+"contrast": "low",
+"headline": "",
+"badge": "",
+"clutter": 0
+}
+},
+{
+"text": "Close-up of a dentist looking into the camera, one short line of text",
+"mock": {
+"page": "Klinik Exempel",
+"cta": "Book now",
+"bg": "#1f3b63",
+"fg": "#ffffff",
+"overlay": "First visit: talk only, no drilling",
+"size": "m",
+"face": "camera",
+"focal": "one",
+"contrast": "high",
+"headline": "",
+"badge": "",
+"clutter": 0
+}
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "B has a human face with eye contact and one focal point. A gives the eye nothing to land on. (Compare: AdEspresso's thumbnail test, where a real person beat a cartoon.)",
+"principles": [
+"face",
+"contrast"
+],
+"id": "t3-2-01",
+"track": "3",
+"source_name": "AdEspresso, 'Facebook Video Thumbnail: Is it Essential...? (a $1,000 Experiment)'",
+"source_url": "https://adespresso.com/blog/facebook-video-thumbnail-impact-experiment/",
+"title": "MOCKUP pair. Which feed image is more likely to stop the scroll …"
+},
+{
+"type": "pick",
+"module": "3.2",
+"prompt": "MOCKUP pair. Which image has the better text-overlay amount?",
+"options": [
+{
+"text": "A full paragraph of text covering the image",
+"mock": {
+"page": "Klinik Exempel",
+"cta": "Book now",
+"bg": "#0f4c5c",
+"fg": "#ffffff",
+"overlay": "We are a modern clinic offering laser, skin care, peels, consultations, packages, gift cards and much more. Open weekdays 9-18. Call us or visit our website for full price list and terms.",
+"size": "xs",
+"face": "away",
+"focal": "one",
+"contrast": "high",
+"headline": "",
+"badge": "",
+"clutter": 0
+}
+},
+{
+"text": "A short 5-word line over a clear photo",
+"mock": {
+"page": "Klinik Exempel",
+"cta": "Book now",
+"bg": "#0f4c5c",
+"fg": "#ffffff",
+"overlay": "Free patch test on Södermalm",
+"size": "l",
+"face": "away",
+"focal": "one",
+"contrast": "high",
+"headline": "",
+"badge": "",
+"clutter": 0
+}
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "One short line is read in a glance. A wall of text on the image competes with the primary text and is skipped on mobile.",
+"principles": [
+"contrast",
+"clarity"
+],
+"id": "t3-2-02",
+"track": "3",
+"source_name": "Facebook IQ, 'Capturing Attention in Feed: The Science Behind Effective Video Creative' (2016)",
+"source_url": "https://www.facebook.com/business/news/insights/capturing-attention-feed-video-creative",
+"title": "MOCKUP pair. Which image has the better text-overlay amount?"
+},
+{
+"type": "pick",
+"module": "3.2",
+"prompt": "MOCKUP pair. Which has better contrast / legibility on a phone?",
+"options": [
+{
+"text": "White bold text on a dark blue band",
+"mock": {
+"page": "Klinik Exempel",
+"cta": "Book now",
+"bg": "#16324f",
+"fg": "#ffffff",
+"overlay": "Book your free consultation",
+"size": "m",
+"face": null,
+"focal": "one",
+"contrast": "high",
+"headline": "",
+"badge": "",
+"clutter": 0
+}
+},
+{
+"text": "Light-grey text on a white background",
+"mock": {
+"page": "Klinik Exempel",
+"cta": "Book now",
+"bg": "#f7f7f7",
+"fg": "#cfcfcf",
+"overlay": "Book your free consultation",
+"size": "m",
+"face": null,
+"focal": "one",
+"contrast": "low",
+"headline": "",
+"badge": "",
+"clutter": 0
+}
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Low contrast disappears at thumb-scroll speed. High contrast + bold type is readable in under a second.",
+"principles": [
+"contrast"
+],
+"id": "t3-2-03",
+"track": "3",
+"source_name": "Facebook IQ, 'Capturing Attention in Feed: The Science Behind Effective Video Creative' (2016)",
+"source_url": "https://www.facebook.com/business/news/insights/capturing-attention-feed-video-creative",
+"title": "MOCKUP pair. Which has better contrast / legibility on a phone?"
+},
+{
+"type": "pick",
+"module": "3.2",
+"prompt": "MOCKUP pair. Synlig Media ad to clinic owners. Which creative communicates the offer faster?",
+"options": [
+{
+"text": "Abstract gradient with the words 'Digital growth solutions'",
+"mock": {
+"page": "Synlig Media",
+"cta": "Book now",
+"bg": "#6c5ce7",
+"fg": "#ffffff",
+"overlay": "Digital growth solutions",
+"size": "m",
+"face": null,
+"focal": "gradient",
+"contrast": "high",
+"headline": "",
+"badge": "",
+"clutter": 0
+}
+},
+{
+"text": "A Google Maps screenshot-style image: 3 pins, your clinic in 7th place, text 'Where do patients find you?'",
+"mock": {
+"page": "Synlig Media",
+"cta": "Book now",
+"bg": "#e8f0e8",
+"fg": "#14213d",
+"overlay": "Where do patients find you?",
+"size": "m",
+"face": null,
+"focal": "map",
+"contrast": "high",
+"headline": "",
+"badge": "",
+"clutter": 0
+}
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "A shows the problem visually (you're 7th on the map) — a picture of the reader's own situation. B is abstract and could be any agency.",
+"principles": [
+"concrete_image",
+"awareness"
+],
+"id": "t3-2-04",
+"track": "3",
+"source_name": "Personal MBA: Levels of Awareness (summary of Schwartz, Breakthrough Advertising)",
+"source_url": "https://personalmba.com/levels-of-awareness/",
+"title": "MOCKUP pair. Synlig Media ad to clinic owners. Which creative co…"
+},
+{
+"type": "pick",
+"module": "3.2",
+"prompt": "MOCKUP pair. Which image has a single focal point?",
+"options": [
+{
+"text": "One large photo of a single treatment room with one person",
+"mock": {
+"page": "Klinik Exempel",
+"cta": "Book now",
+"bg": "#22223b",
+"fg": "#ffffff",
+"overlay": "One room. One plan. Yours.",
+"size": "m",
+"face": "away",
+"focal": "one",
+"contrast": "high",
+"headline": "",
+"badge": "",
+"clutter": 0
+}
+},
+{
+"text": "A collage of 9 small treatment photos",
+"mock": {
+"page": "Klinik Exempel",
+"cta": "Book now",
+"bg": "#f2e9e4",
+"fg": "#22223b",
+"overlay": "",
+"size": "m",
+"face": null,
+"focal": "collage",
+"contrast": "high",
+"headline": "",
+"badge": "",
+"clutter": 9
+}
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Nine small images = nine weak focal points. One clear subject is easier to process at scroll speed. (AdEspresso: carousel/multi-image lost to a single image for cold leads.)",
+"principles": [
+"contrast",
+"clarity"
+],
+"id": "t3-2-05",
+"track": "3",
+"source_name": "AdEspresso, 'Image vs. Video vs. Carousel: Which is the Best Facebook Ad Format? (a $1,000 Experiment)'",
+"source_url": "https://adespresso.com/blog/best-facebook-ad-format-experiment/",
+"title": "MOCKUP pair. Which image has a single focal point?"
+},
+{
+"type": "pick",
+"module": "3.2",
+"prompt": "MOCKUP pair. Which is more likely to break a Meta health ad rule?",
+"options": [
+{
+"text": "Nurse explaining a treatment to a client, text 'Free consultation first'",
+"mock": {
+"page": "Klinik Exempel",
+"cta": "Book now",
+"bg": "#e6f0ff",
+"fg": "#14213d",
+"overlay": "Free consultation first",
+"size": "m",
+"face": "away",
+"focal": "one",
+"contrast": "high",
+"headline": "",
+"badge": "",
+"clutter": 0
+}
+},
+{
+"text": "Split before/after photo of a stomach with text 'Lose the belly fat!'",
+"mock": {
+"page": "Klinik Exempel",
+"cta": "Book now",
+"bg": "#ffd6d6",
+"fg": "#7a0000",
+"overlay": "Lose the belly fat!",
+"size": "l",
+"face": null,
+"focal": "split",
+"contrast": "high",
+"headline": "",
+"badge": "",
+"clutter": 0
+}
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Body-focused 'before/after' framing with fat-shaming text implies negative self-perception — a Meta Health & Wellness risk. B is service-focused.",
+"principles": [
+"policy"
+],
+"id": "t3-2-06",
+"track": "3",
+"source_name": "Meta Transparency Center, Advertising Standards: Health and Wellness",
+"source_url": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/",
+"title": "MOCKUP pair. Which is more likely to break a Meta health ad rule?"
+},
+{
+"type": "pick",
+"module": "3.2",
+"prompt": "MOCKUP pair. Video ad first frame (sound off). Which first frame is better?",
+"options": [
+{
+"text": "Animated clinic logo on black",
+"mock": {
+"page": "Klinik Exempel",
+"cta": "Book now",
+"bg": "#000000",
+"fg": "#ffffff",
+"overlay": "KLINIK",
+"size": "m",
+"face": null,
+"focal": "logo",
+"contrast": "high",
+"headline": "",
+"badge": "",
+"clutter": 0
+}
+},
+{
+"text": "A physio mid-sentence with burned-in caption: 'If stairs hurt your knee, try this test'",
+"mock": {
+"page": "Klinik Exempel",
+"cta": "Book now",
+"bg": "#2b2d42",
+"fg": "#ffffff",
+"overlay": "If stairs hurt your knee, try this test",
+"size": "m",
+"face": "camera",
+"focal": "one",
+"contrast": "high",
+"headline": "",
+"badge": "",
+"clutter": 0
+}
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Meta: up to 47% of video value is delivered in the first 3 seconds, and most feed video starts muted. The caption carries the hook without sound.",
+"principles": [
+"hook",
+"sound_off"
+],
+"id": "t3-2-07",
+"track": "3",
+"source_name": "Meta for Business, 'Capture Attention with Updated Features for Video Ads'",
+"source_url": "https://www.facebook.com/business/news/updated-features-for-video-ads",
+"title": "MOCKUP pair. Video ad first frame (sound off). Which first frame…"
+},
+{
+"type": "pick",
+"module": "3.2",
+"prompt": "MOCKUP pair. Which image matches the primary text 'Free 15-min patch test before you pay anything'?",
+"options": [
+{
+"text": "A smiling stock model on a beach",
+"mock": {
+"page": "Klinik Exempel",
+"cta": "Book now",
+"bg": "#ffe8a3",
+"fg": "#14213d",
+"overlay": "",
+"size": "m",
+"face": "camera",
+"focal": "beach",
+"contrast": "high",
+"headline": "",
+"badge": "",
+"clutter": 0
+}
+},
+{
+"text": "A close-up of a nurse doing a small patch test on a forearm",
+"mock": {
+"page": "Klinik Exempel",
+"cta": "Book now",
+"bg": "#e3f2fd",
+"fg": "#14213d",
+"overlay": "Patch test: 15 min, free",
+"size": "m",
+"face": "away",
+"focal": "arm",
+"contrast": "high",
+"headline": "",
+"badge": "",
+"clutter": 0
+}
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Message match: the image shows exactly what the offer is. Stock-looking images can lower trust (BIT: the stock-image variant was the only one worse than control).",
+"principles": [
+"concrete_image",
+"proof"
+],
+"id": "t3-2-08",
+"track": "3",
+"source_name": "Sallis et al., organ donor registration RCT with 1,085,322 GOV.UK users (BMC/PMC)",
+"source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6150960/",
+"title": "MOCKUP pair. Which image matches the primary text 'Free 15-min p…"
+},
+{
+"type": "goodbad",
+"module": "3.2",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "MOCKUP feed ad. Primary text: 'Free Google-kartan report for your clinic — see where you rank vs 3 competitors.' Creative below.",
+"answer": "good",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "One focal point (the map ranking), high contrast, short overlay, the offer is visible in both text and image. Strong message match.",
+"principles": [
+"concrete_image",
+"sampling",
+"contrast"
+],
+"mock": {
+"page": "Synlig Media",
+"cta": "Get report",
+"bg": "#eaf2ff",
+"fg": "#14213d",
+"overlay": "Your clinic: #7 on the map",
+"size": "m",
+"face": null,
+"focal": "map",
+"contrast": "high",
+"headline": "",
+"badge": "",
+"clutter": 0
+},
+"id": "t3-2-09",
+"track": "3",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan",
+"source_url": "https://www.loc.gov/item/23009362/",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": []
+},
+{
+"type": "goodbad",
+"module": "3.2",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "MOCKUP feed ad. Primary text: 'Check out our clinic!' Creative below.",
+"answer": "bad",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Low contrast, no focal point, no offer, the overlay says nothing. The primary text gives no reason to care.",
+"principles": [
+"contrast",
+"offer"
+],
+"mock": {
+"page": "Klinik Exempel",
+"cta": "Book now",
+"bg": "#f3f3f3",
+"fg": "#d0d0d0",
+"overlay": "welcome",
+"size": "s",
+"face": null,
+"focal": "one",
+"contrast": "low",
+"headline": "",
+"badge": "",
+"clutter": 4
+},
+"id": "t3-2-10",
+"track": "3",
+"source_name": "Facebook IQ, 'Capturing Attention in Feed: The Science Behind Effective Video Creative' (2016)",
+"source_url": "https://www.facebook.com/business/news/insights/capturing-attention-feed-video-creative",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": []
+},
+{
+"type": "goodbad",
+"module": "3.2",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "MOCKUP feed ad. Primary text: 'Afraid of the dentist? First visit = talk + X-rays only.' Creative below.",
+"answer": "good",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Face with eye contact, one short line of text that matches the primary text, high contrast.",
+"principles": [
+"face",
+"contrast",
+"specificity"
+],
+"mock": {
+"page": "Klinik Exempel",
+"cta": "Book now",
+"bg": "#1d3557",
+"fg": "#ffffff",
+"overlay": "No drilling on visit 1",
+"size": "m",
+"face": "camera",
+"focal": "one",
+"contrast": "high",
+"headline": "",
+"badge": "",
+"clutter": 0
+},
+"id": "t3-2-11",
+"track": "3",
+"source_name": "AdEspresso, 'Facebook Video Thumbnail: Is it Essential...? (a $1,000 Experiment)'",
+"source_url": "https://adespresso.com/blog/facebook-video-thumbnail-impact-experiment/",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": []
+},
+{
+"type": "goodbad",
+"module": "3.2",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "MOCKUP feed ad. Creative below, with 6 badges ('NEW!', '-30%', 'BEST', 'VIP', '★★★★★', 'TODAY').",
+"answer": "bad",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Badge overload = clutter and hype. Nothing is the focal point and the '★★★★★' isn't attributable proof.",
+"principles": [
+"contrast",
+"proof"
+],
+"mock": {
+"page": "Klinik Exempel",
+"cta": "Book now",
+"bg": "#ff4d6d",
+"fg": "#ffffff",
+"overlay": "SALE SALE SALE",
+"size": "l",
+"face": null,
+"focal": "one",
+"contrast": "high",
+"headline": "",
+"badge": "NEW! -30% BEST VIP ★★★★★ TODAY",
+"clutter": 6
+},
+"id": "t3-2-12",
+"track": "3",
+"source_name": "Facebook IQ, 'Capturing Attention in Feed: The Science Behind Effective Video Creative' (2016)",
+"source_url": "https://www.facebook.com/business/news/insights/capturing-attention-feed-video-creative",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": []
+},
+{
+"type": "missing",
+"module": "3.2",
+"prompt": "What's missing or wrong? Tick everything that applies, then reveal.",
+"artifact": "MOCKUP feed ad. Primary text: 'Laser at Klinik Exempel.' Creative below.",
+"answer": [
+"low_contrast",
+"no_offer",
+"weak_hook",
+"no_cta"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Pale low-contrast image, no offer in text or image, the first line is just a label, and the CTA button is generic with no reason to tap.",
+"principles": [
+"contrast",
+"offer",
+"hook"
+],
+"mock": {
+"page": "Klinik Exempel",
+"cta": "Learn more",
+"bg": "#efefef",
+"fg": "#d9d9d9",
+"overlay": "laser",
+"size": "s",
+"face": null,
+"focal": "one",
+"contrast": "low",
+"headline": "",
+"badge": "",
+"clutter": 0
+},
+"id": "t3-2-13",
+"track": "3",
+"source_name": "Facebook IQ, 'Capturing Attention in Feed: The Science Behind Effective Video Creative' (2016)",
+"source_url": "https://www.facebook.com/business/news/insights/capturing-attention-feed-video-creative",
+"title": "What's missing or wrong? Tick everything that applies, then reve…",
+"options": []
+},
+{
+"type": "missing",
+"module": "3.2",
+"prompt": "What's missing or wrong? Tick everything that applies, then reveal.",
+"artifact": "MOCKUP feed ad. Primary text is fine. Creative: dense paragraph covering the whole image.",
+"answer": [
+"too_much_text",
+"low_contrast"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Too much text on the image — nobody reads it at scroll speed. Keep the overlay to ~5–8 words.",
+"principles": [
+"contrast",
+"clarity"
+],
+"mock": {
+"page": "Klinik Exempel",
+"cta": "Book now",
+"bg": "#6d597a",
+"fg": "#e0d7e6",
+"overlay": "Our clinic offers a wide range of treatments for every need including consultations, laser, peels, skin boosters, packages and gift cards. Visit us today!",
+"size": "xs",
+"face": null,
+"focal": "one",
+"contrast": "low",
+"headline": "",
+"badge": "",
+"clutter": 0
+},
+"id": "t3-2-14",
+"track": "3",
+"source_name": "Facebook IQ, 'Capturing Attention in Feed: The Science Behind Effective Video Creative' (2016)",
+"source_url": "https://www.facebook.com/business/news/insights/capturing-attention-feed-video-creative",
+"title": "What's missing or wrong? Tick everything that applies, then reve…",
+"options": []
+},
+{
+"type": "missing",
+"module": "3.2",
+"prompt": "What's missing or wrong? Tick everything that applies, then reveal.",
+"artifact": "MOCKUP feed ad for a weight-loss clinic. Creative: pinched belly close-up, text 'Disgusted by your belly?'",
+"answer": [
+"policy_risk",
+"wrong_audience"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Pinching fat close-ups and inferiority statements are explicitly prohibited in Meta's Health & Wellness standard; also the ad must target 18+.",
+"principles": [
+"policy"
+],
+"mock": {
+"page": "Klinik Exempel",
+"cta": "Book now",
+"bg": "#ffcccb",
+"fg": "#8b0000",
+"overlay": "Disgusted by your belly?",
+"size": "l",
+"face": null,
+"focal": "split",
+"contrast": "high",
+"headline": "",
+"badge": "",
+"clutter": 0
+},
+"id": "t3-2-15",
+"track": "3",
+"source_name": "Meta Transparency Center, Advertising Standards: Health and Wellness",
+"source_url": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/",
+"title": "What's missing or wrong? Tick everything that applies, then reve…",
+"options": []
+},
+{
+"type": "pick",
+"module": "3.3",
+"prompt": "Video hook (first spoken line) for a physio clinic. Which is stronger?",
+"options": [
+{
+"text": "If your knee hurts on stairs, do this 10-second test."
+},
+{
+"text": "Hi, I'm Anna and welcome to our channel!"
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "B calls out the viewer by situation and promises something usable immediately. Intros waste the 3 seconds that carry the most value (Meta).",
+"principles": [
+"hook",
+"reader_callout",
+"self_interest"
+],
+"id": "t3-3-01",
+"track": "3",
+"source_name": "Meta for Business, 'Capture Attention with Updated Features for Video Ads'",
+"source_url": "https://www.facebook.com/business/news/updated-features-for-video-ads",
+"title": "Video hook (first spoken line) for a physio clinic. Which is str…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "3.3",
+"prompt": "Hook for Synlig Media's video ad to clinic owners. Which is stronger?",
+"options": [
+{
+"text": "I Googled 'tandläkare Södermalm'. Here's why your clinic didn't show up."
+},
+{
+"text": "We are Synlig Media, a digital marketing agency in Stockholm."
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "A is a mini-story with a curiosity gap tied to the owner's self-interest. B is about you.",
+"principles": [
+"hook",
+"curiosity_gap",
+"story"
+],
+"id": "t3-3-02",
+"track": "3",
+"source_name": "Wikipedia: John Caples",
+"source_url": "https://en.wikipedia.org/wiki/John_Caples",
+"title": "Hook for Synlig Media's video ad to clinic owners. Which is stro…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "3.3",
+"prompt": "Hook text overlay, sound off. Which is clearer?",
+"options": [
+{
+"text": "The digital landscape is evolving."
+},
+{
+"text": "Patients are choosing your competitor on Google Maps."
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Concrete, specific, about the reader. 'The digital landscape is evolving' is an abstraction nobody stops for.",
+"principles": [
+"concrete_image",
+"hook"
+],
+"id": "t3-3-03",
+"track": "3",
+"source_name": "Meta for Business, 'Capture Attention with Updated Features for Video Ads'",
+"source_url": "https://www.facebook.com/business/news/updated-features-for-video-ads",
+"title": "Hook text overlay, sound off. Which is clearer?",
+"speed": true
+},
+{
+"type": "pick",
+"module": "3.3",
+"prompt": "Which hook is more 'news' (Caples)?",
+"options": [
+{
+"text": "Your Google profile can show a booking link. Is yours empty? Check in 10 seconds."
+},
+{
+"text": "Marketing is important for clinics."
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "News-style (a feature many owners don't know about) + a quick self-check. Only use 'news' you've verified in Google's own help docs before posting.",
+"principles": [
+"news",
+"hook"
+],
+"id": "t3-3-04",
+"track": "3",
+"source_name": "Wikipedia: John Caples",
+"source_url": "https://en.wikipedia.org/wiki/John_Caples",
+"title": "Which hook is more 'news' (Caples)?",
+"speed": true
+},
+{
+"type": "pick",
+"module": "3.3",
+"prompt": "Which hook is policy-safer for an aesthetic clinic?",
+"options": [
+{
+"text": "Ugly lips? Fix them today."
+},
+{
+"text": "What a licensed nurse checks before any filler treatment (3 things)."
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "B attacks appearance and promises an instant fix — Meta policy risk. A is educational and builds trust.",
+"principles": [
+"policy",
+"hook"
+],
+"id": "t3-3-05",
+"track": "3",
+"source_name": "Meta Transparency Center, Advertising Standards: Health and Wellness",
+"source_url": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/",
+"title": "Which hook is policy-safer for an aesthetic clinic?",
+"speed": true
+},
+{
+"type": "pick",
+"module": "3.3",
+"prompt": "Which opening frame for a cold-email-style video ('loom') to a clinic owner is stronger?",
+"options": [
+{
+"text": "A slide with your agency logo and 'Agenda'"
+},
+{
+"text": "Your clinic's Google profile on screen, with the missing hours and photos circled"
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Show THEIR thing in the first frame. Personal relevance instantly (works the same as a personalised subject line).",
+"principles": [
+"personalization",
+"hook",
+"concrete_image"
+],
+"id": "t3-3-06",
+"track": "3",
+"source_name": "Belkins, 'How different B2B cold email subject lines perform: 2025 study' (5.5M emails)",
+"source_url": "https://belkins.io/blog/b2b-cold-email-subject-line-statistics",
+"title": "Which opening frame for a cold-email-style video ('loom') to a c…",
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "3.3",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "Hook: \"3 reasons patients skip your clinic on Google Maps (number 2 takes 5 minutes to fix)\"",
+"answer": "good",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Specific number, self-interest, curiosity loop, low-effort promise (value equation: low effort).",
+"principles": [
+"specificity",
+"curiosity_gap",
+"value_equation"
+],
+"id": "t3-3-07",
+"track": "3",
+"source_name": "Wikipedia: John Caples",
+"source_url": "https://en.wikipedia.org/wiki/John_Caples",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": [],
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "3.3",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "Hook: \"Hey guys! So today I wanted to talk a bit about something…\"",
+"answer": "bad",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Zero information in the first 3 seconds. No callout, no promise.",
+"principles": [
+"hook"
+],
+"id": "t3-3-08",
+"track": "3",
+"source_name": "Meta for Business, 'Capture Attention with Updated Features for Video Ads'",
+"source_url": "https://www.facebook.com/business/news/updated-features-for-video-ads",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": [],
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "3.3",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "Hook: \"You won't BELIEVE what happened next 😱\"",
+"answer": "bad",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Pure curiosity with no self-interest — Caples warned curiosity alone is weak; it also reads as clickbait.",
+"principles": [
+"curiosity_gap",
+"too_clever"
+],
+"id": "t3-3-09",
+"track": "3",
+"source_name": "Wikipedia: John Caples",
+"source_url": "https://en.wikipedia.org/wiki/John_Caples",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": [],
+"speed": true
+},
+{
+"type": "write",
+"module": "3.3",
+"prompt": "BRIEF: Write 3 different video hooks (first line, ≤12 words each) for Synlig Media's free 'Google-kartan' report, aimed at dental clinic owners in Stockholm. Make them 3 DIFFERENT angles (Andromeda: creative diversification).",
+"model_answers": [
+"1) Story: 'I searched \"tandläkare Vasastan\". Your clinic was number 9.'\n2) Loss: 'Every week, patients pick the clinic above you on Maps.'\n3) Quick win: 'Two empty fields on your Google profile cost you calls.'",
+"1) Question: 'When did you last check your clinic on Google Maps?'\n2) Contrast: 'Same street, same prices — why do they get the calls?'\n3) Offer: 'Free: see your Maps ranking vs 3 nearby clinics.'"
+],
+"steps": [
+"Pick three genuinely different angles: story, loss/problem, quick win, question, contrast, offer.",
+"Name the reader's world (dental, Stockholm, Maps).",
+"One idea per hook. No intro, no logo.",
+"Check each is understandable with sound off.",
+"Only use claims you can verify for that clinic."
+],
+"checklist": [
+"3 different angles (not rewordings)",
+"Each ≤12 words",
+"Reader's situation named",
+"No fabricated stats",
+"Works sound-off"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"hook",
+"creative_targeting",
+"reader_callout"
+],
+"id": "t3-3-10",
+"track": "3",
+"source_name": "Meta for Business, 'The Creative Advantage: Unlocking the Power of Diversification with Meta Andromeda'",
+"source_url": "https://www.facebook.com/business/news/the-creative-advantage-unlocking-the-power-of-diversification-with-meta-andromeda",
+"title": "BRIEF: Write 3 different video hooks (first line, ≤12 words each…",
+"options": [],
+"answer": null,
+"kind": "script",
+"lang": "en"
+},
+{
+"type": "write",
+"module": "3.3",
+"prompt": "BRIEF: Write a 15-second Reels script (hook / body / CTA) for a physio clinic's free 'knee assessment' offer. Show timestamps.",
+"model_answers": [
+"0–3s HOOK (on camera, caption): 'Knee hurts on stairs? Try this 10-second test.'\n3–10s BODY: physio demonstrates the test; caption: 'If this hurts, your knee might need a proper assessment.'\n10–15s CTA: 'Free 20-min knee check in Solna this month — tap Book now.'",
+"0–3s: 'Stairs shouldn't hurt.' (caption + physio walking up stairs)\n3–11s: 'We test 6 things in 20 minutes and give you a home plan.'\n11–15s: 'Book a free knee check — link below.'"
+],
+"steps": [
+"Hook in 0–3s, captioned, situation-based (not 'you have knee damage').",
+"Body proves or demonstrates — one idea.",
+"CTA: one action and what happens next.",
+"Avoid diagnosing the viewer (personal attributes) and timed cure promises."
+],
+"checklist": [
+"Hook in first 3 seconds",
+"Captions / sound-off readable",
+"Demonstration or proof in body",
+"One CTA",
+"No health claims about the viewer"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"hook",
+"sound_off",
+"policy",
+"cta"
+],
+"id": "t3-3-11",
+"track": "3",
+"source_name": "Meta for Business, 'Capture Attention with Updated Features for Video Ads'",
+"source_url": "https://www.facebook.com/business/news/updated-features-for-video-ads",
+"title": "BRIEF: Write a 15-second Reels script (hook / body / CTA) for a …",
+"options": [],
+"answer": null,
+"kind": "script",
+"lang": "en"
+},
+{
+"type": "teardown",
+"module": "3.3",
+"prompt": "Teardown: anatomy of a strong 15-second clinic video (TEACHING example, written for practice)",
+"intro": "Teaching example (written for practice, not real performance data).",
+"parts": [
+{
+"label": "0–3s Hook",
+"text": "'Knee hurts on stairs? Try this 10-second test.' (captioned, face to camera)",
+"note": "Situation callout + instant usefulness. Meta: up to 47% of value in the first 3s."
+},
+{
+"label": "3–10s Demonstration",
+"text": "Physio shows the test on a step.",
+"note": "Shows instead of tells — proof by demonstration (Ogilvy liked demonstrations)."
+},
+{
+"label": "10–13s Reason-why",
+"text": "'We check 6 things in your first visit and you leave with a written plan.'",
+"note": "Hopkins: specific process = believable."
+},
+{
+"label": "13–15s CTA",
+"text": "'Free 20-min knee check this month — tap Book now.'",
+"note": "One action, low risk, clear what happens."
+}
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Read each part and its annotation. Ask: could I reuse this move in my own ad?",
+"principles": [
+"hook",
+"proof",
+"reason_why",
+"cta"
+],
+"id": "t3-3-12",
+"track": "3",
+"source_name": "Meta for Business, 'Capture Attention with Updated Features for Video Ads'",
+"source_url": "https://www.facebook.com/business/news/updated-features-for-video-ads",
+"title": "Teardown: anatomy of a strong 15-second clinic video (TEACHING e…",
+"options": [],
+"answer": null
+},
+{
+"type": "pick",
+"module": "3.4",
+"prompt": "Wikipedia fundraising, 2010 (real test). Two banners, same placement. Which raised more donations per impression?",
+"options": [
+{
+"text": "\"If everyone reading this donated $5, our fundraiser would end today. Please donate to keep Wikipedia free.\""
+},
+{
+"text": "\"Only 4 days left to make a tax deductible contribution to keep Wikipedia free. Please help Wikipedia pay its bills in 2011.\""
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "Dec 28, 2010: $5 banner 365 donations / 1,421,605 impressions (0.000257 per impression) vs 'Only 4 days left' 181 / 1,325,539 (0.000137). The $5 banner nearly doubled donations per impression.",
+"explanation": "A tiny, specific ask ('$5') plus a picture of the outcome ('our fundraiser would end today') beat deadline urgency. Specific + easy beats pressure.",
+"principles": [
+"specificity",
+"value_equation"
+],
+"img": {
+"cap": "Real banners from Wikipedia's own test programme, shown for context (not necessarily the exact variants in this question).",
+"src": "img/real/wmf-2010-text-banners.png",
+"alt": "Four text-only Wikipedia fundraising banners tested in 2010",
+"credit": "Megan Hernandez / Wikimedia Foundation, CC BY-SA 3.0, via Wikimedia Commons",
+"page_url": "https://commons.wikimedia.org/wiki/File:2010_Fundraiser_Textonly_banners.png"
+},
+"id": "t3-4-01",
+"track": "3",
+"source_name": "Wikimedia Meta-Wiki: Fundraising 2010/Banner testing (raw test tables)",
+"source_url": "https://meta.wikimedia.org/wiki/Fundraising_2010/Banner_testing",
+"title": "Wikipedia fundraising, 2010 (real test). Two banners, same place…",
+"v": 2
+},
+{
+"type": "pick",
+"module": "3.4",
+"prompt": "Wikipedia 2010 (real test). Which banner got more donations?",
+"options": [
+{
+"text": "\"Admit it, you couldn't have won that bet without Wikipedia. Please help Wikipedia pay the bills for 2011.\""
+},
+{
+"text": "\"If everyone reading this donated $5, our fundraiser would end today.\""
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "Dec 28, 2010: $5 banner 170 donations / 739,174 impressions vs 'Won that bet' 60 / 685,639 — about 2.6x the donations.",
+"explanation": "The clever, jokey line lost. Wikimedia's own lesson: readers 'do not donate to marketing or gimmicky slogans'. Clarity beats cleverness again.",
+"principles": [
+"clarity",
+"too_clever",
+"specificity"
+],
+"id": "t3-4-02",
+"track": "3",
+"source_name": "Wikimedia Meta-Wiki: Fundraising 2010/Banner testing (raw test tables)",
+"source_url": "https://meta.wikimedia.org/wiki/Fundraising_2010/Banner_testing",
+"title": "Wikipedia 2010 (real test). Which banner got more donations?",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "3.4",
+"prompt": "Wikipedia 2010 (real test). Did changing the ask from $5 to $10 ('If everyone reading this donated $__…') make a big difference?",
+"options": [
+{
+"text": "No — little difference between $5 and $10"
+},
+{
+"text": "Yes — $10 clearly raised more"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "Wikimedia: 'We also tested $10 against $5… Again there was little difference between the two.' Removing the word 'only' from 'Only _ days left' also made no significant difference.",
+"explanation": "Many 'smart' tweaks are flat. Real testing teaches humility: test big differences (new angle, new offer) before small word swaps.",
+"principles": [
+"test_everything"
+],
+"id": "t3-4-03",
+"track": "3",
+"source_name": "Wikimedia Meta-Wiki: Fundraising 2010/Updates (test write-ups, banner texts)",
+"source_url": "https://meta.wikimedia.org/wiki/Fundraising_2010/Updates",
+"title": "Wikipedia 2010 (real test). Did changing the ask from $5 to $10 …",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "3.4",
+"prompt": "Wikipedia 2009–2010 (real tests). The 'personal appeal from Wikipedia founder Jimmy Wales' banner. Which version did better?",
+"options": [
+{
+"text": "Text only: 'Please read: A personal appeal from Wikipedia founder Jimmy Wales'"
+},
+{
+"text": "Same text + a photo of Jimmy Wales"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "Wikimedia: personal-appeal banners with a photo of the founder 'performed about 50% better'; 'We got a huge increase in clicks and donations by adding a photo of our founder.'",
+"explanation": "A real human face looking at you + a personal ask. Same lesson as the AdEspresso thumbnail test: real faces draw attention and trust.",
+"principles": [
+"face",
+"emotion"
+],
+"img": {
+"cap": "Real banners from Wikipedia's own test programme, shown for context (not necessarily the exact variants in this question).",
+"src": "img/real/wmf-2010-jimmy-banners.png",
+"alt": "Four 2010 Wikipedia banners with a photo of Jimmy Wales and 'Please read: a personal appeal'",
+"credit": "Megan Hernandez / Wikimedia Foundation, CC BY-SA 3.0, via Wikimedia Commons",
+"page_url": "https://commons.wikimedia.org/wiki/File:2010_Fundraiser_Graphic_banners.png"
+},
+"id": "t3-4-04",
+"track": "3",
+"source_name": "Wikimedia Meta-Wiki: Fundraising 2013/Wikipedia fundraising design needs (lessons from 2009-2012 tests)",
+"source_url": "https://meta.wikimedia.org/wiki/Fundraising_2013/Wikipedia_fundraising_design_needs",
+"title": "Wikipedia 2009–2010 (real tests). The 'personal appeal from Wiki…",
+"v": 2
+},
+{
+"type": "pick",
+"module": "3.4",
+"prompt": "Wikipedia 2010 (real test). Jimmy banners with fancy graphic backgrounds vs a plain background. Which did better?",
+"options": [
+{
+"text": "Fancy, designed backgrounds"
+},
+{
+"text": "Plain background — no real difference, so keep it simple"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "Wikimedia: 'The fancy graphic backgrounds on the Jimmy banner did not do any better than the plain background Jimmy banner.' They believe readers 'ignore our banners if they look like typical online ads'.",
+"explanation": "Polish is not performance (like Wistia's $100k video). When an ad looks like an ad, people skip it. Native-looking creative often wins.",
+"principles": [
+"contrast",
+"clarity"
+],
+"img": {
+"cap": "Real banners from Wikipedia's own test programme, shown for context (not necessarily the exact variants in this question).",
+"src": "img/real/wmf-2010-jimmy-banners.png",
+"alt": "Four 2010 Wikipedia banners with a photo of Jimmy Wales and 'Please read: a personal appeal'",
+"credit": "Megan Hernandez / Wikimedia Foundation, CC BY-SA 3.0, via Wikimedia Commons",
+"page_url": "https://commons.wikimedia.org/wiki/File:2010_Fundraiser_Graphic_banners.png"
+},
+"id": "t3-4-05",
+"track": "3",
+"source_name": "Wikimedia Meta-Wiki: Fundraising 2013/Wikipedia fundraising design needs (lessons from 2009-2012 tests)",
+"source_url": "https://meta.wikimedia.org/wiki/Fundraising_2013/Wikipedia_fundraising_design_needs",
+"title": "Wikipedia 2010 (real test). Jimmy banners with fancy graphic bac…",
+"v": 2
+},
+{
+"type": "pick",
+"module": "3.4",
+"prompt": "Wikipedia 2012 (real test). The new 'facts banner' (key facts in the banner itself: non-profit, #5 website, no ads) vs the Jimmy 'personal appeal' banner. Result?",
+"options": [
+{
+"text": "Facts banner beat it — up to ~3x the donations"
+},
+{
+"text": "Jimmy appeal still won; facts were too long"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "Wikimedia: the facts banner 'beat any other banner we'd ever run… by up to 300%'. Putting the pitch IN the banner removed the extra click.",
+"explanation": "Two lessons: (1) specific facts persuade ('#5 website', 'we never run ads'); (2) every extra step loses people — put the message where they already are.",
+"principles": [
+"specificity",
+"reason_why",
+"proof"
+],
+"img": {
+"cap": "Real banners from Wikipedia's own test programme, shown for context (not necessarily the exact variants in this question).",
+"src": "img/real/wmf-2012-facts-iterations.png",
+"alt": "Seven iterations of the 2012 Wikipedia 'facts banner'",
+"credit": "Megan Hernandez / Wikimedia Foundation, CC BY-SA 3.0, via Wikimedia Commons",
+"page_url": "https://commons.wikimedia.org/wiki/File:Iterationsoffactsbanner.png"
+},
+"id": "t3-4-06",
+"track": "3",
+"source_name": "Wikimedia Meta-Wiki: Fundraising 2013/Wikipedia fundraising design needs (lessons from 2009-2012 tests)",
+"source_url": "https://meta.wikimedia.org/wiki/Fundraising_2013/Wikipedia_fundraising_design_needs",
+"title": "Wikipedia 2012 (real test). The new 'facts banner' (key facts in…",
+"v": 2
+},
+{
+"type": "pick",
+"module": "3.4",
+"prompt": "Wikipedia (real tests). Short snappy slogan vs a long paragraph of honest facts in the banner?",
+"options": [
+{
+"text": "Long paragraph of facts"
+},
+{
+"text": "Short snappy slogan"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "Wikimedia: 'Yes, that long paragraph really does better than a short snappy slogan… people actually do read the text and are persuaded… Wikipedia readers do not donate to marketing or gimmicky slogans.'",
+"explanation": "Length is not the enemy — boredom is. If every line is a relevant fact, people read. (Same lesson as Crazy Egg's long page.)",
+"principles": [
+"specificity",
+"proof",
+"clarity"
+],
+"img": {
+"cap": "Real banners from Wikipedia's own test programme, shown for context (not necessarily the exact variants in this question).",
+"src": "img/real/wmf-2014-best-banner.png",
+"alt": "Wikipedia's best-performing banner as of May 2014",
+"credit": "Megan Hernandez / Wikimedia Foundation, CC BY-SA 3.0, via Wikimedia Commons",
+"page_url": "https://commons.wikimedia.org/wiki/File:May21banner.png"
+},
+"id": "t3-4-07",
+"track": "3",
+"source_name": "Wikimedia Meta-Wiki: Fundraising 2013/Wikipedia fundraising design needs (lessons from 2009-2012 tests)",
+"source_url": "https://meta.wikimedia.org/wiki/Fundraising_2013/Wikipedia_fundraising_design_needs",
+"title": "Wikipedia (real tests). Short snappy slogan vs a long paragraph …",
+"v": 2
+},
+{
+"type": "pick",
+"module": "3.4",
+"prompt": "Wikipedia (real tests). Adding a 'Donate' button to the Jimmy banner (instead of only 'Read now'). What happened to TOTAL money raised?",
+"options": [
+{
+"text": "Went down — click rate and total money fell (donations per click rose)"
+},
+{
+"text": "Went up — a direct CTA always helps"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "Wikimedia: 'Adding \"Donate\" button lowers click rate and lowers total money raised. (But of course increases the donations/clicks rate.)'",
+"explanation": "A bigger ask too early scared people off. For cold audiences, the first step should be small (read the appeal, get the free report) — like Gong's interest CTA.",
+"principles": [
+"interest_cta",
+"cta",
+"risk_reversal"
+],
+"img": {
+"cap": "Real banners from Wikipedia's own test programme, shown for context (not necessarily the exact variants in this question).",
+"src": "img/real/wmf-2010-jimmy-banners.png",
+"alt": "Four 2010 Wikipedia banners with a photo of Jimmy Wales and 'Please read: a personal appeal'",
+"credit": "Megan Hernandez / Wikimedia Foundation, CC BY-SA 3.0, via Wikimedia Commons",
+"page_url": "https://commons.wikimedia.org/wiki/File:2010_Fundraiser_Graphic_banners.png"
+},
+"id": "t3-4-08",
+"track": "3",
+"source_name": "Wikimedia Meta-Wiki: Fundraising 2013/Wikipedia fundraising design needs (lessons from 2009-2012 tests)",
+"source_url": "https://meta.wikimedia.org/wiki/Fundraising_2013/Wikipedia_fundraising_design_needs",
+"title": "Wikipedia (real tests). Adding a 'Donate' button to the Jimmy ba…",
+"v": 2
+},
+{
+"type": "pick",
+"module": "3.4",
+"prompt": "Wikipedia (real tests). Putting the donation form (amount buttons + payment options) directly inside the banner vs making people click through to a form?",
+"options": [
+{
+"text": "Form inside the banner"
+},
+{
+"text": "Click through to a separate form page"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "Wikimedia: 'Including the form… directly in the banner performed better than having to click on the banner to reach the form'; one test of moving the form into the banner improved donation efficiency ~10%.",
+"explanation": "Fewer steps = more conversions. On Meta, this is why lead forms (instant forms) can beat a landing page for simple offers — test it.",
+"principles": [
+"friction",
+"cta"
+],
+"img": {
+"cap": "Real banners from Wikipedia's own test programme, shown for context (not necessarily the exact variants in this question).",
+"src": "img/real/wmf-2014-best-banner.png",
+"alt": "Wikipedia's best-performing banner as of May 2014",
+"credit": "Megan Hernandez / Wikimedia Foundation, CC BY-SA 3.0, via Wikimedia Commons",
+"page_url": "https://commons.wikimedia.org/wiki/File:May21banner.png"
+},
+"id": "t3-4-09",
+"track": "3",
+"source_name": "Wikimedia Meta-Wiki: Fundraising 2013/Wikipedia fundraising design needs (lessons from 2009-2012 tests)",
+"source_url": "https://meta.wikimedia.org/wiki/Fundraising_2013/Wikipedia_fundraising_design_needs",
+"title": "Wikipedia (real tests). Putting the donation form (amount button…",
+"v": 2
+},
+{
+"type": "pick",
+"module": "4.1",
+"prompt": "GOV.UK organ donation trial. Which message produced MORE registrations?",
+"options": [
+{
+"text": "'If you needed an organ transplant would you have one? If so please help others.' (reciprocity)"
+},
+{
+"text": "'You could save or transform up to 9 lives as an organ donor.' (gain frame)"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "Reciprocity was the best arm: 4,256 vs 3,085 control registrations (OR 1.38) — ~96,000 extra registrations per year if used all year. It's still live across GOV.UK.",
+"explanation": "Asking the reader a question about themselves (would YOU take one?) and then appealing to fairness beat a big abstract benefit.",
+"principles": [
+"reciprocity",
+"self_interest"
+],
+"id": "t4-1-01",
+"track": "4",
+"source_name": "Sallis et al., organ donor registration RCT with 1,085,322 GOV.UK users (BMC/PMC)",
+"source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6150960/",
+"title": "GOV.UK organ donation trial. Which message produced MORE registr…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "4.1",
+"prompt": "Same trial. Reciprocity vs a loss frame. Which statement is true?",
+"options": [
+{
+"text": "Reciprocity was clearly better than the loss-framed message"
+},
+{
+"text": "Reciprocity and the loss frame ('Three people die every day because there are not enough organs') were not statistically different — both were top"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "BIT: the reciprocity message 'performs significantly better than all other variants except for the loss-framed message'.",
+"explanation": "Good taste includes knowing when a 'winner' is not really different from the runner-up. Read results, don't just crown a headline.",
+"principles": [
+"test_everything"
+],
+"id": "t4-1-02",
+"track": "4",
+"source_name": "Behavioural Insights Team, 'Increasing organ donor registration'",
+"source_url": "https://www.bi.team/articles/increasing-donor-organ-registration/",
+"title": "Same trial. Reciprocity vs a loss frame. Which statement is true?",
+"speed": true
+},
+{
+"type": "pick",
+"module": "4.1",
+"prompt": "Highrise (37signals) signup page, 5 variants. Which headline converted better?",
+"options": [
+{
+"text": "30-day Free Trial on All Accounts"
+},
+{
+"text": "Start a Highrise Account"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "'30-day Free Trial on All Accounts' + 'Sign-up takes less than 60 seconds. Pick a plan to get started!' was +30% vs the original 'Start a Highrise Account'.",
+"explanation": "The winner put the risk reducer (free trial) in the headline and cut perceived effort (60 seconds). Value equation: lower time & effort, raise likelihood.",
+"principles": [
+"risk_reversal",
+"value_equation",
+"headline_80"
+],
+"id": "t4-1-03",
+"track": "4",
+"source_name": "Jason Fried, 'Writing Decisions: Headline tests on the Highrise signup page' (Signal v. Noise)",
+"source_url": "https://signalvnoise.com/posts/1525-writing-decisions-headline-tests-on-the-highrise-signup-page",
+"title": "Highrise (37signals) signup page, 5 variants. Which headline con…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "4.1",
+"prompt": "Highrise again — both used the '30-day Free Trial' headline. Which subhead did better?",
+"options": [
+{
+"text": "'Sign-up takes less than 60 seconds. Pick a plan to get started!'"
+},
+{
+"text": "Customer quotes: 'Supremely useful' 'Exceeded our expectations' 'Simply Brilliant'..."
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "The 60-seconds subhead: +30% vs original. The testimonial-quote subhead: only +7%.",
+"explanation": "Vague praise words aren't proof. Specific effort-reduction plus a clear next step beat generic testimonials. Testimonials work when specific (who, what result).",
+"principles": [
+"proof",
+"cta",
+"value_equation"
+],
+"id": "t4-1-04",
+"track": "4",
+"source_name": "Jason Fried, 'Writing Decisions: Headline tests on the Highrise signup page' (Signal v. Noise)",
+"source_url": "https://signalvnoise.com/posts/1525-writing-decisions-headline-tests-on-the-highrise-signup-page",
+"title": "Highrise again — both used the '30-day Free Trial' headline. Whi…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "4.1",
+"prompt": "Unbounce PPC landing page, free trial. Which button text got more clicks?",
+"options": [
+{
+"text": "Start your free 30 day trial"
+},
+{
+"text": "Start my free 30 day trial"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "Changing 'your' to 'my' increased click-through to the payment page by 90% (3-week test).",
+"explanation": "Button copy completes the sentence 'I want to ___'. First-person makes the reader picture themselves taking the step.",
+"principles": [
+"cta",
+"test_everything"
+],
+"id": "t4-1-05",
+"track": "4",
+"source_name": "Michael Aagaard, 'How to Design Call to Action Buttons that Convert' (Unbounce)",
+"source_url": "https://unbounce.com/conversion-rate-optimization/design-call-to-action-buttons/",
+"title": "Unbounce PPC landing page, free trial. Which button text got mor…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "4.1",
+"prompt": "Empire Flippers blog sidebar opt-in. Which button converted more?",
+"options": [
+{
+"text": "Make Money Flipping Websites"
+},
+{
+"text": "Join us!"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "Benefit-focused button copy: +33.1% conversions (reported by CXL).",
+"explanation": "Say what they get, not what you want them to do. 'Join us' is about you; the winner states the reader's outcome.",
+"principles": [
+"self_interest",
+"cta"
+],
+"id": "t4-1-06",
+"track": "4",
+"source_name": "CXL, 'A/B Testing: 5 A/B Tests For Your Landing Page Opt-In Forms'",
+"source_url": "https://cxl.com/blog/ab-testing-forms/",
+"title": "Empire Flippers blog sidebar opt-in. Which button converted more?",
+"speed": true
+},
+{
+"type": "pick",
+"module": "4.1",
+"prompt": "Sherwin Cody's mail-order English course. Victor Schwab compared two headlines over ten years. Which pulled about 3x the response?",
+"options": [
+{
+"text": "Do You Make These Mistakes in English?"
+},
+{
+"text": "How to Speak and Write Masterly English"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "Schwab's ten-year comparison showed the 'mistakes' headline responding nearly three times better; it ran for 40+ years.",
+"explanation": "A question that makes the reader check themselves (self-interest + curiosity + a specific promise of 'these' mistakes) beats a generic aspiration. Note for Meta health ads: Meta forbids copy that attacks a person's appearance — use this 'check yourself' idea for knowledge, not looks.",
+"principles": [
+"curiosity_gap",
+"self_interest",
+"reader_callout"
+],
+"id": "t4-1-07",
+"track": "4",
+"source_name": "Wikipedia: Sherwin Cody (cites Victor Schwab's 10-year headline comparison)",
+"source_url": "https://en.wikipedia.org/wiki/Sherwin_Cody",
+"title": "Sherwin Cody's mail-order English course. Victor Schwab compared…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "4.1",
+"prompt": "Bing search ads, 2012. An engineer moved the first line of ad text up into the title (longer headline). Result?",
+"options": [
+{
+"text": "No change — users ignore ad titles"
+},
+{
+"text": "Revenue +12% (>$100M/yr in the US) with no hit to user-experience metrics"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "Kohavi & Thomke (HBR): the change raised revenue 12%, Bing's best revenue idea; it had been shelved for months as low priority.",
+"explanation": "Headlines carry most of the weight (Ogilvy's '80 cents'). Small headline changes can be worth more than big projects — and intuition is bad at predicting which.",
+"principles": [
+"headline_80",
+"test_everything"
+],
+"id": "t4-1-08",
+"track": "4",
+"source_name": "Kohavi & Thomke, 'The Surprising Power of Online Experiments' (HBR, 2017)",
+"source_url": "https://hbr.org/2017/09/the-surprising-power-of-online-experiments",
+"title": "Bing search ads, 2012. An engineer moved the first line of ad te…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "4.2",
+"prompt": "Synlig Media's offer to clinics. Which framing raises perceived value most (Hormozi value equation)?",
+"options": [
+{
+"text": "Google Business Profile optimisation – 4,900 kr."
+},
+{
+"text": "We fix your Google profile in 7 days: photos, hours, categories, services and review-reply templates. You approve everything in one 15-min call. One-time 4,900 kr."
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "B makes the outcome concrete, shortens time delay (7 days — only promise this if you can deliver), and cuts effort (one 15-min call). Same price, more value.",
+"principles": [
+"value_equation",
+"specificity"
+],
+"id": "t4-2-01",
+"track": "4",
+"source_name": "Acquisition.com free training ($100M Offers, value equation)",
+"source_url": "https://www.acquisition.com/training",
+"title": "Synlig Media's offer to clinics. Which framing raises perceived …"
+},
+{
+"type": "pick",
+"module": "4.2",
+"prompt": "Which opener (lead magnet) is a better first step for cold clinic owners?",
+"options": [
+{
+"text": "A free 30-minute strategy call"
+},
+{
+"text": "A free 'Google-kartan' report: your Maps rank for 3 search terms vs 3 nearby competitors"
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "A gives value before asking for time (Hopkins' samples; Gong: sell the conversation, not the meeting). It also demonstrates the problem in their own data.",
+"principles": [
+"sampling",
+"interest_cta"
+],
+"id": "t4-2-02",
+"track": "4",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan",
+"source_url": "https://www.loc.gov/item/23009362/",
+"title": "Which opener (lead magnet) is a better first step for cold clini…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "4.2",
+"prompt": "Which risk reversal is stronger AND honest?",
+"options": [
+{
+"text": "'If your profile isn't fully updated within 7 days, you don't pay.'"
+},
+{
+"text": "'Results guaranteed!'"
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "B guarantees something you control (delivery), and it's specific. 'Results guaranteed' is vague, unbelievable — and promising ranking outcomes you can't control is risky.",
+"principles": [
+"risk_reversal",
+"specificity"
+],
+"id": "t4-2-03",
+"track": "4",
+"source_name": "Acquisition.com free training ($100M Offers, value equation)",
+"source_url": "https://www.acquisition.com/training",
+"title": "Which risk reversal is stronger AND honest?",
+"speed": true
+},
+{
+"type": "pick",
+"module": "4.2",
+"prompt": "Market sophistication: clinic owners hear 'more patients!' all the time. Which message moves to a mechanism?",
+"options": [
+{
+"text": "Most clinics we check are missing 3+ fields Google uses to match searches. Missing fields = fewer Maps views."
+},
+{
+"text": "Get MORE patients with our proven system!"
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "B explains HOW (mechanism). Cross-check claims against Google's own guidance (relevance, distance, prominence) before using them.",
+"principles": [
+"sophistication",
+"reason_why"
+],
+"id": "t4-2-04",
+"track": "4",
+"source_name": "Google Business Profile Help: Tips to improve your local ranking on Google",
+"source_url": "https://support.google.com/business/answer/7091",
+"title": "Market sophistication: clinic owners hear 'more patients!' all t…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "4.2",
+"prompt": "Which offer name is stronger?",
+"options": [
+{
+"text": "Package B"
+},
+{
+"text": "The 7-Day Maps Fix"
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "A named offer that states the outcome and the time feels concrete and memorable (Hormozi names offers this way).",
+"principles": [
+"offer",
+"specificity"
+],
+"id": "t4-2-05",
+"track": "4",
+"source_name": "Acquisition.com free training ($100M Offers, value equation)",
+"source_url": "https://www.acquisition.com/training",
+"title": "Which offer name is stronger?",
+"speed": true
+},
+{
+"type": "pick",
+"module": "4.2",
+"prompt": "Aesthetic clinic offer. Which is more 'Lauder' (let them try)?",
+"options": [
+{
+"text": "10% off all treatments in November"
+},
+{
+"text": "Free skin analysis + a take-home sample of the recommended product"
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Trial and touch build desire and trust; the discount only lowers price.",
+"principles": [
+"sampling"
+],
+"id": "t4-2-06",
+"track": "4",
+"source_name": "The Estée Lauder Companies: Our Founder (free samples, Gift with Purchase)",
+"source_url": "https://www.elcompanies.com/en/who-we-are/our-heritage/our-founder",
+"title": "Aesthetic clinic offer. Which is more 'Lauder' (let them try)?",
+"speed": true
+},
+{
+"type": "missing",
+"module": "4.2",
+"prompt": "What's missing or wrong? Tick everything that applies, then reveal.",
+"artifact": "Offer: \"Digital marketing services for clinics. Contact us for pricing.\"",
+"answer": [
+"no_offer",
+"no_number",
+"no_proof",
+"wrong_audience"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "No concrete deliverable, no price/number, no proof, and 'clinics' is still broad (which clinics? where?).",
+"principles": [
+"offer",
+"specificity"
+],
+"id": "t4-2-07",
+"track": "4",
+"source_name": "Acquisition.com free training ($100M Offers, value equation)",
+"source_url": "https://www.acquisition.com/training",
+"title": "What's missing or wrong? Tick everything that applies, then reve…",
+"options": []
+},
+{
+"type": "missing",
+"module": "4.2",
+"prompt": "What's missing or wrong? Tick everything that applies, then reveal.",
+"artifact": "Offer: \"We'll get you to #1 on Google in 48 hours or your money back, guaranteed 1000%!\"",
+"answer": [
+"hype",
+"no_proof"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Unbelievable promise you can't control (rankings) — damages trust. Guarantee what you control (delivery, process).",
+"principles": [
+"risk_reversal",
+"proof"
+],
+"id": "t4-2-08",
+"track": "4",
+"source_name": "Google Business Profile Help: Tips to improve your local ranking on Google",
+"source_url": "https://support.google.com/business/answer/7091",
+"title": "What's missing or wrong? Tick everything that applies, then reve…",
+"options": []
+},
+{
+"type": "missing",
+"module": "4.2",
+"prompt": "What's missing or wrong? Tick everything that applies, then reveal.",
+"artifact": "Offer: \"Full Google profile optimisation. 4,900 kr. You'll need to send us photos, write your service descriptions, gather your opening hours and set up a call with your team.\"",
+"answer": [
+"big_ask"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Huge effort & sacrifice for the buyer — the value equation denominator is high. Do the work for them.",
+"principles": [
+"value_equation"
+],
+"id": "t4-2-09",
+"track": "4",
+"source_name": "Acquisition.com free training ($100M Offers, value equation)",
+"source_url": "https://www.acquisition.com/training",
+"title": "What's missing or wrong? Tick everything that applies, then reve…",
+"options": []
+},
+{
+"type": "goodbad",
+"module": "4.2",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "Offer: \"Free 'Google-kartan' report: we search 3 terms patients use near your clinic and show where you appear vs 3 competitors. Sent as a 1-page PDF within 24h. Reply 'karta' to get it.\"",
+"answer": "good",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Specific deliverable, low effort ('reply karta'), clear time, value before the ask.",
+"principles": [
+"sampling",
+"value_equation",
+"interest_cta"
+],
+"id": "t4-2-10",
+"track": "4",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan",
+"source_url": "https://www.loc.gov/item/23009362/",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": [],
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "4.2",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "Offer: \"Our premium growth package will 10x your business!\"",
+"answer": "bad",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Vague and unbelievable, no mechanism, no specifics.",
+"principles": [
+"specificity",
+"sophistication"
+],
+"id": "t4-2-11",
+"track": "4",
+"source_name": "NordicCopy: What is Market Sophistication? (summary of Schwartz)",
+"source_url": "https://nordiccopy.com/market-sophistication/",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": [],
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "4.2",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "Offer: \"Dental check-up + X-rays + a written price plan, 595 kr for new patients. If you choose treatment, the 595 kr is deducted.\"",
+"answer": "good",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Concrete bundle, specific price, and the deduction reduces risk. Clear reason to act.",
+"principles": [
+"offer",
+"risk_reversal",
+"specificity"
+],
+"id": "t4-2-12",
+"track": "4",
+"source_name": "Acquisition.com free training ($100M Offers, value equation)",
+"source_url": "https://www.acquisition.com/training",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": [],
+"speed": true
+},
+{
+"type": "write",
+"module": "4.2",
+"prompt": "BRIEF: Rewrite Synlig Media's current offer as a Grand-Slam-style offer (one paragraph): 4,900 kr one-time Google Business Profile fix. Include: named outcome, what's included, time, effort for owner, an honest guarantee.",
+"model_answers": [
+"'The 7-Day Maps Fix' — 4,900 kr, one-time.\nWe update your Google profile so patients searching nearby see the right services, photos and hours: categories, services list, 10 new photos, booking link, and reply templates for reviews. You approve everything in one 15-minute call. If everything isn't live within 7 days, you don't pay.",
+"'Synlig på kartan' — fixed price 4,900 kr.\nIncluded: full profile audit, corrected hours & categories, service descriptions written for you, photo upload, Q&A, review-reply templates. Your time: 15 minutes. Delivery guarantee: done in 7 days or free."
+],
+"steps": [
+"Name it after the outcome.",
+"List concrete deliverables (specificity).",
+"Reduce time delay (a delivery date you control).",
+"Reduce effort (we do it; you approve).",
+"Guarantee what you control — never promise rankings or patient numbers.",
+"State the price plainly."
+],
+"checklist": [
+"Named outcome",
+"≥4 concrete deliverables",
+"Time to delivery",
+"Owner effort stated (small)",
+"Honest guarantee",
+"No ranking/result promises"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"value_equation",
+"risk_reversal",
+"offer"
+],
+"id": "t4-2-13",
+"track": "4",
+"source_name": "Acquisition.com free training ($100M Offers, value equation)",
+"source_url": "https://www.acquisition.com/training",
+"title": "BRIEF: Rewrite Synlig Media's current offer as a Grand-Slam-styl…",
+"options": [],
+"answer": null,
+"kind": "other",
+"lang": "en"
+},
+{
+"type": "write",
+"module": "4.2",
+"prompt": "BRIEF: Write 3 alternative lead magnets (one line each) that Synlig Media could test against the 'Google-kartan' report for physio clinics.",
+"model_answers": [
+"1) 'Review audit: how your last 20 Google reviews compare to 3 nearby clinics.'\n2) '5-minute Loom: I walk through your profile and point out the 3 biggest gaps.'\n3) 'Search-term map: which knee/back/neck searches show your clinic, and which don't.'",
+"1) 'Free photo check: which of your profile photos patients actually see first.'\n2) 'Competitor snapshot: what the #1 clinic near you does on its profile.'\n3) 'Booking-button check: can patients book you from Maps today?'"
+],
+"steps": [
+"Each must be small, specific and about THEIR clinic.",
+"Deliverable should demonstrate the problem the paid offer solves.",
+"Low effort to say yes.",
+"Different angles = better tests."
+],
+"checklist": [
+"3 distinct ideas",
+"Each tied to the paid offer",
+"Personal to the clinic",
+"Easy yes"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"sampling",
+"creative_targeting"
+],
+"id": "t4-2-14",
+"track": "4",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan",
+"source_url": "https://www.loc.gov/item/23009362/",
+"title": "BRIEF: Write 3 alternative lead magnets (one line each) that Syn…",
+"options": [],
+"answer": null,
+"kind": "primary",
+"lang": "en"
+},
+{
+"type": "pick",
+"module": "4.3",
+"prompt": "Which of these mail-order ads is documented as running continuously for decades (a strong profitability signal for direct response)?",
+"options": [
+{
+"text": "A generic 'Learn English the Easy Way' ad (illustrative alternative, not a real ad)"
+},
+{
+"text": "'Do You Make These Mistakes in English?' (Sherwin Cody course)"
+}
+],
+"answer": 1,
+"evidence_type": "long_running",
+"metric": "Ran 40+ years (1919–1959 in the NYT alone, 2–3 times a year). Mail-order advertisers keep running only what pays.",
+"explanation": "Long-running = it kept paying. Its ingredients: a question that involves the reader, specific 'these' mistakes, and a free booklet as a low-risk first step.",
+"principles": [
+"reader_callout",
+"sampling",
+"curiosity_gap"
+],
+"id": "t4-3-01",
+"track": "4",
+"source_name": "NEH Humanities, interview with Edwin Battistella on Sherwin Cody",
+"source_url": "https://www.neh.gov/humanities/2010/marchapril/iq/impertinent-questions-edwin-l-battistella",
+"title": "Which of these mail-order ads is documented as running continuou…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "4.3",
+"prompt": "The Wall Street Journal's subscription letter that was mailed as the control (the version all tests had to beat) from 1975 to 2003 opened with…",
+"options": [
+{
+"text": "A story: two similar young men graduated from the same college; 25 years later one was a department manager, the other president"
+},
+{
+"text": "A list of the Journal's features and prices"
+}
+],
+"answer": 0,
+"evidence_type": "long_running",
+"metric": "Used continuously for 28 years; estimated ~$2B in subscriptions (estimate attributed to direct-mail writer Denny Hatch; the WSJ kept no exact stats).",
+"explanation": "Story first, product later. The difference between the two men is 'knowledge' — which the product sells. Long-running control = beat every challenger for decades.",
+"principles": [
+"story",
+"big_idea"
+],
+"id": "t4-3-02",
+"track": "4",
+"source_name": "Wikipedia: Martin Conroy ('Two Young Men' letter, 1975-2003)",
+"source_url": "https://en.wikipedia.org/wiki/Martin_Conroy",
+"title": "The Wall Street Journal's subscription letter that was mailed as…",
+"speed": true
+},
+{
+"type": "teardown",
+"module": "4.3",
+"prompt": "Teardown: 'They Laughed When I Sat Down At the Piano But When I Started to Play!' (John Caples, U.S. School of Music, 1926)",
+"intro": "Real ad (1926). Annotations paraphrase SwipeHarbor's teardown and the Advertising Hall of Fame. Published results are reported, not a controlled A/B test.",
+"parts": [
+{
+"label": "Headline",
+"text": "'They Laughed When I Sat Down At the Piano But When I Started to Play!—'",
+"note": "Story + emotional stakes (being laughed at, then admired). Ends on a dash: you must read on."
+},
+{
+"label": "Opening",
+"text": "A scene at a party; the crowd doubts him. The product is not named yet.",
+"note": "Drama first. The reader identifies with the narrator."
+},
+{
+"label": "Proof",
+"text": "A skeptic ('himself an accomplished pianist') can't believe he learned so fast.",
+"note": "Proof comes from a doubter — stronger than self-praise."
+},
+{
+"label": "Mechanism",
+"text": "He reveals he learned at home, by mail, without a teacher.",
+"note": "Reason-why: how it was possible."
+},
+{
+"label": "Offer",
+"text": "Free booklet + free demonstration lesson; coupon.",
+"note": "A free, low-risk first step (sample). No price on the page."
+}
+],
+"evidence_type": "long_running",
+"metric": "Hall of Fame: record number of coupons when it first ran; it ran in other publications for years.",
+"explanation": "Read each part and its annotation. Ask: could I reuse this move in my own ad?",
+"principles": [
+"story",
+"proof",
+"sampling",
+"curiosity_gap"
+],
+"id": "t4-3-03",
+"track": "4",
+"source_name": "SwipeHarbor teardown of the 1926 Screenland printing of the piano ad",
+"source_url": "https://swipeharbor.com/blog/they-laughed-when-i-sat-down-at-the-piano",
+"title": "Teardown: 'They Laughed When I Sat Down At the Piano But When I …",
+"options": [],
+"answer": null
+},
+{
+"type": "teardown",
+"module": "4.3",
+"prompt": "Teardown: Rolls-Royce, 1958 (David Ogilvy)",
+"intro": "Real ad. Short headline quote only.",
+"parts": [
+{
+"label": "Headline",
+"text": "'At 60 miles an hour the loudest noise in this new Rolls-Royce comes from the electric clock'",
+"note": "One specific, researched fact that implies everything (quality, silence, engineering). Shows instead of claims."
+},
+{
+"label": "Source",
+"text": "The fact came from a technical editor's report found during research.",
+"note": "Ogilvy: research beats inspiration. Borrowed authority."
+},
+{
+"label": "Body",
+"text": "Long copy: a numbered list of specific facts about the car.",
+"note": "Long copy sells when every line is a fact the buyer wants."
+},
+{
+"label": "Lesson for clinics",
+"text": "Find the ONE surprising true fact about the clinic (e.g. every first visit includes X).",
+"note": "Specific > superlative."
+}
+],
+"evidence_type": "long_running",
+"metric": "Widely credited with a sales increase in 1958; figures vary by source — treat as reported.",
+"explanation": "Read each part and its annotation. Ask: could I reuse this move in my own ad?",
+"principles": [
+"big_idea",
+"specificity",
+"proof"
+],
+"id": "t4-3-04",
+"track": "4",
+"source_name": "Damn Good Ads: Rolls-Royce 'At 60 miles an hour' (1958)",
+"source_url": "https://damngoodads.com/ads/rolls-royce-electric-clock/",
+"title": "Teardown: Rolls-Royce, 1958 (David Ogilvy)",
+"options": [],
+"answer": null
+},
+{
+"type": "teardown",
+"module": "4.3",
+"prompt": "Teardown: The Wall Street Journal 'Two Young Men' letter (Martin Conroy), control 1975–2003",
+"intro": "Real letter. Control = the version every challenger had to beat.",
+"parts": [
+{
+"label": "Opening story",
+"text": "Two similar young men graduated from the same college…",
+"note": "Instant identification: the reader is one of them."
+},
+{
+"label": "Twist",
+"text": "25 years later: one is a department manager, the other the company's president.",
+"note": "Creates a gap the reader wants explained (curiosity + self-interest)."
+},
+{
+"label": "The difference",
+"text": "'What made the difference' → knowledge, and how it's used.",
+"note": "The 'mechanism' is exactly what the product sells."
+},
+{
+"label": "Offer",
+"text": "A trial subscription at a low price, then the full offer.",
+"note": "Low-risk first step."
+}
+],
+"evidence_type": "long_running",
+"metric": "Used as the control for ~28 years; estimated ~$2B revenue (estimate, WSJ kept no exact statistics).",
+"explanation": "Read each part and its annotation. Ask: could I reuse this move in my own ad?",
+"principles": [
+"story",
+"big_idea",
+"sampling"
+],
+"id": "t4-3-05",
+"track": "4",
+"source_name": "Swiped.co: $2 Billion Wall St. Journal Letter ('Tale of Two Young Men') by Martin Conroy",
+"source_url": "https://swiped.co/file/wallstreet-letter-conroy/",
+"title": "Teardown: The Wall Street Journal 'Two Young Men' letter (Martin…",
+"options": [],
+"answer": null
+},
+{
+"type": "teardown",
+"module": "4.3",
+"prompt": "Teardown: 'Do You Make These Mistakes in English?' (Maxwell Sackheim for Sherwin Cody)",
+"intro": "Real ad. Note: for Meta health ads never transfer the 'mistakes' framing to appearance.",
+"parts": [
+{
+"label": "Headline",
+"text": "'Do You Make These Mistakes in English?'",
+"note": "A question the reader answers silently ('do I?'); 'these' promises specifics."
+},
+{
+"label": "Body",
+"text": "Lists common mistakes with examples.",
+"note": "Specific proof the reader can test on themselves."
+},
+{
+"label": "Mechanism",
+"text": "A 'self-correcting' method, 15 minutes a day.",
+"note": "Low time and effort (value equation)."
+},
+{
+"label": "Offer",
+"text": "Free booklet via coupon.",
+"note": "Sample-style first step."
+}
+],
+"evidence_type": "long_running",
+"metric": "Ran 40+ years; Schwab's 10-year comparison showed ~3x response vs 'How to Speak and Write Masterly English'.",
+"explanation": "Read each part and its annotation. Ask: could I reuse this move in my own ad?",
+"principles": [
+"curiosity_gap",
+"self_interest",
+"value_equation",
+"sampling"
+],
+"id": "t4-3-06",
+"track": "4",
+"source_name": "NEH Humanities, interview with Edwin Battistella on Sherwin Cody",
+"source_url": "https://www.neh.gov/humanities/2010/marchapril/iq/impertinent-questions-edwin-l-battistella",
+"title": "Teardown: 'Do You Make These Mistakes in English?' (Maxwell Sack…",
+"options": [],
+"answer": null
+},
+{
+"type": "teardown",
+"module": "4.3",
+"prompt": "Teardown: Highrise signup page winner (2009 test)",
+"intro": "Real A/B test, Signal v. Noise.",
+"parts": [
+{
+"label": "Headline",
+"text": "'30-day Free Trial on All Accounts'",
+"note": "The risk reducer IS the headline."
+},
+{
+"label": "Subhead",
+"text": "'Sign-up takes less than 60 seconds.'",
+"note": "Cuts perceived effort/time."
+},
+{
+"label": "CTA",
+"text": "'Pick a plan to get started!'",
+"note": "Tells the reader the next action."
+}
+],
+"evidence_type": "proven_test",
+"metric": "+30% sign-up clicks vs original, ~4,000 page views (small test).",
+"explanation": "Read each part and its annotation. Ask: could I reuse this move in my own ad?",
+"principles": [
+"risk_reversal",
+"value_equation",
+"cta"
+],
+"id": "t4-3-07",
+"track": "4",
+"source_name": "Jason Fried, 'Writing Decisions: Headline tests on the Highrise signup page' (Signal v. Noise)",
+"source_url": "https://signalvnoise.com/posts/1525-writing-decisions-headline-tests-on-the-highrise-signup-page",
+"title": "Teardown: Highrise signup page winner (2009 test)",
+"options": [],
+"answer": null
+},
+{
+"type": "pick",
+"module": "4.4",
+"prompt": "Going (cheap-flight alerts) homepage CTA test, 50/50 split. Which button won?",
+"options": [
+{
+"text": "\"Trial for free\""
+},
+{
+"text": "\"Sign up for free\""
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "'Trial for free' (start a free premium trial) → 104% increase in trial starts month-over-month.",
+"explanation": "Three words changed what the visitor gets: a taste of the full premium product, not a limited free plan. Hopkins/Lauder: let people sample the best version.",
+"principles": [
+"sampling",
+"cta",
+"risk_reversal"
+],
+"id": "t4-4-01",
+"track": "4",
+"source_name": "Unbounce case study: Going, 'How a three-word A/B test led to triple-digit conversion growth'",
+"source_url": "https://unbounce.com/conversion-rate-optimization/going-ab-testing-case-study/",
+"title": "Going (cheap-flight alerts) homepage CTA test, 50/50 split. Whic…",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "4.4",
+"prompt": "Crazy Egg homepage (Conversion Rate Experts). Short original page vs a challenger ~20x longer that answered visitors' questions. Which converted better?",
+"options": [
+{
+"text": "The short page — people don't read online"
+},
+{
+"text": "The ~20x longer page"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "The long page beat the control by 30% in an A/B split test. (A later explainer video added +64%; the full programme reported +363%.)",
+"explanation": "'You cannot have a page that's too long — only one that's too boring.' Length should match how many questions the buyer has. A 4,900 kr service page needs to answer objections.",
+"principles": [
+"proof",
+"reason_why",
+"awareness"
+],
+"id": "t4-4-02",
+"track": "4",
+"source_name": "Conversion Rate Experts, 'How we grew Crazy Egg's conversion rate by 363%'",
+"source_url": "https://conversion-rate-experts.com/crazy-egg-case-study/",
+"title": "Crazy Egg homepage (Conversion Rate Experts). Short original pag…",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "4.4",
+"prompt": "Crazy Egg (Conversion Rate Experts). Same page, with vs without a 3-minute explainer video covering the same message?",
+"options": [
+{
+"text": "With the video"
+},
+{
+"text": "Without the video (it repeated the text)"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "The version with the video generated 64% more conversions than the control in their split test.",
+"explanation": "Different people learn differently — the same message in a new medium reached more of them. Script first: the video worked because the sales message was already proven.",
+"principles": [
+"test_everything",
+"proof"
+],
+"id": "t4-4-03",
+"track": "4",
+"source_name": "Conversion Rate Experts, 'How we grew Crazy Egg's conversion rate by 363%'",
+"source_url": "https://conversion-rate-experts.com/crazy-egg-case-study/",
+"title": "Crazy Egg (Conversion Rate Experts). Same page, with vs without …",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "4.4",
+"prompt": "Crazy Egg homepage, Copyhackers rewrite. Where did the WINNING headline (statistically confident +13%) come from?",
+"options": [
+{
+"text": "A brainstorm of clever copywriter ideas"
+},
+{
+"text": "A phrase pulled verbatim from customer survey answers"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "Joanna Wiebe: 'The winning headline was pulled verbatim from a simple, catchy phrase a handful of survey respondents had used'; the treatment won with a 13% lift.",
+"explanation": "Steal your headlines from customers. For clinics: read Google reviews and DMs — the words patients use are your best hooks.",
+"principles": [
+"reader_callout",
+"awareness"
+],
+"id": "t4-4-04",
+"track": "4",
+"source_name": "Copyhackers (Joanna Wiebe), 'How I optimized the Crazy Egg home page'",
+"source_url": "https://copyhackers.com/2014/02/optimized-crazy-egg-home-page/",
+"title": "Crazy Egg homepage, Copyhackers rewrite. Where did the WINNING h…",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "4.4",
+"prompt": "Obama 2012 donation page (already heavily optimised). One long 16-field form vs the same form split into 4 small steps (pick an amount first)?",
+"options": [
+{
+"text": "One long form — fewer clicks"
+},
+{
+"text": "4 smaller steps ('gradual incline')"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "Splitting the form into 4 steps increased the conversion rate by more than 5% on a page that had resisted improvement for months.",
+"explanation": "Start with the easiest question. Multi-step forms lower the perceived effort. For a clinic booking: first 'which treatment?', then time, then contact details.",
+"principles": [
+"friction",
+"value_equation"
+],
+"id": "t4-4-05",
+"track": "4",
+"source_name": "Manik Rathee (Obama 2012 digital team designer), 'Barack Obama — Contribute' (sequential donation form)",
+"source_url": "https://manikrathee.com/barack-obama-contribute.html",
+"title": "Obama 2012 donation page (already heavily optimised). One long 1…",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "4.4",
+"prompt": "HMRC tax letters (randomised trial, ~140,000 people). Which addition increased payment rates most?",
+"options": [
+{
+"text": "'9 out of 10 people in Britain pay their tax on time.'"
+},
+{
+"text": "'9 out of 10 people in [your town] pay their tax on time' — the LOCAL norm"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "BIT/Cabinet Office report: referring to the recipient's local area gave 'a 15 percentage point increase' over the old control letter; local norms beat the national norm.",
+"explanation": "Social proof works best when it's about people like ME, near ME. Clinic ads: '312 patients from Södermalm booked last year' (only if true) beats 'thousands of happy patients'.",
+"principles": [
+"social_norm",
+"specificity",
+"reader_callout"
+],
+"id": "t4-4-06",
+"track": "4",
+"source_name": "Behavioural Insights Team / Cabinet Office, 'Applying behavioural insights to reduce fraud, error and debt' (2012, GOV.UK PDF)",
+"source_url": "https://assets.publishing.service.gov.uk/media/5a789ae740f0b62b22cbb536/BIT_FraudErrorDebt_accessible.pdf",
+"title": "HMRC tax letters (randomised trial, ~140,000 people). Which addi…",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "4.4",
+"prompt": "HMRC third trial (108,000 debts). Which letter line raised the payment rate from 36.8% to 40.7%?",
+"options": [
+{
+"text": "'9 out of 10 people pay their tax on time. You are one of the few people who have not paid yet.'"
+},
+{
+"text": "'Paying tax funds public services like hospitals and schools.'"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "BIT: combining the norm with 'you are one of the few who have not paid yet' raised the single-letter payment rate from 36.8% to 40.7%.",
+"explanation": "A norm hits harder when it contrasts the reader with the majority. Use carefully in marketing — it must be true and not shaming.",
+"principles": [
+"social_norm"
+],
+"id": "t4-4-07",
+"track": "4",
+"source_name": "Behavioural Insights Team / Cabinet Office, 'Applying behavioural insights to reduce fraud, error and debt' (2012, GOV.UK PDF)",
+"source_url": "https://assets.publishing.service.gov.uk/media/5a789ae740f0b62b22cbb536/BIT_FraudErrorDebt_accessible.pdf",
+"title": "HMRC third trial (108,000 debts). Which letter line raised the p…",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "4.4",
+"prompt": "Co-operative Legal Services + BIT trial: people writing a will. Which prompt produced the most charitable gifts?",
+"options": [
+{
+"text": "'Many of our customers like to leave money to charity in their will. Are there any causes you're passionate about?'"
+},
+{
+"text": "A plain question: 'Would you like to leave money to charity in your will?'"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "Civil Service Quarterly: prompting at the right moment doubled legacy donors; adding the social-norm line 'actually trebled rates'.",
+"explanation": "Social norm + an open, personal question + the right moment. For a clinic's booking confirmation: 'Most patients add a check-up reminder — want one?'",
+"principles": [
+"social_norm",
+"emotion"
+],
+"id": "t4-4-08",
+"track": "4",
+"source_name": "Civil Service Quarterly, 'Behavioural insights and charitable giving' (2013)",
+"source_url": "https://quarterly.blog.gov.uk/2013/07/12/behavioural-insights-and-charitable-giving/",
+"title": "Co-operative Legal Services + BIT trial: people writing a will. …",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "4.4",
+"prompt": "Deutsche Bank charity day (BIT trial). Last year: a generic email from the CEO + posters. Which change more than doubled donation rates?",
+"options": [
+{
+"text": "A longer, more detailed generic email"
+},
+{
+"text": "A personalised email (and small gifts like sweets at the door)"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "Civil Service Quarterly: personalised emails and small gifts each more than doubled donation rates; together >3x the control. The trial raised £500,000.",
+"explanation": "Personal beats generic, and reciprocity (a small gift) beats argument. Cold email lesson: a personalised first line is worth more than another paragraph.",
+"principles": [
+"personalization",
+"reciprocity"
+],
+"id": "t4-4-09",
+"track": "4",
+"source_name": "Civil Service Quarterly, 'Behavioural insights and charitable giving' (2013)",
+"source_url": "https://quarterly.blog.gov.uk/2013/07/12/behavioural-insights-and-charitable-giving/",
+"title": "Deutsche Bank charity day (BIT trial). Last year: a generic emai…",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.1",
+"prompt": "Obama 2012 fundraising email, 13+ subject lines tested on small segments. Which won?",
+"options": [
+{
+"text": "Thankful every day"
+},
+{
+"text": "I will be outspent"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "'I will be outspent' won; the email raised about $2.6M in a day (WIRED). Other tested lines included 'Do this for Michelle', 'Would love to meet you', 'Some scary numbers'.",
+"explanation": "A specific stake and a clear threat to the reader's cause beat a warm but empty line. Short, personal, high-stakes.",
+"principles": [
+"self_interest",
+"news",
+"brevity"
+],
+"id": "t5-1-01",
+"track": "5",
+"source_name": "WIRED, 'Annoying Emails Work Way Better Than You'd Think: A Lesson From the Obama Campaign'",
+"source_url": "https://www.wired.com/2013/06/dont-dismiss-email-a-case-study-from-the-obama-campaign/",
+"title": "Obama 2012 fundraising email, 13+ subject lines tested on small …",
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.1",
+"prompt": "Belkins (5.5M B2B cold emails, 2024). Which subject lines had the higher REPLY rate?",
+"options": [
+{
+"text": "Generic (no personalization)"
+},
+{
+"text": "Personalised (name, company, location or a relevant event)"
+}
+],
+"answer": 1,
+"evidence_type": "case_study",
+"metric": "Personalised subject lines: 7% reply vs 3%; 46% open vs 35%.",
+"explanation": "Relevance is visible in the subject: 'Kartan för [Klinik] i Södermalm' signals 'this was written for me'.",
+"principles": [
+"personalization"
+],
+"id": "t5-1-02",
+"track": "5",
+"source_name": "Belkins, 'How different B2B cold email subject lines perform: 2025 study' (5.5M emails)",
+"source_url": "https://belkins.io/blog/b2b-cold-email-subject-line-statistics",
+"title": "Belkins (5.5M B2B cold emails, 2024). Which subject lines had th…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.1",
+"prompt": "Belkins: subject line length. Which had the higher open rate?",
+"options": [
+{
+"text": "2–4 words"
+},
+{
+"text": "9–10 words"
+}
+],
+"answer": 0,
+"evidence_type": "case_study",
+"metric": "2–4 words: ~46% open; 10 words: ~34%.",
+"explanation": "Short subject lines look like real person-to-person email and aren't truncated on mobile.",
+"principles": [
+"brevity"
+],
+"id": "t5-1-03",
+"track": "5",
+"source_name": "Belkins, 'How different B2B cold email subject lines perform: 2025 study' (5.5M emails)",
+"source_url": "https://belkins.io/blog/b2b-cold-email-subject-line-statistics",
+"title": "Belkins: subject line length. Which had the higher open rate?",
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.1",
+"prompt": "Belkins: subject line style. Which had the higher open rate?",
+"options": [
+{
+"text": "A question ('Are you the right person to talk with?')"
+},
+{
+"text": "Urgency ('Act now', 'ASAP')"
+}
+],
+"answer": 0,
+"evidence_type": "case_study",
+"metric": "Questions ~46% open; hype/urgency phrasing pushed open rates below 36%.",
+"explanation": "Urgency from a stranger reads as spam. Curiosity + relevance beats pressure.",
+"principles": [
+"curiosity_gap",
+"brevity"
+],
+"id": "t5-1-04",
+"track": "5",
+"source_name": "Belkins, 'How different B2B cold email subject lines perform: 2025 study' (5.5M emails)",
+"source_url": "https://belkins.io/blog/b2b-cold-email-subject-line-statistics",
+"title": "Belkins: subject line style. Which had the higher open rate?",
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.1",
+"prompt": "Boomerang: subject line length and replies. Which got the most responses?",
+"options": [
+{
+"text": "3–4 words"
+},
+{
+"text": "No subject line"
+}
+],
+"answer": 0,
+"evidence_type": "case_study",
+"metric": "3–4 word subjects received the most responses; only 14% of emails with no subject got a reply.",
+"explanation": "Always write a subject — short and specific.",
+"principles": [
+"brevity"
+],
+"id": "t5-1-05",
+"track": "5",
+"source_name": "Boomerang, '7 Tips for Getting More Responses to Your Emails (With Data!)' (40M+ emails)",
+"source_url": "https://blog.boomerangapp.com/2016/02/7-tips-for-getting-more-responses-to-your-emails-with-data/",
+"title": "Boomerang: subject line length and replies. Which got the most r…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.1",
+"prompt": "Cold email subject line to a clinic owner. Which is stronger?",
+"options": [
+{
+"text": "Exciting partnership opportunity for your business!!!"
+},
+{
+"text": "Kartan för Tandvård Söder"
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Short (2–4 words), personalised, looks like a real person's email. B is hype and generic (Belkins: hype words dragged open rates down).",
+"principles": [
+"personalization",
+"brevity"
+],
+"id": "t5-1-06",
+"track": "5",
+"source_name": "Belkins, 'How different B2B cold email subject lines perform: 2025 study' (5.5M emails)",
+"source_url": "https://belkins.io/blog/b2b-cold-email-subject-line-statistics",
+"title": "Cold email subject line to a clinic owner. Which is stronger?",
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.1",
+"prompt": "Which subject line fits the 'plain, person-to-person' pattern?",
+"options": [
+{
+"text": "fråga om er Google-profil"
+},
+{
+"text": "🚀 Boost Your Clinic's ROI by 300% Today"
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Lower-case, short, a question topic. B is an ad, not an email — and ROI claims from strangers hurt (Gong).",
+"principles": [
+"brevity",
+"personalization"
+],
+"id": "t5-1-07",
+"track": "5",
+"source_name": "Gong, '7 cold email statistics that can refine your engagement strategy'",
+"source_url": "https://www.gong.io/blog/cold-email-stats",
+"title": "Which subject line fits the 'plain, person-to-person' pattern?",
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.1",
+"prompt": "Which subject line is personalised in a meaningful way (not just a name token)?",
+"options": [
+{
+"text": "Hi {FirstName}!"
+},
+{
+"text": "Er profil visar fel öppettider (your profile shows wrong opening hours)"
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Relevance beats a merge tag. B proves you looked at THEIR clinic. Only send if it's true.",
+"principles": [
+"personalization",
+"specificity"
+],
+"id": "t5-1-08",
+"track": "5",
+"source_name": "Belkins, 'How different B2B cold email subject lines perform: 2025 study' (5.5M emails)",
+"source_url": "https://belkins.io/blog/b2b-cold-email-subject-line-statistics",
+"title": "Which subject line is personalised in a meaningful way (not just…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.1",
+"prompt": "Which is the better subject line for a follow-up?",
+"options": [
+{
+"text": "Re: Kartan för Tandvård Söder"
+},
+{
+"text": "Following up AGAIN!!"
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Threading keeps context and looks like a conversation; shouting reads as pressure.",
+"principles": [
+"followup",
+"brevity"
+],
+"id": "t5-1-09",
+"track": "5",
+"source_name": "Woodpecker, 'These Stats Prove The Importance of Follow-up Emails'",
+"source_url": "https://woodpecker.co/blog/follow-up-statistics/",
+"title": "Which is the better subject line for a follow-up?",
+"speed": true
+},
+{
+"type": "write",
+"module": "5.1",
+"prompt": "BRIEF: Write 5 cold-email subject lines (2–4 words) for Synlig Media's 'Google-kartan' opener to aesthetic clinics in Stockholm. Mix Swedish and English if you like.",
+"model_answers": [
+"1) Kartan för [Klinik]\n2) [Klinik] på Google Maps\n3) fråga om er profil\n4) Plats 7 på kartan?\n5) Era öppettider på Google",
+"1) Snabb fråga, [Förnamn]\n2) [Klinik] vs grannkliniken\n3) Google-kartan: [Område]\n4) Er bokningsknapp\n5) 3 saknade fält"
+],
+"steps": [
+"2–4 words.",
+"Personal: clinic name, area, or a real detail.",
+"No hype, no 'ASAP', no emojis.",
+"Should look like an email from a person.",
+"Only state facts you've verified (e.g., actual rank)."
+],
+"checklist": [
+"All 2–4 words",
+"≥3 personalised",
+"No hype/urgency words",
+"Truthful details"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"personalization",
+"brevity"
+],
+"id": "t5-1-10",
+"track": "5",
+"source_name": "Belkins, 'How different B2B cold email subject lines perform: 2025 study' (5.5M emails)",
+"source_url": "https://belkins.io/blog/b2b-cold-email-subject-line-statistics",
+"title": "BRIEF: Write 5 cold-email subject lines (2–4 words) for Synlig M…",
+"options": [],
+"answer": null,
+"kind": "subject",
+"lang": "en"
+},
+{
+"type": "pick",
+"module": "5.2",
+"prompt": "Gong cold email stats. Which version correlated with more meetings booked?",
+"options": [
+{
+"text": "Opening with the prospect's problem/context, no ROI numbers"
+},
+{
+"text": "Opening with ROI claims ('Clients see a 3x ROI in 90 days')"
+}
+],
+"answer": 0,
+"evidence_type": "case_study",
+"metric": "Gong: ROI language in cold emails decreased success rates by 15%.",
+"explanation": "ROI claims from a stranger feel unbelievable without context. Lead with their situation; save proof for the conversation.",
+"principles": [
+"awareness",
+"personalization"
+],
+"id": "t5-2-01",
+"track": "5",
+"source_name": "Gong, '7 cold email statistics that can refine your engagement strategy'",
+"source_url": "https://www.gong.io/blog/cold-email-stats",
+"title": "Gong cold email stats. Which version correlated with more meetin…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.2",
+"prompt": "Gong: which phrase correlated with more meetings booked in cold emails?",
+"options": [
+{
+"text": "'Hope all is well' (a nicety)"
+},
+{
+"text": "Asking 'Thoughts?' at the end"
+}
+],
+"answer": 0,
+"evidence_type": "case_study",
+"metric": "'Hope all is well' correlated with +24% meetings; asking for 'thoughts' decreased meetings by 20%.",
+"explanation": "A small human nicety helps; a vague 'thoughts?' ask is a gimmick that gets replies but not meetings. Correlational data — test in Swedish too.",
+"principles": [
+"cta",
+"emotion"
+],
+"id": "t5-2-02",
+"track": "5",
+"source_name": "Gong, '7 cold email statistics that can refine your engagement strategy'",
+"source_url": "https://www.gong.io/blog/cold-email-stats",
+"title": "Gong: which phrase correlated with more meetings booked in cold …",
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.2",
+"prompt": "Gong: email length for cold emails. Which correlated with more meetings booked?",
+"options": [
+{
+"text": "'Longer' concise emails (30–150 words) with prospect-specific context"
+},
+{
+"text": "Very short (under ~30 words)"
+}
+],
+"answer": 0,
+"evidence_type": "case_study",
+"metric": "Gong: longer emails (30–150 words) were significantly more effective at booking meetings than very short ones.",
+"explanation": "Short ≠ concise. Enough words to show relevance and a reason, nothing extra.",
+"principles": [
+"brevity",
+"personalization"
+],
+"id": "t5-2-03",
+"track": "5",
+"source_name": "Gong, '7 cold email statistics that can refine your engagement strategy'",
+"source_url": "https://www.gong.io/blog/cold-email-stats",
+"title": "Gong: email length for cold emails. Which correlated with more m…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.2",
+"prompt": "Boomerang (40M+ emails, replies). Which length got higher response rates?",
+"options": [
+{
+"text": "50–125 words"
+},
+{
+"text": "About 25 words"
+}
+],
+"answer": 0,
+"evidence_type": "case_study",
+"metric": "50–125 words: response rates above 50%. A 25-word email ≈ 44% (same as a 2,000-word one). General email, not only cold outreach.",
+"explanation": "Too short lacks context; too long tires. Aim for two short paragraphs.",
+"principles": [
+"brevity"
+],
+"id": "t5-2-04",
+"track": "5",
+"source_name": "Boomerang, '7 Tips for Getting More Responses to Your Emails (With Data!)' (40M+ emails)",
+"source_url": "https://blog.boomerangapp.com/2016/02/7-tips-for-getting-more-responses-to-your-emails-with-data/",
+"title": "Boomerang (40M+ emails, replies). Which length got higher respon…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.2",
+"prompt": "Boomerang: which reading level got more replies?",
+"options": [
+{
+"text": "College reading level"
+},
+{
+"text": "3rd-grade reading level (short words, short sentences)"
+}
+],
+"answer": 1,
+"evidence_type": "case_study",
+"metric": "3rd grade ≈ 53% response vs college ≈ 39% (a 36% relative lift).",
+"explanation": "Simple words read faster on phones. Write like you speak to a busy clinic owner between patients.",
+"principles": [
+"brevity",
+"clarity"
+],
+"id": "t5-2-05",
+"track": "5",
+"source_name": "Boomerang, '7 Tips for Getting More Responses to Your Emails (With Data!)' (40M+ emails)",
+"source_url": "https://blog.boomerangapp.com/2016/02/7-tips-for-getting-more-responses-to-your-emails-with-data/",
+"title": "Boomerang: which reading level got more replies?",
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.2",
+"prompt": "Boomerang: number of questions in an email. Which gets more replies?",
+"options": [
+{
+"text": "No questions at all"
+},
+{
+"text": "1–3 questions"
+}
+],
+"answer": 1,
+"evidence_type": "case_study",
+"metric": "Emails with 1–3 questions were 50% more likely to get a response than emails with none; 3 questions beat 8+ by 20%.",
+"explanation": "A question gives the reader something easy to answer. One clear question is the cold-email sweet spot.",
+"principles": [
+"cta",
+"interest_cta"
+],
+"id": "t5-2-06",
+"track": "5",
+"source_name": "Boomerang, '7 Tips for Getting More Responses to Your Emails (With Data!)' (40M+ emails)",
+"source_url": "https://blog.boomerangapp.com/2016/02/7-tips-for-getting-more-responses-to-your-emails-with-data/",
+"title": "Boomerang: number of questions in an email. Which gets more repl…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.2",
+"prompt": "First line of a cold email. Which is stronger?",
+"options": [
+{
+"text": "My name is Oskar and I run Synlig Media, a marketing agency."
+},
+{
+"text": "Sökte 'laser Södermalm' i morse — er klinik kom på plats 7 på kartan, efter två kedjor."
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Start with them, not you. A specific observation proves relevance in one line.",
+"principles": [
+"personalization",
+"specificity"
+],
+"id": "t5-2-07",
+"track": "5",
+"source_name": "Belkins, 'How different B2B cold email subject lines perform: 2025 study' (5.5M emails)",
+"source_url": "https://belkins.io/blog/b2b-cold-email-subject-line-statistics",
+"title": "First line of a cold email. Which is stronger?",
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.2",
+"prompt": "Which body is better for a cold email?",
+"options": [
+{
+"text": "A 400-word overview of all your services, pricing tiers and company history."
+},
+{
+"text": "3 short lines: what you noticed, why it matters, one question."
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Boomerang: 50–125 words had the best response; one clear question is easy to answer.",
+"principles": [
+"brevity",
+"cta"
+],
+"id": "t5-2-08",
+"track": "5",
+"source_name": "Boomerang, '7 Tips for Getting More Responses to Your Emails (With Data!)' (40M+ emails)",
+"source_url": "https://blog.boomerangapp.com/2016/02/7-tips-for-getting-more-responses-to-your-emails-with-data/",
+"title": "Which body is better for a cold email?",
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.2",
+"prompt": "Which proof line belongs in a cold email to a clinic?",
+"options": [
+{
+"text": "'We have helped hundreds of businesses grow!'"
+},
+{
+"text": "'Last month we updated the profile for a physio clinic in Solna — happy to show you the before/after of the profile.'"
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Specific, checkable, and offered (not forced). Never invent clients or numbers.",
+"principles": [
+"proof",
+"specificity"
+],
+"id": "t5-2-09",
+"track": "5",
+"source_name": "Campaign, excerpt from Ogilvy's 'Confessions of an Advertising Man'",
+"source_url": "https://www.campaignlive.co.uk/article/excerpt-confessions-advertising-man/996114",
+"title": "Which proof line belongs in a cold email to a clinic?",
+"speed": true
+},
+{
+"type": "missing",
+"module": "5.2",
+"prompt": "What's missing or wrong? Tick everything that applies, then reveal.",
+"artifact": "Cold email: \"Dear Sir/Madam, We are a leading full-service digital agency offering SEO, SEM, social media, web design, branding and more. Please find our brochure attached. Kind regards.\"",
+"answer": [
+"no_personalization",
+"no_cta",
+"no_offer",
+"too_long"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Generic greeting, about you, attachment from a stranger, no question/CTA, no specific offer.",
+"principles": [
+"personalization",
+"cta",
+"brevity"
+],
+"id": "t5-2-10",
+"track": "5",
+"source_name": "Belkins, 'How different B2B cold email subject lines perform: 2025 study' (5.5M emails)",
+"source_url": "https://belkins.io/blog/b2b-cold-email-subject-line-statistics",
+"title": "What's missing or wrong? Tick everything that applies, then reve…",
+"options": []
+},
+{
+"type": "missing",
+"module": "5.2",
+"prompt": "What's missing or wrong? Tick everything that applies, then reveal.",
+"artifact": "Cold email: \"Hej! Vi kan 10x:a era patienter på 30 dagar. ROI garanterad. Kan vi ta ett möte på tisdag kl 10?\"",
+"answer": [
+"hype",
+"big_ask",
+"no_personalization",
+"no_proof"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Hype + ROI claim (Gong: ROI language -15%), meeting ask from a stranger (Gong: interest CTA is better cold), nothing personal, no proof.",
+"principles": [
+"interest_cta",
+"personalization"
+],
+"id": "t5-2-11",
+"track": "5",
+"source_name": "Gong, '7 cold email statistics that can refine your engagement strategy'",
+"source_url": "https://www.gong.io/blog/cold-email-stats",
+"title": "What's missing or wrong? Tick everything that applies, then reve…",
+"options": []
+},
+{
+"type": "missing",
+"module": "5.2",
+"prompt": "What's missing or wrong? Tick everything that applies, then reveal.",
+"artifact": "Cold email: a nice personal first line about the clinic, then… nothing. No question, no offer, just 'Best, Oskar'.",
+"answer": [
+"no_cta",
+"no_offer"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Relevance without a next step. Add one easy question (Boomerang: 1–3 questions → more replies) and the free report offer.",
+"principles": [
+"cta",
+"sampling"
+],
+"id": "t5-2-12",
+"track": "5",
+"source_name": "Boomerang, '7 Tips for Getting More Responses to Your Emails (With Data!)' (40M+ emails)",
+"source_url": "https://blog.boomerangapp.com/2016/02/7-tips-for-getting-more-responses-to-your-emails-with-data/",
+"title": "What's missing or wrong? Tick everything that applies, then reve…",
+"options": []
+},
+{
+"type": "goodbad",
+"module": "5.2",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "Cold email: \"Hej Sara,\nSökte 'tandblekning Vasastan' — ni syns inte på kartan, men två kliniker längre bort gör det. Det brukar bero på några saknade fält i Google-profilen.\nJag har gjort en kort 'Google-kartan'-rapport för er (1 sida). Vill du att jag skickar den?\nTack på förhand,\nOskar\"",
+"answer": "good",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Personal observation, a mechanism (missing fields), value first (report), one interest CTA, gratitude closing, ~60 words.",
+"principles": [
+"personalization",
+"interest_cta",
+"gratitude",
+"brevity"
+],
+"id": "t5-2-13",
+"track": "5",
+"source_name": "Gong Labs, 'Surprising cold email CTA that increases meeting bookings' (304,174 emails)",
+"source_url": "https://www.gong.io/blog/this-surprising-cold-email-cta-will-help-you-book-a-lot-more-meetings",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": []
+},
+{
+"type": "goodbad",
+"module": "5.2",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "Cold email: \"Hi there! I hope this email finds you well. I wanted to reach out because I think there might be some synergies between our companies. Let me know your thoughts!\"",
+"answer": "bad",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Generic, no observation, no offer, and the 'thoughts?' ask (Gong: -20% meetings).",
+"principles": [
+"personalization",
+"cta"
+],
+"id": "t5-2-14",
+"track": "5",
+"source_name": "Gong, '7 cold email statistics that can refine your engagement strategy'",
+"source_url": "https://www.gong.io/blog/cold-email-stats",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": [],
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.3",
+"prompt": "Gong Labs analysed 304,174 cold emails. Which CTA type was most likely to lead to a meeting within 10 days?",
+"options": [
+{
+"text": "'Are you interested in learning more about X?' (interest)"
+},
+{
+"text": "'Are you available Tuesday at 4pm?' (specific time)"
+}
+],
+"answer": 0,
+"evidence_type": "case_study",
+"metric": "Gong: 'The Interest CTA is the highest performing call to action for cold emails' (meeting booked within 10 days). Specific-time asks booked ~15% in the cold stage. Correlational analysis, not a randomised test.",
+"explanation": "Time is a scarce resource for a stranger; interest is cheap to give. Sell the conversation, not the meeting.",
+"principles": [
+"interest_cta",
+"cta"
+],
+"id": "t5-3-01",
+"track": "5",
+"source_name": "Gong Labs, 'Surprising cold email CTA that increases meeting bookings' (304,174 emails)",
+"source_url": "https://www.gong.io/blog/this-surprising-cold-email-cta-will-help-you-book-a-lot-more-meetings",
+"title": "Gong Labs analysed 304,174 cold emails. Which CTA type was most …",
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.3",
+"prompt": "Gong Labs: once the prospect is already IN a deal (they've met you), which CTA books more meetings?",
+"options": [
+{
+"text": "Specific day & time ('Does Thursday 14:00 work?')"
+},
+{
+"text": "Interest ('Interested in hearing more?')"
+}
+],
+"answer": 0,
+"evidence_type": "case_study",
+"metric": "Specific-time CTA: 37% in the deal stage vs 15% in the cold stage.",
+"explanation": "Match the CTA to awareness. Cold → low-friction interest; warm → remove friction with a concrete time.",
+"principles": [
+"awareness",
+"interest_cta"
+],
+"id": "t5-3-02",
+"track": "5",
+"source_name": "Gong Labs, 'Surprising cold email CTA that increases meeting bookings' (304,174 emails)",
+"source_url": "https://www.gong.io/blog/this-surprising-cold-email-cta-will-help-you-book-a-lot-more-meetings",
+"title": "Gong Labs: once the prospect is already IN a deal (they've met y…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.3",
+"prompt": "Gong: follow-up emails. Which phrasing correlated with MORE meetings?",
+"options": [
+{
+"text": "'I never heard back from you...'"
+},
+{
+"text": "A new, useful reason to reply (no guilt)"
+}
+],
+"answer": 1,
+"evidence_type": "case_study",
+"metric": "'I never heard back' increased replies but decreased meetings booked by 14%.",
+"explanation": "Guilt gets 'no thanks' replies, not meetings. Each follow-up should add value.",
+"principles": [
+"followup"
+],
+"id": "t5-3-03",
+"track": "5",
+"source_name": "Gong, '7 cold email statistics that can refine your engagement strategy'",
+"source_url": "https://www.gong.io/blog/cold-email-stats",
+"title": "Gong: follow-up emails. Which phrasing correlated with MORE meet…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.3",
+"prompt": "Boomerang (350,000+ threads). Which sign-off had the higher response rate?",
+"options": [
+{
+"text": "Thanks in advance,"
+},
+{
+"text": "Best,"
+}
+],
+"answer": 0,
+"evidence_type": "case_study",
+"metric": "'Thanks in advance' 65.7% vs 'Best' 51.2% (baseline 47.5%). Correlational; mailing-list data.",
+"explanation": "Gratitude closings correlated with higher replies (62% vs 46%). Costs nothing to try: 'Tack på förhand' / 'Tack!'.",
+"principles": [
+"gratitude"
+],
+"id": "t5-3-04",
+"track": "5",
+"source_name": "Boomerang, 'Forget Best or Sincerely, This Email Closing Gets the Most Replies' (350,000+ threads)",
+"source_url": "https://blog.boomerangapp.com/2017/01/how-to-end-an-email-email-sign-offs/",
+"title": "Boomerang (350,000+ threads). Which sign-off had the higher resp…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.3",
+"prompt": "Woodpecker campaign data. Which got the higher average reply rate?",
+"options": [
+{
+"text": "One email, no follow-up"
+},
+{
+"text": "Same campaign with at least one follow-up"
+}
+],
+"answer": 1,
+"evidence_type": "case_study",
+"metric": "~9% without follow-ups vs ~13% with at least one; 2–3 follow-ups is their suggested optimum (vendor data).",
+"explanation": "Many replies come from follow-ups. Plan a short sequence of 2–3, spaced 2–3+ days apart, each adding something.",
+"principles": [
+"followup"
+],
+"id": "t5-3-05",
+"track": "5",
+"source_name": "Woodpecker, 'These Stats Prove The Importance of Follow-up Emails'",
+"source_url": "https://woodpecker.co/blog/follow-up-statistics/",
+"title": "Woodpecker campaign data. Which got the higher average reply rate?",
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.3",
+"prompt": "Cold email CTA. Which is better for a stranger?",
+"options": [
+{
+"text": "'Vill du att jag skickar rapporten?' (Want me to send the report?)"
+},
+{
+"text": "'Boka 45 min här: [calendar link]'"
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Interest CTA: easy yes, no time cost (Gong). A calendar link from a stranger asks too much.",
+"principles": [
+"interest_cta"
+],
+"id": "t5-3-06",
+"track": "5",
+"source_name": "Gong Labs, 'Surprising cold email CTA that increases meeting bookings' (304,174 emails)",
+"source_url": "https://www.gong.io/blog/this-surprising-cold-email-cta-will-help-you-book-a-lot-more-meetings",
+"title": "Cold email CTA. Which is better for a stranger?",
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.3",
+"prompt": "Follow-up #1 (3 days later). Which is stronger?",
+"options": [
+{
+"text": "'Kort tillägg: er profil saknar också bokningslänk — finns med i rapporten. Ska jag skicka?'"
+},
+{
+"text": "'Just bumping this to the top of your inbox.'"
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Adds new value and a reason. Bumps add nothing (Gong: guilt phrases reduce meetings).",
+"principles": [
+"followup"
+],
+"id": "t5-3-07",
+"track": "5",
+"source_name": "Gong, '7 cold email statistics that can refine your engagement strategy'",
+"source_url": "https://www.gong.io/blog/cold-email-stats",
+"title": "Follow-up #1 (3 days later). Which is stronger?",
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.3",
+"prompt": "Final follow-up. Which ending respects the reader?",
+"options": [
+{
+"text": "'Last chance!!! Offer expires tonight!'"
+},
+{
+"text": "'Jag hör inte av mig mer om detta — om det blir aktuellt, svara bara \"karta\" så skickar jag rapporten.'"
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "A polite close gives an easy door and avoids fake urgency.",
+"principles": [
+"followup",
+"interest_cta"
+],
+"id": "t5-3-08",
+"track": "5",
+"source_name": "Woodpecker, 'These Stats Prove The Importance of Follow-up Emails'",
+"source_url": "https://woodpecker.co/blog/follow-up-statistics/",
+"title": "Final follow-up. Which ending respects the reader?",
+"speed": true
+},
+{
+"type": "write",
+"module": "5.3",
+"prompt": "BRIEF: Write a 3-email sequence (first email + 2 follow-ups) for a dental clinic in Stockholm. Each follow-up must add something new. Max 90 words each.",
+"model_answers": [
+"E1: personal observation (Maps rank for 1 search) + 'Vill du att jag skickar Google-kartan-rapporten?'\nE2 (+3 days): one new finding (e.g., opening hours wrong on Google) + same easy question.\nE3 (+5 days): polite close: 'I won't email again about this — reply \"karta\" anytime and I'll send it.'",
+"E1: 'Sökte \"akuttandläkare Kungsholmen\" — ni kom på plats 6.' + offer of 1-page report.\nE2: 'Kollade också recensionerna: 3 senaste är obesvarade. Rapporten visar hur grannkliniken gör.'\nE3: 'Sista mejlet från mig om detta — tack för din tid!'"
+],
+"steps": [
+"Email 1: observation → why it matters → one interest question.",
+"Each follow-up adds a NEW fact or resource.",
+"2–3 follow-ups, 2–3+ days apart (Woodpecker).",
+"No guilt ('never heard back'), no fake urgency.",
+"Gratitude closing."
+],
+"checklist": [
+"Each email ≤90 words",
+"Follow-ups add new value",
+"Interest CTA",
+"No guilt/urgency",
+"Facts verified"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"followup",
+"interest_cta",
+"personalization"
+],
+"id": "t5-3-09",
+"track": "5",
+"source_name": "Woodpecker, 'These Stats Prove The Importance of Follow-up Emails'",
+"source_url": "https://woodpecker.co/blog/follow-up-statistics/",
+"title": "BRIEF: Write a 3-email sequence (first email + 2 follow-ups) for…",
+"options": [],
+"answer": null,
+"kind": "email",
+"lang": "en"
+},
+{
+"type": "teardown",
+"module": "5.4",
+"prompt": "Teardown: a strong cold email for Synlig Media (TEACHING example, written for practice)",
+"intro": "Teaching example (written for practice, not real performance data).",
+"parts": [
+{
+"label": "Subject",
+"text": "'Kartan för Tandvård Söder'",
+"note": "2–4 words, personalised (Belkins)."
+},
+{
+"label": "Line 1",
+"text": "'Sökte \"tandläkare Södermalm\" — ni kom på plats 7 på kartan.'",
+"note": "A specific, verifiable observation about them."
+},
+{
+"label": "Line 2",
+"text": "'Det brukar bero på några saknade fält i Google-profilen.'",
+"note": "Mechanism (Schwartz stage 3) — not 'more patients!'."
+},
+{
+"label": "Offer",
+"text": "'Jag har gjort en 1-sidig rapport som visar er vs 3 grannkliniker.'",
+"note": "Value first (Hopkins' sample)."
+},
+{
+"label": "CTA",
+"text": "'Vill du att jag skickar den?'",
+"note": "Interest CTA (Gong)."
+},
+{
+"label": "Close",
+"text": "'Tack på förhand, Oskar'",
+"note": "Gratitude closing (Boomerang)."
+}
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Read each part and its annotation. Ask: could I reuse this move in my own ad?",
+"principles": [
+"personalization",
+"sampling",
+"interest_cta",
+"gratitude"
+],
+"id": "t5-4-01",
+"track": "5",
+"source_name": "Gong Labs, 'Surprising cold email CTA that increases meeting bookings' (304,174 emails)",
+"source_url": "https://www.gong.io/blog/this-surprising-cold-email-cta-will-help-you-book-a-lot-more-meetings",
+"title": "Teardown: a strong cold email for Synlig Media (TEACHING example…",
+"options": [],
+"answer": null
+},
+{
+"type": "teardown",
+"module": "5.4",
+"prompt": "Teardown: a weak cold email, line by line (TEACHING example)",
+"intro": "Teaching example (written for practice, not real performance data).",
+"parts": [
+{
+"label": "Subject",
+"text": "'Partnership opportunity 🚀🚀'",
+"note": "Hype + emoji = spam signal; not personal."
+},
+{
+"label": "Opener",
+"text": "'I hope this finds you well. My name is… and our agency…'",
+"note": "About the sender. Reader still doesn't know why they got it."
+},
+{
+"label": "Body",
+"text": "'We offer SEO, SEM, social, web, branding…'",
+"note": "A menu, not an offer. No mechanism, no specific."
+},
+{
+"label": "Claim",
+"text": "'Clients see 5x ROI.'",
+"note": "Unbelievable from a stranger (Gong: ROI language -15%)."
+},
+{
+"label": "CTA",
+"text": "'Can we hop on a 45-min call Tuesday?'",
+"note": "Big time ask from a stranger (Gong: interest CTA better)."
+}
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Read each part and its annotation. Ask: could I reuse this move in my own ad?",
+"principles": [
+"personalization",
+"interest_cta",
+"brevity"
+],
+"id": "t5-4-02",
+"track": "5",
+"source_name": "Gong, '7 cold email statistics that can refine your engagement strategy'",
+"source_url": "https://www.gong.io/blog/cold-email-stats",
+"title": "Teardown: a weak cold email, line by line (TEACHING example)",
+"options": [],
+"answer": null
+},
+{
+"type": "write",
+"module": "5.4",
+"prompt": "BRIEF: Write a first cold email (≤90 words, Swedish or English) to a physio clinic in Solna offering the free 'Google-kartan' report. Use a placeholder [observation] for a real fact you'd verify.",
+"model_answers": [
+"Ämne: Kartan för [Klinik]\n\nHej [Namn],\nSökte '[sökord] Solna' — [observation, t.ex. ni kom på plats 6 på kartan].\nDet brukar bero på några saknade uppgifter i Google-profilen.\nJag har gjort en 1-sidig 'Google-kartan'-rapport som visar er jämfört med 3 kliniker i närheten. Vill du att jag skickar den?\n\nTack på förhand,\nOskar, Synlig Media",
+"Subject: [Clinic] on Google Maps\n\nHi [Name],\nI searched '[term] Solna' this morning — [observation].\nUsually that's a few missing profile fields, not your reviews.\nI made a 1-page report comparing you with 3 nearby clinics. Want me to send it over?\n\nThanks,\nOskar"
+],
+"steps": [
+"Subject: 2–4 words, personal.",
+"Line 1: a verified observation about them.",
+"Line 2: why it happens (mechanism).",
+"Offer the free report (value first).",
+"One interest question.",
+"Gratitude sign-off. ≤90 words, plain text, no links/attachments in email 1."
+],
+"checklist": [
+"Personal observation",
+"Mechanism line",
+"Value-first offer",
+"Single interest CTA",
+"≤90 words",
+"Plain text"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"personalization",
+"interest_cta",
+"brevity",
+"sampling"
+],
+"id": "t5-4-03",
+"track": "5",
+"source_name": "Gong Labs, 'Surprising cold email CTA that increases meeting bookings' (304,174 emails)",
+"source_url": "https://www.gong.io/blog/this-surprising-cold-email-cta-will-help-you-book-a-lot-more-meetings",
+"title": "BRIEF: Write a first cold email (≤90 words, Swedish or English) …",
+"options": [],
+"answer": null,
+"kind": "email",
+"lang": "en"
+},
+{
+"type": "write",
+"module": "5.4",
+"prompt": "BRIEF: Rewrite this email to follow the evidence (Gong, Boomerang, Belkins): \"Dear clinic owner, We are Sweden's leading agency. We guarantee 3x ROI. Book a 60-min call: [link]. Best regards.\"",
+"model_answers": [
+"Ämne: fråga om [Klinik]\n\nHej [Namn],\nSåg att er Google-profil saknar [konkret detalj]. Det gör ofta att kliniken syns sämre på kartan än grannarna.\nVill du att jag skickar en kort rapport som visar exakt vad som saknas?\n\nTack på förhand,\nOskar"
+],
+"steps": [
+"Remove ROI claims and superlatives.",
+"Replace the meeting link with an interest question.",
+"Add one personal observation.",
+"Shorten to ~50–90 words.",
+"Swap 'Best regards' for a thank-you close."
+],
+"checklist": [
+"No ROI/superlatives",
+"Interest CTA",
+"Personal detail",
+"50–90 words",
+"Gratitude close"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"interest_cta",
+"personalization",
+"gratitude"
+],
+"id": "t5-4-04",
+"track": "5",
+"source_name": "Gong, '7 cold email statistics that can refine your engagement strategy'",
+"source_url": "https://www.gong.io/blog/cold-email-stats",
+"title": "BRIEF: Rewrite this email to follow the evidence (Gong, Boomeran…",
+"options": [],
+"answer": null,
+"kind": "email",
+"lang": "en"
+},
+{
+"type": "missing",
+"module": "5.4",
+"prompt": "What's missing or wrong? Tick everything that applies, then reveal.",
+"artifact": "Cold email: \"Hej [FirstName], jag hjälper företag att växa. Intresserad?\"",
+"answer": [
+"no_personalization",
+"no_offer",
+"no_number"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Broken merge tag, no observation, no concrete offer — 'grow' means nothing. An interest CTA alone isn't enough without a reason.",
+"principles": [
+"personalization",
+"offer"
+],
+"id": "t5-4-05",
+"track": "5",
+"source_name": "Belkins, 'How different B2B cold email subject lines perform: 2025 study' (5.5M emails)",
+"source_url": "https://belkins.io/blog/b2b-cold-email-subject-line-statistics",
+"title": "What's missing or wrong? Tick everything that applies, then reve…",
+"options": []
+},
+{
+"type": "missing",
+"module": "5.4",
+"prompt": "What's missing or wrong? Tick everything that applies, then reveal.",
+"artifact": "Cold email with 4 links, 2 images, an attached PDF and a calendar embed — sent to 2,000 clinics at once with the same text.",
+"answer": [
+"no_personalization",
+"too_long",
+"big_ask"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Heavy formatting looks like marketing mail; identical mass text has no relevance; links/attachments from strangers lower trust. Plain text, one ask.",
+"principles": [
+"brevity",
+"personalization"
+],
+"id": "t5-4-06",
+"track": "5",
+"source_name": "Boomerang, '7 Tips for Getting More Responses to Your Emails (With Data!)' (40M+ emails)",
+"source_url": "https://blog.boomerangapp.com/2016/02/7-tips-for-getting-more-responses-to-your-emails-with-data/",
+"title": "What's missing or wrong? Tick everything that applies, then reve…",
+"options": []
+},
+{
+"type": "pick",
+"module": "5.5",
+"prompt": "Obama 2012, the same fundraising email tested with different subject lines (13–18 variants). Which raised more?",
+"options": [
+{
+"text": "\"I will be outspent\""
+},
+{
+"text": "\"Some scary numbers\""
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "As reported by Bloomberg Businessweek/The Atlantic: 'I will be outspent' $2,540,866 vs 'Some scary numbers' $1,941,379 (WIRED: ~$2.6M in one day).",
+"explanation": "Both are curiosity + threat, but 'I will be outspent' is a first-person, concrete stake from the sender. The team's own lesson: 'we basically found our guts were worthless' — test.",
+"principles": [
+"test_everything",
+"story",
+"curiosity_gap"
+],
+"id": "t5-5-01",
+"track": "5",
+"source_name": "The Atlantic, 'Which Obama E-mail Subject Line Raised Him the Most Money in 2012?'",
+"source_url": "https://www.theatlantic.com/politics/2012/11/campaign-reveals-which-obama-spam-guilt-tripped-most-people-donating/321032/",
+"title": "Obama 2012, the same fundraising email tested with different sub…",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.5",
+"prompt": "Obama 2012 email subject lines (Bloomberg Businessweek table). Which raised more?",
+"options": [
+{
+"text": "\"Last call: Join Michelle and me\""
+},
+{
+"text": "\"Deadline: Join Michelle and me\""
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "Reported haul: 'Last call: Join Michelle and me' $894,644 vs 'Deadline: Join Michelle and me' $604,517.",
+"explanation": "Same offer, one word different. 'Last call' sounds personal and spoken; 'Deadline' sounds like an institution. Plain human language beat formal urgency.",
+"principles": [
+"brevity",
+"personalization",
+"test_everything"
+],
+"id": "t5-5-02",
+"track": "5",
+"source_name": "Bloomberg Businessweek (Joshua Green), 'The Science Behind Those Obama Campaign E-Mails' (2012)",
+"source_url": "https://www.bloomberg.com/news/articles/2012-11-29/the-science-behind-those-obama-campaign-e-mails",
+"title": "Obama 2012 email subject lines (Bloomberg Businessweek table). W…",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.5",
+"prompt": "Obama 2012 email subject lines (Bloomberg Businessweek table). Which raised more?",
+"options": [
+{
+"text": "\"Would love to meet you\""
+},
+{
+"text": "\"If you believe in what we're doing…\""
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "Reported haul: 'If you believe in what we're doing…' $911,806 vs 'Would love to meet you' $755,425.",
+"explanation": "Calling out the reader's identity ('if you believe…') filtered for committed supporters — Hopkins' headline-picks-the-reader idea in an inbox.",
+"principles": [
+"reader_callout",
+"curiosity_gap"
+],
+"id": "t5-5-03",
+"track": "5",
+"source_name": "Bloomberg Businessweek (Joshua Green), 'The Science Behind Those Obama Campaign E-Mails' (2012)",
+"source_url": "https://www.bloomberg.com/news/articles/2012-11-29/the-science-behind-those-obama-campaign-e-mails",
+"title": "Obama 2012 email subject lines (Bloomberg Businessweek table). W…",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.5",
+"prompt": "Obama 2012 email subject lines (Bloomberg Businessweek table). Which raised more?",
+"options": [
+{
+"text": "\"The only thing the polls got right…\""
+},
+{
+"text": "\"Do this for Michelle\""
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "Reported haul: 'Do this for Michelle' $714,147 vs 'The only thing the polls got right…' $403,603.",
+"explanation": "A personal, direct request from a known person beat a clever news tease. Note: these are fundraising emails to supporters — warm audience, not cold email.",
+"principles": [
+"personalization",
+"clarity"
+],
+"id": "t5-5-04",
+"track": "5",
+"source_name": "Bloomberg Businessweek (Joshua Green), 'The Science Behind Those Obama Campaign E-Mails' (2012)",
+"source_url": "https://www.bloomberg.com/news/articles/2012-11-29/the-science-behind-those-obama-campaign-e-mails",
+"title": "Obama 2012 email subject lines (Bloomberg Businessweek table). W…",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.5",
+"prompt": "Travelocity win-back email to subscribers who hadn't booked for a year. Which subject line got more opens?",
+"options": [
+{
+"text": "\"As our valued customer, get an extra 10% off for a limited time only.\""
+},
+{
+"text": "\"Save an additional 10% for a limited time only.\""
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "Subject line B outperformed A by 10% (open rate). A separate test of 10% vs 15% discount showed no significant open-rate difference.",
+"explanation": "Recognising the relationship ('as our valued customer') beat a generic discount — and a bigger discount didn't help. Relevance > bigger numbers.",
+"principles": [
+"personalization",
+"reader_callout"
+],
+"id": "t5-5-05",
+"track": "5",
+"source_name": "MarketingExperiments, 'Subject line test increases open rate by 10%' (Travelocity/StrongMail)",
+"source_url": "https://marketingexperiments.com/email-marketing/subject-line-test-increases-open-rates",
+"title": "Travelocity win-back email to subscribers who hadn't booked for …",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.5",
+"prompt": "MarketingSherpa workshop invitation, Denver. Which subject line got more opens?",
+"options": [
+{
+"text": "\"Coming to Denver: New Lead Generation Certification Workshop\""
+},
+{
+"text": "\"Coming to Denver: New Live B2B Marketing Certification Workshop\""
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "The 'Lead Generation' version had a 38.4% higher open rate — but only at an 80% confidence level (a small microtest). Directional, not conclusive.",
+"explanation": "Name the outcome the reader wants (leads), not the category (B2B). Also a lesson in reading tests: 80% confidence is weak evidence.",
+"principles": [
+"specificity",
+"self_interest",
+"sample_size"
+],
+"id": "t5-5-06",
+"track": "5",
+"source_name": "MarketingExperiments, 'More specific subject line improves open rate by more than 35%' (MarketingSherpa workshop)",
+"source_url": "https://marketingexperiments.com/email-marketing/email-testing-b2b-vs-lead-generation",
+"title": "MarketingSherpa workshop invitation, Denver. Which subject line …",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.5",
+"prompt": "Oil-field services company emailing a conference audience. Which subject line got more opens?",
+"options": [
+{
+"text": "\"IADC 2011 – Exclusive First Look at New Products, Technology and More\""
+},
+{
+"text": "A short, vague subject line about the new resources"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "The longer, more specific subject line generated an 8.2% higher open rate than the control.",
+"explanation": "Relevance beats brevity: naming the event the reader cares about told them instantly what the email was. Short is good — but not at the cost of being specific.",
+"principles": [
+"specificity",
+"reader_callout"
+],
+"id": "t5-5-07",
+"track": "5",
+"source_name": "MarketingExperiments, 'Longer subject increases opens 8.2%'",
+"source_url": "https://marketingexperiments.com/email-marketing/subject-line-testing-relevance",
+"title": "Oil-field services company emailing a conference audience. Which…",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "5.5",
+"prompt": "HubSpot webinar email, 5-way subject line test (~11,000 sends each). Which got the most opens?",
+"options": [
+{
+"text": "\"[New Data] The Science of Timing. When you should tweet, blog, email, and more\""
+},
+{
+"text": "\"Learn the best days and times to blog, email, tweet and more\""
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "Open rates: '[New Data]…' 14.21% vs 'Learn the best days…' 12.94% (the worst of 5). MarketingExperiments found the top two significantly beat the worst at 95% confidence.",
+"explanation": "A news tag ('[New Data]') + a specific promise. Caples' 'news' headline type works in inboxes too. Note how small the absolute difference is (~1.3 points) — needs big lists to detect.",
+"principles": [
+"news",
+"specificity",
+"sample_size"
+],
+"id": "t5-5-08",
+"track": "5",
+"source_name": "MarketingExperiments, 'Testing subject lines' (HubSpot 5-way test, 54,987 emails)",
+"source_url": "https://marketingexperiments.com/email-marketing/testing-subject-lines",
+"title": "HubSpot webinar email, 5-way subject line test (~11,000 sends ea…",
+"v": 2,
+"speed": true
+},
+{
+"type": "write",
+"module": "6.1",
+"prompt": "FIELD EXERCISE (real ads, Meta Ad Library). Open the Ad Library search for 'tandblekning' in Sweden (link below). Find (1) an ad that has been running 3+ months ('Started running on' date) and (2) one that started in the last 2 weeks. For each, note: hook/first line, offer, creative type, CTA. Then write which you'd bet is more profitable and why.",
+"model_answers": [
+"Example of a good field note (structure, not a real ad):\nAd 1 — started 4+ months ago: video, nurse on camera, hook 'What we check before any teeth whitening treatment', offer 'free consultation', CTA 'Book now'.\nAd 2 — started 6 days ago: stock image, '20% off', no face.\nBet: Ad 1. Long run time suggests it keeps paying (proxy only), it leads with trust and a free first step, and the creative is native/face-led."
+],
+"steps": [
+"Use the 'Started running on' date as your long-running signal (3+ months).",
+"Remember: the Ad Library shows NO performance data for non-political ads — run time is only a proxy (advertisers may also keep bad ads running).",
+"Compare hook, offer, creative, CTA side by side.",
+"Write your bet BEFORE reading anyone else's opinion."
+],
+"checklist": [
+"Found a 3+ month ad",
+"Found a <2 week ad",
+"Compared 4 elements",
+"Stated a bet + reason",
+"Noted the proxy caveat"
+],
+"evidence_type": "long_running",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"test_everything",
+"creative_targeting"
+],
+"field_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SE&q=tandblekning&search_type=keyword_unordered&media_type=all",
+"id": "t6-1-01",
+"track": "6",
+"source_name": "Meta Ad Library",
+"source_url": "https://www.facebook.com/ads/library/",
+"title": "FIELD EXERCISE (real ads, Meta Ad Library). Open the Ad Library …",
+"options": [],
+"answer": null,
+"kind": "primary",
+"lang": "en"
+},
+{
+"type": "write",
+"module": "6.1",
+"prompt": "FIELD EXERCISE (real ads, Meta Ad Library). Open the Ad Library search for 'laserhårborttagning' in Sweden (link below). Find (1) an ad that has been running 3+ months ('Started running on' date) and (2) one that started in the last 2 weeks. For each, note: hook/first line, offer, creative type, CTA. Then write which you'd bet is more profitable and why.",
+"model_answers": [
+"Example of a good field note (structure, not a real ad):\nAd 1 — started 4+ months ago: video, nurse on camera, hook 'What we check before any laser treatment', offer 'free consultation', CTA 'Book now'.\nAd 2 — started 6 days ago: stock image, '20% off', no face.\nBet: Ad 1. Long run time suggests it keeps paying (proxy only), it leads with trust and a free first step, and the creative is native/face-led."
+],
+"steps": [
+"Use the 'Started running on' date as your long-running signal (3+ months).",
+"Remember: the Ad Library shows NO performance data for non-political ads — run time is only a proxy (advertisers may also keep bad ads running).",
+"Compare hook, offer, creative, CTA side by side.",
+"Write your bet BEFORE reading anyone else's opinion."
+],
+"checklist": [
+"Found a 3+ month ad",
+"Found a <2 week ad",
+"Compared 4 elements",
+"Stated a bet + reason",
+"Noted the proxy caveat"
+],
+"evidence_type": "long_running",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"test_everything",
+"creative_targeting"
+],
+"field_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SE&q=laserhårborttagning&search_type=keyword_unordered&media_type=all",
+"id": "t6-1-02",
+"track": "6",
+"source_name": "Meta Ad Library",
+"source_url": "https://www.facebook.com/ads/library/",
+"title": "FIELD EXERCISE (real ads, Meta Ad Library). Open the Ad Library …",
+"options": [],
+"answer": null,
+"kind": "primary",
+"lang": "en"
+},
+{
+"type": "write",
+"module": "6.1",
+"prompt": "FIELD EXERCISE (real ads, Meta Ad Library). Open the Ad Library search for 'fysioterapi' in Sweden (link below). Find (1) an ad that has been running 3+ months ('Started running on' date) and (2) one that started in the last 2 weeks. For each, note: hook/first line, offer, creative type, CTA. Then write which you'd bet is more profitable and why.",
+"model_answers": [
+"Example of a good field note (structure, not a real ad):\nAd 1 — started 4+ months ago: video, nurse on camera, hook 'What we check before any physio treatment', offer 'free consultation', CTA 'Book now'.\nAd 2 — started 6 days ago: stock image, '20% off', no face.\nBet: Ad 1. Long run time suggests it keeps paying (proxy only), it leads with trust and a free first step, and the creative is native/face-led."
+],
+"steps": [
+"Use the 'Started running on' date as your long-running signal (3+ months).",
+"Remember: the Ad Library shows NO performance data for non-political ads — run time is only a proxy (advertisers may also keep bad ads running).",
+"Compare hook, offer, creative, CTA side by side.",
+"Write your bet BEFORE reading anyone else's opinion."
+],
+"checklist": [
+"Found a 3+ month ad",
+"Found a <2 week ad",
+"Compared 4 elements",
+"Stated a bet + reason",
+"Noted the proxy caveat"
+],
+"evidence_type": "long_running",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"test_everything",
+"creative_targeting"
+],
+"field_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SE&q=fysioterapi&search_type=keyword_unordered&media_type=all",
+"id": "t6-1-03",
+"track": "6",
+"source_name": "Meta Ad Library",
+"source_url": "https://www.facebook.com/ads/library/",
+"title": "FIELD EXERCISE (real ads, Meta Ad Library). Open the Ad Library …",
+"options": [],
+"answer": null,
+"kind": "primary",
+"lang": "en"
+},
+{
+"type": "write",
+"module": "6.1",
+"prompt": "FIELD EXERCISE (real ads, Meta Ad Library). Open the Ad Library search for 'hudvård klinik' in Sweden (link below). Find (1) an ad that has been running 3+ months ('Started running on' date) and (2) one that started in the last 2 weeks. For each, note: hook/first line, offer, creative type, CTA. Then write which you'd bet is more profitable and why.",
+"model_answers": [
+"Example of a good field note (structure, not a real ad):\nAd 1 — started 4+ months ago: video, nurse on camera, hook 'What we check before any skin treatment', offer 'free consultation', CTA 'Book now'.\nAd 2 — started 6 days ago: stock image, '20% off', no face.\nBet: Ad 1. Long run time suggests it keeps paying (proxy only), it leads with trust and a free first step, and the creative is native/face-led."
+],
+"steps": [
+"Use the 'Started running on' date as your long-running signal (3+ months).",
+"Remember: the Ad Library shows NO performance data for non-political ads — run time is only a proxy (advertisers may also keep bad ads running).",
+"Compare hook, offer, creative, CTA side by side.",
+"Write your bet BEFORE reading anyone else's opinion."
+],
+"checklist": [
+"Found a 3+ month ad",
+"Found a <2 week ad",
+"Compared 4 elements",
+"Stated a bet + reason",
+"Noted the proxy caveat"
+],
+"evidence_type": "long_running",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"test_everything",
+"creative_targeting"
+],
+"field_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SE&q=hudvård%20klinik&search_type=keyword_unordered&media_type=all",
+"id": "t6-1-04",
+"track": "6",
+"source_name": "Meta Ad Library",
+"source_url": "https://www.facebook.com/ads/library/",
+"title": "FIELD EXERCISE (real ads, Meta Ad Library). Open the Ad Library …",
+"options": [],
+"answer": null,
+"kind": "primary",
+"lang": "en"
+},
+{
+"type": "pick",
+"module": "6.1",
+"prompt": "Mixed: an aesthetic clinic wants more consultations. Which ad concept is the better FIRST test?",
+"options": [
+{
+"text": "Discount banner: '20% off all treatments'"
+},
+{
+"text": "Nurse-on-camera video: 'What we check before any skin treatment' + free consultation"
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Trust + free first step + face + education is safer under Meta health policy and addresses the real barrier (uncertainty). Test discounts later as a separate concept.",
+"principles": [
+"sampling",
+"face",
+"policy"
+],
+"id": "t6-1-05",
+"track": "6",
+"source_name": "Meta Transparency Center, Advertising Standards: Health and Wellness",
+"source_url": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/",
+"title": "Mixed: an aesthetic clinic wants more consultations. Which ad co…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "6.1",
+"prompt": "Mixed: which ad set structure fits Meta's Andromeda guidance?",
+"options": [
+{
+"text": "1 ad set, broad audience, 4–6 genuinely different creatives"
+},
+{
+"text": "10 ad sets with narrow interests, the same creative in each"
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Meta's guidance: focus shifted from niche targeting to creative diversification. Give the system different concepts.",
+"principles": [
+"creative_targeting"
+],
+"id": "t6-1-06",
+"track": "6",
+"source_name": "Meta for Business, 'The Creative Advantage: Unlocking the Power of Diversification with Meta Andromeda'",
+"source_url": "https://www.facebook.com/business/news/the-creative-advantage-unlocking-the-power-of-diversification-with-meta-andromeda",
+"title": "Mixed: which ad set structure fits Meta's Andromeda guidance?",
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "6.1",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "Meta ad for Synlig Media. Primary text: \"Klinikägare i Stockholm: syns ni på Google-kartan när patienter söker? Vi gör en gratis 'Google-kartan'-rapport för er klinik — ni ser er placering jämfört med 3 grannkliniker. Tryck 'Få rapport'.\" Creative: map with pins, the clinic at #7.",
+"answer": "good",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Reader callout, problem shown visually, free sample, one CTA. Passes Hopkins + Caples + Hormozi checks.",
+"principles": [
+"reader_callout",
+"sampling",
+"concrete_image",
+"cta"
+],
+"mock": {
+"page": "Synlig Media",
+"cta": "Få rapport",
+"bg": "#eaf2ff",
+"fg": "#14213d",
+"overlay": "Er klinik: #7 på kartan",
+"size": "m",
+"face": null,
+"focal": "map",
+"contrast": "high",
+"headline": "",
+"badge": "",
+"clutter": 0
+},
+"id": "t6-1-07",
+"track": "6",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan",
+"source_url": "https://www.loc.gov/item/23009362/",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": []
+},
+{
+"type": "missing",
+"module": "6.1",
+"prompt": "What's missing or wrong? Tick everything that applies, then reveal.",
+"artifact": "Meta ad: \"Best marketing agency 🚀 We do everything! DM us.\" Creative: agency logo.",
+"answer": [
+"no_offer",
+"no_proof",
+"wrong_audience",
+"weak_hook",
+"hype"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Every principle fails: no reader, no offer, no proof, no hook, hype.",
+"principles": [
+"reader_callout",
+"offer",
+"proof"
+],
+"mock": {
+"page": "Agency X",
+"cta": "Send message",
+"bg": "#111111",
+"fg": "#ffffff",
+"overlay": "BEST AGENCY 🚀",
+"size": "l",
+"face": null,
+"focal": "logo",
+"contrast": "high",
+"headline": "",
+"badge": "",
+"clutter": 0
+},
+"id": "t6-1-08",
+"track": "6",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan",
+"source_url": "https://www.loc.gov/item/23009362/",
+"title": "What's missing or wrong? Tick everything that applies, then reve…",
+"options": []
+},
+{
+"type": "write",
+"module": "6.1",
+"prompt": "BRIEF: Write a complete Meta ad for Synlig Media (primary text ≤60 words, headline ≤6 words, image description, CTA button) targeting clinic owners in Stockholm with the free 'Google-kartan' report.",
+"model_answers": [
+"Primary text: 'Klinikägare i Stockholm: när patienter söker \"tandläkare nära mig\" — var hamnar ni? Vi gör en gratis 1-sidig Google-kartan-rapport: er placering vs 3 grannkliniker + de 3 största luckorna i profilen. Klar inom 24h.'\nHeadline: 'Gratis: er plats på kartan'\nImage: Maps-style screenshot, 3 pins, clinic circled at #7, one-line overlay 'Var hamnar ni?'\nCTA: 'Få rapport' (Learn more)"
+],
+"steps": [
+"Primary text line 1 = reader callout + problem.",
+"Offer = free, specific, fast.",
+"Headline repeats the offer in ≤6 words.",
+"Image shows the problem (their rank), one focal point, ≤8 words overlay.",
+"One CTA."
+],
+"checklist": [
+"Reader callout",
+"Specific free offer",
+"Image = problem visual",
+"≤8 words overlay",
+"One CTA",
+"No fake numbers"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"reader_callout",
+"sampling",
+"concrete_image",
+"cta"
+],
+"id": "t6-1-09",
+"track": "6",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan",
+"source_url": "https://www.loc.gov/item/23009362/",
+"title": "BRIEF: Write a complete Meta ad for Synlig Media (primary text ≤…",
+"options": [],
+"answer": null,
+"kind": "script",
+"lang": "en"
+},
+{
+"type": "pick",
+"module": "6.2",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Rarely Does An Infographic Make Me Feel Like I Can Make A Difference In The World. This One Did."
+},
+{
+"text": "How Many Pounds Of Trash Do You Create Each Year? Hint: It's A Lot More Than You Weigh."
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 0.85% vs 0.19% (41/4,798 vs 9/4,841 clicks/impressions; z≈4.6). Test 53a9bd237bb5bcb2470000c2, 2014-06-24. Our own two-proportion z-test on the archive data.",
+"explanation": "Personal testimony of effect ('made me feel like I can make a difference') beats a guilt-trip quiz. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"emotion",
+"proof"
+],
+"upworthy_test": "53a9bd237bb5bcb2470000c2",
+"id": "t6-2-01",
+"track": "6",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (0000c2)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "6.2",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Remember That One Time A Scientist Made Up A Bunch Of Stuff So He Could Make Money Off Of Sick Kids?"
+},
+{
+"text": "That One Time It Took Studying 25,000,000 Kids To Begin To Undo The Damage Caused By 1 Awful Doctor"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 2.91% vs 1.15% (89/3,059 vs 35/3,034 clicks/impressions; z≈4.9). Test 53ac5919f33bfc43dd000006, 2014-06-26. Our own two-proportion z-test on the archive data.",
+"explanation": "Huge specific number (25,000,000 kids) vs '1 awful doctor' — contrast + specificity. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"specificity",
+"story"
+],
+"upworthy_test": "53ac5919f33bfc43dd000006",
+"id": "t6-2-02",
+"track": "6",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000006)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "6.2",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Some States Can Let Companies Pay LESS THAN Minimum Wage?"
+},
+{
+"text": "Here’s A Map. If Your State Is Colored Green, Folks Are Doing Better Than If It's Colored Pink."
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 1.02% vs 0.12% (33/3,234 vs 4/3,236 clicks/impressions; z≈4.8). Test 53b1893846dab066c9000018, 2014-06-30. Our own two-proportion z-test on the archive data.",
+"explanation": "Tells you exactly what you will see and how to read it (a map, green vs pink) — clarity and self-relevance. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"clarity",
+"self_interest"
+],
+"upworthy_test": "53b1893846dab066c9000018",
+"id": "t6-2-03",
+"track": "6",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000018)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "6.2",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "She Got All The Fame For Her Amazing Journey, But She Wants You To Know She Didn't Do It Alone"
+},
+{
+"text": "You May Already Know About Her Epic Swim From Cuba To Florida, But Do You Know What Happened After?"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 1.09% vs 0.31% (39/3,588 vs 11/3,593 clicks/impressions; z≈4.0). Test 53c8124e4273de1af700005d, 2014-07-17. Our own two-proportion z-test on the archive data.",
+"explanation": "Acknowledges what the reader knows then opens a gap ('but do you know what happened after?'). (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"curiosity_gap",
+"news"
+],
+"upworthy_test": "53c8124e4273de1af700005d",
+"id": "t6-2-04",
+"track": "6",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (00005d)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "6.2",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Do You Know The Silly Reason Why America Put A Man On The Moon? Do You Know Why We Stopped Going?"
+},
+{
+"text": "The 1 Silly Reason America Decided To Put A Man On The Moon Turned Out To Not Be Silly At All"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 1.21% vs 0.32% (35/2,901 vs 9/2,796 clicks/impressions; z≈3.8). Test 53cda1d4841393da30000020, 2014-07-21. Our own two-proportion z-test on the archive data.",
+"explanation": "Two direct questions keep the answer hidden; the loser gives the twist away ('turned out not to be silly'). (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"curiosity_gap"
+],
+"upworthy_test": "53cda1d4841393da30000020",
+"id": "t6-2-05",
+"track": "6",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000020)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "6.2",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Watch Kevin Bacon Talk Like He's Better Than Everyone, Be Rude To People, And Then Explain Why"
+},
+{
+"text": "Watch Kevin Bacon Talk Like He's Better Than Everyone And Be Rude To People. For A Good Cause."
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 2.99% vs 1.70% (127/4,254 vs 69/4,070 clicks/impressions; z≈3.9). Test 53d037a8e54a0f95e80000b1, 2014-07-23. Our own two-proportion z-test on the archive data.",
+"explanation": "Promises the explanation ('and then explain why') — a payoff the reader can anticipate. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"curiosity_gap",
+"clarity"
+],
+"upworthy_test": "53d037a8e54a0f95e80000b1",
+"id": "t6-2-06",
+"track": "6",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (0000b1)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "6.2",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "I Guess This Is What Happens When You Cross A Fashion Designer With A Microbiologist"
+},
+{
+"text": "Pop Quiz: Which Item In Your Fridge Can You Make Into Silk?"
+}
+],
+"answer": 0,
+"evidence_type": "proven_test",
+"metric": "CTR 1.85% vs 0.59% (55/2,974 vs 18/3,059 clicks/impressions; z≈4.5). Test 52fe46302b7b0aab38000024, 2014-02-14. Our own two-proportion z-test on the archive data.",
+"explanation": "A curious, concrete combination (fashion designer × microbiologist) vs a quiz question that feels like homework. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"curiosity_gap",
+"concrete_image"
+],
+"upworthy_test": "52fe46302b7b0aab38000024",
+"id": "t6-2-07",
+"track": "6",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000024)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "6.2",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "Wait, So Teachers Don’t Get To Play And Sing All Day?"
+},
+{
+"text": "There Are Some Things You Shouldn’t Say To Teachers. Here Are 12 Of The Most Important."
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 3.87% vs 1.42% (125/3,234 vs 46/3,237 clicks/impressions; z≈6.1). Test 530b9afcb768515dfa000029, 2014-02-24. Our own two-proportion z-test on the archive data.",
+"explanation": "Specific count (12) + clear topic; the loser is a sarcastic question. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"specificity",
+"too_clever"
+],
+"upworthy_test": "530b9afcb768515dfa000029",
+"id": "t6-2-08",
+"track": "6",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (000029)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "6.2",
+"prompt": "Upworthy headline test — same story, same image. Which headline got the higher click-through rate?",
+"options": [
+{
+"text": "I Bet If There Were Really A Magic Stork He'd ACTUALLY Be Paid This Much"
+},
+{
+"text": "What Requires 10 Areas Of Expertise, Would Pay Six Figures, And Has To Be Done By One Person?"
+}
+],
+"answer": 1,
+"evidence_type": "proven_test",
+"metric": "CTR 1.37% vs 0.41% (56/4,074 vs 15/3,641 clicks/impressions; z≈4.4). Test 5246f1fd943b844c87003a55, 2013-09-28. Our own two-proportion z-test on the archive data.",
+"explanation": "A riddle built from specific facts (10 areas of expertise, six figures, one person) beats a stork joke. (The data shows which won; the 'why' is our interpretation.)",
+"principles": [
+"specificity",
+"curiosity_gap"
+],
+"upworthy_test": "5246f1fd943b844c87003a55",
+"id": "t6-2-09",
+"track": "6",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy headline test (003a55)",
+"speed": true
+},
+{
+"type": "pick",
+"module": "6.2",
+"prompt": "Final: which headline would Caples call 'self-interest + news'?",
+"options": [
+{
+"text": "New for 2026: 3 Google profile fields clinics in Stockholm forget"
+},
+{
+"text": "Our agency is celebrating 2 years!"
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "A is news AND useful to the reader. B is your news, not theirs. (Make sure the 'new' claim is true before using it.)",
+"principles": [
+"news",
+"self_interest"
+],
+"id": "t6-2-10",
+"track": "6",
+"source_name": "Wikipedia: John Caples",
+"source_url": "https://en.wikipedia.org/wiki/John_Caples",
+"title": "Final: which headline would Caples call 'self-interest + news'?",
+"speed": true
+},
+{
+"type": "pick",
+"module": "6.2",
+"prompt": "Final: which primary text first line is policy-safe for a dental whitening ad?",
+"options": [
+{
+"text": "Yellow teeth ruining your photos?"
+},
+{
+"text": "Teeth whitening at a dentist, with an enamel check first."
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "A attacks appearance (Meta: no statements of inferiority about appearance).",
+"principles": [
+"policy"
+],
+"id": "t6-2-11",
+"track": "6",
+"source_name": "Meta Transparency Center, Advertising Standards: Health and Wellness",
+"source_url": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/",
+"title": "Final: which primary text first line is policy-safe for a dental…",
+"speed": true
+},
+{
+"type": "pick",
+"module": "6.2",
+"prompt": "Final: cold email CTA to a stranger?",
+"options": [
+{
+"text": "'Här är min kalender, boka 1 timme.'"
+},
+{
+"text": "'Är det här intressant för er?' (Is this interesting for you?)"
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Interest CTA (Gong).",
+"principles": [
+"interest_cta"
+],
+"id": "t6-2-12",
+"track": "6",
+"source_name": "Gong Labs, 'Surprising cold email CTA that increases meeting bookings' (304,174 emails)",
+"source_url": "https://www.gong.io/blog/this-surprising-cold-email-cta-will-help-you-book-a-lot-more-meetings",
+"title": "Final: cold email CTA to a stranger?",
+"speed": true
+},
+{
+"type": "pick",
+"module": "6.2",
+"prompt": "Final: which offer has the lower 'effort & sacrifice'?",
+"options": [
+{
+"text": "'We pull everything from your website and current profile; you approve in one 15-min call.'"
+},
+{
+"text": "'Send us your logins, photos, texts and hours, then we'll start.'"
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Hormozi: shrink effort & sacrifice.",
+"principles": [
+"value_equation"
+],
+"id": "t6-2-13",
+"track": "6",
+"source_name": "Acquisition.com free training ($100M Offers, value equation)",
+"source_url": "https://www.acquisition.com/training",
+"title": "Final: which offer has the lower 'effort & sacrifice'?",
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "6.2",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "Final: \"Nervös inför tandläkaren? Första besöket hos oss är bara samtal och röntgen — ingen behandling samma dag. Boka en tid som passar dig.\" (Nervous about the dentist? First visit is just a talk and X-rays — no treatment the same day.)",
+"answer": "good",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Situation callout without shaming, specific reassuring fact, low-risk first step, one CTA.",
+"principles": [
+"specificity",
+"risk_reversal",
+"cta"
+],
+"id": "t6-2-14",
+"track": "6",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan",
+"source_url": "https://www.loc.gov/item/23009362/",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": [],
+"speed": true
+},
+{
+"type": "missing",
+"module": "6.2",
+"prompt": "What's missing or wrong? Tick everything that applies, then reveal.",
+"artifact": "Final: \"Revolutionary paradigm-shifting aesthetics. Unlock your best self now!!! 🔥\"",
+"answer": [
+"too_clever",
+"hype",
+"no_offer",
+"policy_risk"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Jargon, hype, no offer, and 'best self' implies the reader isn't — risky.",
+"principles": [
+"clarity",
+"policy"
+],
+"id": "t6-2-15",
+"track": "6",
+"source_name": "Meta Transparency Center, Advertising Standards: Health and Wellness",
+"source_url": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/",
+"title": "What's missing or wrong? Tick everything that applies, then reve…",
+"options": []
+},
+{
+"type": "lesson",
+"module": "7.1",
+"prompt": "Clinic ads on Meta: the rules that decide what you can say",
+"body": "Meta's Health & Wellness standard restricts ads that imply a negative self-perception about appearance and before/after style promises; cosmetic procedure ads must target 18+. The Personal Attributes standard bans asserting or implying the viewer's health condition ('Do you suffer from…?' 'Your acne…'). In Sweden, prescription medicines (e.g. botulinum toxin) may not be advertised to the public at all (Läkemedelsverket), and aesthetic injections are 18+ by law (2021:363). So clinic ads sell trust, process, expertise and a free first step — never insecurity or guaranteed timed results.",
+"example": "Läkemedelsverket: you may market an aesthetic treatment, but not the prescription drug itself — so 'Botox 20% off' is out; 'Consultation with a licensed nurse about wrinkle treatments' is the safe framing.",
+"drill": {
+"q": "Which line is policy-safe for a Swedish aesthetic clinic?",
+"options": [
+"'Botox -20% i november!'",
+"'Kostnadsfri konsultation med legitimerad sjuksköterska — vi går igenom alternativen och ger ett fast pris.'"
+],
+"answer": 1,
+"why": "Advertising a prescription drug (Botox) to the public breaks Swedish law. The consultation framing sells expertise and a free first step."
+},
+"evidence_type": "principle",
+"metric": "",
+"explanation": "Advertising a prescription drug (Botox) to the public breaks Swedish law. The consultation framing sells expertise and a free first step.",
+"principles": [
+"policy",
+"sv_law",
+"sampling"
+],
+"id": "t7-1-01",
+"track": "7",
+"source_name": "Meta Transparency Center, Advertising Standards: Health and Wellness",
+"source_url": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/",
+"title": "Clinic ads on Meta: the rules that decide what you can say",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "pick",
+"module": "7.1",
+"prompt": "Physio clinic. Which hook avoids Meta's personal-attributes problem?",
+"options": [
+{
+"text": "\"Runners in Stockholm: knee pain after 5 km is common. Here's what a 45-minute physio assessment checks.\""
+},
+{
+"text": "\"Your knee pain is ruining your runs, isn't it?\""
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "A asserts the viewer HAS knee pain (personal attribute). B calls out a group and a common situation, then offers specifics.",
+"principles": [
+"policy",
+"reader_callout",
+"specificity"
+],
+"id": "t7-1-02",
+"track": "7",
+"source_name": "Meta Transparency Center: Personal attributes (ad standard)",
+"source_url": "https://transparency.meta.com/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes/",
+"title": "Physio clinic. Which hook avoids Meta's personal-attributes prob…",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "7.1",
+"prompt": "Dental clinic, cold audience. Which offer line is stronger and policy-safe?",
+"options": [
+{
+"text": "\"Free 15-minute check of your gums and enamel — then a fixed-price plan, no obligation.\""
+},
+{
+"text": "\"Perfect teeth guaranteed in 2 weeks!\""
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "A is an unqualified timed result promise (Meta policy + unbelievable). B is a specific, free first step with risk reversal.",
+"principles": [
+"policy",
+"sampling",
+"risk_reversal"
+],
+"id": "t7-1-03",
+"track": "7",
+"source_name": "Meta Transparency Center, Advertising Standards: Health and Wellness",
+"source_url": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/",
+"title": "Dental clinic, cold audience. Which offer line is stronger and p…",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "7.1",
+"prompt": "Skin clinic image choice for a Meta ad. Which is the better first test?",
+"options": [
+{
+"text": "A close-up 'before/after' of acne scars"
+},
+{
+"text": "A licensed nurse looking into the camera, holding a skin-analysis device, overlay: 'Free skin analysis'"
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Before/after close-ups are a policy risk and trigger insecurity. A face + the free first step builds trust and stays within policy.",
+"principles": [
+"face",
+"policy",
+"sampling"
+],
+"id": "t7-1-04",
+"track": "7",
+"source_name": "Meta Transparency Center, Advertising Standards: Health and Wellness",
+"source_url": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/",
+"title": "Skin clinic image choice for a Meta ad. Which is the better firs…",
+"v": 2,
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "7.1",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "Meta ad, laser clinic: \"Hate your body hair? Get silky smooth skin in just ONE session!\"",
+"answer": "bad",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Negative self-perception ('hate your…') + an unqualified result promise ('in one session') = two Meta policy problems, and it's not believable (laser needs several sessions).",
+"principles": [
+"policy",
+"specificity"
+],
+"id": "t7-1-05",
+"track": "7",
+"source_name": "Meta Transparency Center, Advertising Standards: Health and Wellness",
+"source_url": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": [],
+"v": 2,
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "7.1",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "Meta ad, dental clinic: \"New in Hammarby Sjöstad? We take new patients this month. First visit: 30 min exam + X-ray for 495 kr (normally 995 kr). Book in 2 minutes online.\"",
+"answer": "good",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Local callout, specific offer and price, time-bound reason (taking new patients), low-effort CTA. (Prices here are illustrative.)",
+"principles": [
+"reader_callout",
+"offer",
+"specificity",
+"local"
+],
+"id": "t7-1-06",
+"track": "7",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan",
+"source_url": "https://www.loc.gov/item/23009362/",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": [],
+"v": 2,
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "7.1",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "Meta ad, physio: \"Do you suffer from chronic back pain? We understand your struggle.\"",
+"answer": "bad",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Asserts a health condition about the viewer (personal attributes) and offers nothing specific.",
+"principles": [
+"policy",
+"offer"
+],
+"id": "t7-1-07",
+"track": "7",
+"source_name": "Meta Transparency Center: Personal attributes (ad standard)",
+"source_url": "https://transparency.meta.com/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes/",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": [],
+"v": 2,
+"speed": true
+},
+{
+"type": "missing",
+"module": "7.1",
+"prompt": "What's missing or wrong? Tick everything that applies, then reveal.",
+"artifact": "Meta ad, aesthetic clinic: image shows a woman frowning at her wrinkles in a mirror. Text: \"Look 10 years younger! Book now.\"",
+"answer": [
+"policy_risk",
+"hype",
+"no_offer",
+"no_proof"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Negative self-perception imagery + timed/age promise (policy), no concrete offer, no proof of expertise.",
+"principles": [
+"policy",
+"offer",
+"proof"
+],
+"mock": {
+"page": "Skin Studio",
+"cta": "Book now",
+"bg": "#f6e7e1",
+"fg": "#4a1c1c",
+"overlay": "Look 10 years younger!",
+"size": "l",
+"face": "away",
+"focal": "one",
+"contrast": "high",
+"headline": "",
+"badge": "",
+"clutter": 0
+},
+"id": "t7-1-08",
+"track": "7",
+"source_name": "Meta Transparency Center, Advertising Standards: Health and Wellness",
+"source_url": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/",
+"title": "What's missing or wrong? Tick everything that applies, then reve…",
+"options": [],
+"v": 2
+},
+{
+"type": "missing",
+"module": "7.1",
+"prompt": "What's missing or wrong? Tick everything that applies, then reveal.",
+"artifact": "Meta ad, dental: \"Klinik Tand AB — kvalitet och trygghet sedan 1998.\" Image: clinic logo on white. CTA: Learn more.",
+"answer": [
+"weak_hook",
+"no_offer",
+"wrong_audience",
+"low_contrast"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "A platitude about the clinic. No reader, no offer, logo-only image with no focal point.",
+"principles": [
+"reader_callout",
+"offer",
+"contrast"
+],
+"mock": {
+"page": "Klinik Tand AB",
+"cta": "Learn more",
+"bg": "#ffffff",
+"fg": "#9aa5b1",
+"overlay": "Kvalitet & trygghet",
+"size": "s",
+"face": null,
+"focal": "logo",
+"contrast": "low",
+"headline": "",
+"badge": "",
+"clutter": 0
+},
+"id": "t7-1-09",
+"track": "7",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan",
+"source_url": "https://www.loc.gov/item/23009362/",
+"title": "What's missing or wrong? Tick everything that applies, then reve…",
+"options": [],
+"v": 2
+},
+{
+"type": "pick",
+"module": "7.1",
+"prompt": "Which proof line is stronger for an implant clinic ad?",
+"options": [
+{
+"text": "\"Experienced team you can trust.\""
+},
+{
+"text": "\"Dr. Sara Lind, specialist in oral surgery — 14 years, 1,800+ implants placed.\" (use only real numbers)"
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Named person + checkable numbers = proof. Placeholder numbers must be replaced by the clinic's real data before running.",
+"principles": [
+"proof",
+"specificity"
+],
+"id": "t7-1-10",
+"track": "7",
+"source_name": "Campaign, excerpt from Ogilvy's 'Confessions of an Advertising Man'",
+"source_url": "https://www.campaignlive.co.uk/article/excerpt-confessions-advertising-man/996114",
+"title": "Which proof line is stronger for an implant clinic ad?",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "7.1",
+"prompt": "Physio clinic in Malmö: which audience setup fits Meta's current guidance best?",
+"options": [
+{
+"text": "Six narrow interest ad sets ('yoga', 'running', 'golf'…) with the same ad"
+},
+{
+"text": "Broad (25–65, Malmö +15 km) with 4 different creative concepts"
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Creative is the targeting now: give Meta different concepts and a broad audience in the right geography.",
+"principles": [
+"creative_targeting",
+"local"
+],
+"id": "t7-1-11",
+"track": "7",
+"source_name": "Meta for Business, 'The Creative Advantage: Unlocking the Power of Diversification with Meta Andromeda'",
+"source_url": "https://www.facebook.com/business/news/the-creative-advantage-unlocking-the-power-of-diversification-with-meta-andromeda",
+"title": "Physio clinic in Malmö: which audience setup fits Meta's current…",
+"v": 2,
+"speed": true
+},
+{
+"type": "lesson",
+"module": "7.2",
+"prompt": "Google Business Profile: how local ranking actually works",
+"body": "Google says local results are based mainly on relevance, distance and prominence. You can improve relevance with complete, accurate info (categories, services, hours), and prominence with reviews and real-world reputation. Google's guidelines forbid stuffing keywords into the business name ('Tandläkare Södermalm Bäst Billigt' is a violation) and fake reviews. That's what Synlig Media's 4,900 kr fix should sell: complete, accurate, guideline-safe profiles plus a review routine — never promises of '#1 on Google'.",
+"example": "Google's help page: 'Complete data… businesses with complete and accurate information are easier to match with the right searches.'",
+"drill": {
+"q": "Which promise can Synlig Media honestly make?",
+"options": [
+"'We guarantee #1 on Google Maps in 7 days'",
+"'We fix the 12 profile items Google uses for relevance (categories, services, hours, photos…) within 7 days, and set up a review routine'"
+],
+"answer": 1,
+"why": "Nobody controls Google's ranking; a guarantee is hype and a policy risk. A specific, deliverable scope is honest and still concrete."
+},
+"evidence_type": "principle",
+"metric": "",
+"explanation": "Nobody controls Google's ranking; a guarantee is hype and a policy risk. A specific, deliverable scope is honest and still concrete.",
+"principles": [
+"local",
+"specificity",
+"proof"
+],
+"id": "t7-2-01",
+"track": "7",
+"source_name": "Google Business Profile Help: Tips to improve your local ranking on Google",
+"source_url": "https://support.google.com/business/answer/7091",
+"title": "Google Business Profile: how local ranking actually works",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "pick",
+"module": "7.2",
+"prompt": "Clinic GBP business name. Which follows Google's guidelines?",
+"options": [
+{
+"text": "\"Södermalms Tandvård\" (the real name on the sign)"
+},
+{
+"text": "\"Södermalms Tandvård | Akut Tandläkare Stockholm Billigt\""
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Google's guidelines: the name must match the real-world name; adding keywords is not allowed and can get the profile suspended.",
+"principles": [
+"local"
+],
+"id": "t7-2-02",
+"track": "7",
+"source_name": "Google Business Profile Help: Guidelines for representing your business on Google",
+"source_url": "https://support.google.com/business/answer/3038177?hl=en",
+"title": "Clinic GBP business name. Which follows Google's guidelines?",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "7.2",
+"prompt": "Synlig Media offer to a clinic owner. Which framing is stronger?",
+"options": [
+{
+"text": "\"Google-kartan fix: 4,900 kr once. 12-point profile fix + review routine, done in 7 days. Free report first so you see the gaps.\""
+},
+{
+"text": "\"Google Business Profile optimisation services — contact us for pricing.\""
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Specific scope, fixed price, timeframe, and a free first step (Hopkins sample). 'Contact for pricing' adds effort and uncertainty.",
+"principles": [
+"offer",
+"value_equation",
+"sampling"
+],
+"id": "t7-2-03",
+"track": "7",
+"source_name": "Acquisition.com free training ($100M Offers, value equation)",
+"source_url": "https://www.acquisition.com/training",
+"title": "Synlig Media offer to a clinic owner. Which framing is stronger?",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "7.2",
+"prompt": "Clinic owner objection: 'We already have a Google profile.' Best reply?",
+"options": [
+{
+"text": "\"Ours is better.\""
+},
+{
+"text": "\"Most do — the report shows which of the 12 items yours is missing vs the 3 clinics ranking above you. Takes you 0 minutes.\""
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Acknowledge, then show specifically what's different, with zero effort. Proof via comparison.",
+"principles": [
+"proof",
+"value_equation"
+],
+"id": "t7-2-04",
+"track": "7",
+"source_name": "Acquisition.com free training ($100M Offers, value equation)",
+"source_url": "https://www.acquisition.com/training",
+"title": "Clinic owner objection: 'We already have a Google profile.' Best…",
+"v": 2,
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "7.2",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "Offer: \"Free Google-kartan report: where your clinic ranks for 'tandläkare nära mig' in 5 Stockholm postcodes, vs your 3 closest competitors. Delivered as a 1-page PDF within 24 h.\"",
+"answer": "good",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Specific, free, fast, and the deliverable is easy to picture. Classic sample offer.",
+"principles": [
+"sampling",
+"specificity",
+"value_equation"
+],
+"id": "t7-2-05",
+"track": "7",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan",
+"source_url": "https://www.loc.gov/item/23009362/",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": [],
+"v": 2,
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "7.2",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "Offer: \"Full digital marketing package — SEO, social, ads, branding — 15,000 kr/month, 12-month contract.\"",
+"answer": "bad",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Big vague bundle, big commitment, no proof, no first step. Hard for a clinic owner to say yes to from a cold ad or email.",
+"principles": [
+"offer",
+"risk_reversal"
+],
+"id": "t7-2-06",
+"track": "7",
+"source_name": "Acquisition.com free training ($100M Offers, value equation)",
+"source_url": "https://www.acquisition.com/training",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": [],
+"v": 2,
+"speed": true
+},
+{
+"type": "missing",
+"module": "7.2",
+"prompt": "What's missing or wrong? Tick everything that applies, then reveal.",
+"artifact": "Review request SMS from a clinic: \"Hi! Please leave us 5 stars on Google, it would mean a lot!! :)\"",
+"answer": [
+"policy_risk",
+"no_personalization",
+"big_ask"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Asking specifically for 5 stars (review gating/incentivised pressure) goes against Google's review policies; no personal touch; no direct link makes it effortful.",
+"principles": [
+"local",
+"personalization"
+],
+"id": "t7-2-07",
+"track": "7",
+"source_name": "Google Business Profile Help: Guidelines for representing your business on Google",
+"source_url": "https://support.google.com/business/answer/3038177?hl=en",
+"title": "What's missing or wrong? Tick everything that applies, then reve…",
+"options": [],
+"v": 2
+},
+{
+"type": "pick",
+"module": "7.2",
+"prompt": "Which GBP post is more likely to get a patient to act?",
+"options": [
+{
+"text": "\"New: evening appointments Tue & Thu until 20:00. Book online in 2 minutes — link below.\""
+},
+{
+"text": "\"Welcome to our clinic! We care about you.\""
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "News + a specific benefit + low-effort CTA. GBP posts are mini-ads.",
+"principles": [
+"news",
+"specificity",
+"cta"
+],
+"id": "t7-2-08",
+"track": "7",
+"source_name": "Google Business Profile Help: Tips to improve your local ranking on Google",
+"source_url": "https://support.google.com/business/answer/7091",
+"title": "Which GBP post is more likely to get a patient to act?",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "7.3",
+"prompt": "Cold email first line to a dental clinic owner. Which is stronger?",
+"options": [
+{
+"text": "\"I hope this email finds you well. My name is Oskar and I run Synlig Media.\""
+},
+{
+"text": "\"Searched 'tandläkare Hammarby' this morning — your clinic was #6 on the map, behind three clinics with fewer reviews than you.\""
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Relevant personalization + a specific observation the owner can verify. The first line earns the second.",
+"principles": [
+"personalization",
+"specificity",
+"hook"
+],
+"id": "t7-3-01",
+"track": "7",
+"source_name": "Belkins, 'How different B2B cold email subject lines perform: 2025 study' (5.5M emails)",
+"source_url": "https://belkins.io/blog/b2b-cold-email-subject-line-statistics",
+"title": "Cold email first line to a dental clinic owner. Which is stronger?",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "7.3",
+"prompt": "Cold email CTA to a clinic owner. Which is better for a first email?",
+"options": [
+{
+"text": "\"Want me to send over the 1-page map report? It's free.\""
+},
+{
+"text": "\"Can we book a 30-minute call on Tuesday at 10?\""
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Gong: interest-based CTAs beat specific-time asks in cold email. Small yes first.",
+"principles": [
+"interest_cta",
+"sampling"
+],
+"id": "t7-3-02",
+"track": "7",
+"source_name": "Gong Labs, 'Surprising cold email CTA that increases meeting bookings' (304,174 emails)",
+"source_url": "https://www.gong.io/blog/this-surprising-cold-email-cta-will-help-you-book-a-lot-more-meetings",
+"title": "Cold email CTA to a clinic owner. Which is better for a first em…",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "7.3",
+"prompt": "Subject line for a cold email to a clinic owner. Which fits the data better?",
+"options": [
+{
+"text": "\"Your Google-kartan ranking\""
+},
+{
+"text": "\"🚀 Unlock explosive growth for your clinic with our proven system!!!\""
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Belkins: short (2–4 words), personal subjects outperform hype. A looks like a colleague's email.",
+"principles": [
+"personalization",
+"brevity"
+],
+"id": "t7-3-03",
+"track": "7",
+"source_name": "Belkins, 'How different B2B cold email subject lines perform: 2025 study' (5.5M emails)",
+"source_url": "https://belkins.io/blog/b2b-cold-email-subject-line-statistics",
+"title": "Subject line for a cold email to a clinic owner. Which fits the …",
+"v": 2,
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "7.3",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "Cold email body: \"Hej Anna — såg att Tandläkarna i Årsta har 4,9★ men ligger på plats 7 när man söker 'tandläkare Årsta'. Det beror oftast på 2–3 saker i Google-profilen. Vill du att jag skickar en gratis rapport som visar vilka? /Oskar, Synlig Media\"",
+"answer": "good",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Personal, specific observation, a reason-why, an interest CTA, under 60 words.",
+"principles": [
+"personalization",
+"specificity",
+"interest_cta",
+"brevity"
+],
+"id": "t7-3-04",
+"track": "7",
+"source_name": "Gong Labs, 'Surprising cold email CTA that increases meeting bookings' (304,174 emails)",
+"source_url": "https://www.gong.io/blog/this-surprising-cold-email-cta-will-help-you-book-a-lot-more-meetings",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": [],
+"v": 2
+},
+{
+"type": "goodbad",
+"module": "7.3",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "Follow-up #2: \"Just following up on my previous email. Did you get a chance to read it? I never heard back.\"",
+"answer": "bad",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Gong: 'I never heard back'-style follow-ups cut meetings. Add value instead: a new fact, a mini-insight, or the report itself.",
+"principles": [
+"followup"
+],
+"id": "t7-3-05",
+"track": "7",
+"source_name": "Gong, '7 cold email statistics that can refine your engagement strategy'",
+"source_url": "https://www.gong.io/blog/cold-email-stats",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": [],
+"v": 2,
+"speed": true
+},
+{
+"type": "missing",
+"module": "7.3",
+"prompt": "What's missing or wrong? Tick everything that applies, then reveal.",
+"artifact": "Cold email: \"Dear Sir/Madam, We are a leading full-service digital agency offering SEO, SEM, SMM, web design and more. Please find our brochure attached. Let us know when you are free for a meeting.\"",
+"answer": [
+"no_personalization",
+"wrong_audience",
+"no_offer",
+"big_ask",
+"too_long"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "No name, no clinic-specific observation, a generic service list, an attachment (spam risk) and a big ask.",
+"principles": [
+"personalization",
+"interest_cta",
+"offer"
+],
+"id": "t7-3-06",
+"track": "7",
+"source_name": "Gong Labs, 'Surprising cold email CTA that increases meeting bookings' (304,174 emails)",
+"source_url": "https://www.gong.io/blog/this-surprising-cold-email-cta-will-help-you-book-a-lot-more-meetings",
+"title": "What's missing or wrong? Tick everything that applies, then reve…",
+"options": [],
+"v": 2
+},
+{
+"type": "pick",
+"module": "7.3",
+"prompt": "A follow-up 4 days later. Which adds value?",
+"options": [
+{
+"text": "\"Bumping this to the top of your inbox.\""
+},
+{
+"text": "\"Quick one: 2 of the 3 clinics above you on the map list 'akut tandvård' as a service — yours doesn't. That alone can matter for urgent searches.\""
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Woodpecker: follow-ups lift replies; a follow-up with a new, specific insight gives a reason to reply.",
+"principles": [
+"followup",
+"specificity"
+],
+"id": "t7-3-07",
+"track": "7",
+"source_name": "Woodpecker, 'These Stats Prove The Importance of Follow-up Emails'",
+"source_url": "https://woodpecker.co/blog/follow-up-statistics/",
+"title": "A follow-up 4 days later. Which adds value?",
+"v": 2,
+"speed": true
+},
+{
+"type": "write",
+"module": "7.4",
+"prompt": "BRIEF: Write a policy-safe Meta ad (primary text ≤ 60 words + headline ≤ 6 words + CTA) for a laser hair-removal clinic on Södermalm offering a free patch test + consultation.",
+"model_answers": [
+"Primary text: \"Funderar du på laserhårborttagning? På Södermalm börjar vi alltid med ett kostnadsfritt test + 20 min konsultation med legitimerad sjuksköterska. Du får ett fast pris innan du bestämmer dig. Inga paket du måste köpa.\"\nHeadline: \"Gratis test + konsultation\"\nCTA: Boka nu",
+"EN: \"Thinking about laser hair removal? On Södermalm we always start with a free patch test + 20-min consultation with a licensed nurse. You get a fixed price before you decide.\" Headline: \"Free patch test first\""
+],
+"steps": [
+"Call out the reader by situation, not by body insecurity.",
+"Lead with the free first step.",
+"Add one trust fact (licensed nurse) and one risk reducer (fixed price, no package).",
+"Keep the headline to the offer.",
+"Check: no 'hate your…', no timed result promise."
+],
+"checklist": [
+"Reader callout without insecurity",
+"Free first step in first 2 lines",
+"One trust fact",
+"Headline = offer",
+"No timed result promise",
+"≤60 words"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"policy",
+"sampling",
+"reader_callout"
+],
+"kind": "primary",
+"lang": "en",
+"id": "t7-4-01",
+"track": "7",
+"source_name": "Meta Transparency Center, Advertising Standards: Health and Wellness",
+"source_url": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/",
+"title": "BRIEF: Write a policy-safe Meta ad (primary text ≤ 60 words + he…",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "write",
+"module": "7.4",
+"prompt": "BRIEF: Write a 3-sentence Google Business Profile 'Offer' post for a physio clinic launching evening appointments.",
+"model_answers": [
+"\"Nu har vi kvällstider tisdag och torsdag till 20:00. Första bedömningen (45 min) ger dig en skriftlig plan. Boka online på 2 minuter.\""
+],
+"steps": [
+"Lead with the news.",
+"One specific benefit.",
+"Low-effort CTA."
+],
+"checklist": [
+"News first",
+"Specific time/benefit",
+"Clear CTA",
+"≤3 sentences"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"news",
+"specificity",
+"cta"
+],
+"kind": "primary",
+"lang": "sv",
+"id": "t7-4-02",
+"track": "7",
+"source_name": "Google Business Profile Help: Tips to improve your local ranking on Google",
+"source_url": "https://support.google.com/business/answer/7091",
+"title": "BRIEF: Write a 3-sentence Google Business Profile 'Offer' post f…",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "write",
+"module": "7.4",
+"prompt": "BRIEF: Write a cold email (≤ 80 words) from Oskar to a dental clinic owner who ranks #6 on Google Maps for their area. Goal: they reply 'yes, send the report'.",
+"model_answers": [
+"Subject: Plats 6 på kartan\n\nHej Anna,\n\nNär jag sökte \"tandläkare Årsta\" i morse låg ni på plats 6 — efter tre kliniker med färre recensioner än er. Det brukar bero på 2–3 saker i Google-profilen.\n\nVill du att jag skickar en gratis 1-sidig rapport som visar vilka?\n\n/Oskar\nSynlig Media"
+],
+"steps": [
+"Personal, verifiable observation first.",
+"Explain why in one line (reason-why).",
+"Interest CTA — a small yes.",
+"Short subject, 2–4 words.",
+"No attachments, no links in email #1."
+],
+"checklist": [
+"Personal first line",
+"Specific fact",
+"Reason-why",
+"Interest CTA",
+"≤80 words",
+"Short subject"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"personalization",
+"interest_cta",
+"brevity"
+],
+"kind": "email",
+"lang": "sv",
+"id": "t7-4-03",
+"track": "7",
+"source_name": "Gong Labs, 'Surprising cold email CTA that increases meeting bookings' (304,174 emails)",
+"source_url": "https://www.gong.io/blog/this-surprising-cold-email-cta-will-help-you-book-a-lot-more-meetings",
+"title": "BRIEF: Write a cold email (≤ 80 words) from Oskar to a dental cl…",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "write",
+"module": "7.4",
+"prompt": "BRIEF: Write 3 different Meta ad hooks (first line only) for a dental clinic taking new patients in Uppsala. Each must use a different angle: (1) local news, (2) fear-free/anxiety, (3) price clarity. Policy-safe.",
+"model_answers": [
+"1) \"Ny i Uppsala? Vi tar emot nya patienter i november.\"\n2) \"Nervös för tandläkaren? Första besöket är bara samtal och undersökning — ingen borr.\"\n3) \"Vet vad det kostar innan du sätter dig i stolen: fast pris efter undersökningen.\""
+],
+"steps": [
+"Pick 3 genuinely different reasons to care.",
+"Each hook names the reader or situation.",
+"No health assertions about the viewer."
+],
+"checklist": [
+"3 different angles",
+"Each calls out a reader",
+"No 'you suffer from…'",
+"Each ≤ 15 words"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"creative_targeting",
+"reader_callout",
+"policy"
+],
+"kind": "headline",
+"lang": "en",
+"id": "t7-4-04",
+"track": "7",
+"source_name": "Meta for Business, 'The Creative Advantage: Unlocking the Power of Diversification with Meta Andromeda'",
+"source_url": "https://www.facebook.com/business/news/the-creative-advantage-unlocking-the-power-of-diversification-with-meta-andromeda",
+"title": "BRIEF: Write 3 different Meta ad hooks (first line only) for a d…",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "goodbad",
+"module": "8.1",
+"prompt": "Bra eller dåligt? Bedöm, och visa sedan förklaringen.",
+"artifact": "Rubrik: \"Vi är Stockholms bästa klinik med passionerad personal!\"",
+"answer": "bad",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Handlar om kliniken, inte läsaren. 'Bäst' och 'passionerad' är floskler som alla kan påstå (Hopkins). Ingen siffra, inget erbjudande.",
+"principles": [
+"specificity",
+"reader_callout"
+],
+"lang": "sv",
+"id": "t8-1-01",
+"track": "8",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan",
+"source_url": "https://www.loc.gov/item/23009362/",
+"title": "Bra eller dåligt? Bedöm, och visa sedan förklaringen.",
+"options": [],
+"v": 2,
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "8.1",
+"prompt": "Bra eller dåligt? Bedöm, och visa sedan förklaringen.",
+"artifact": "Annons: \"Tandblekning hos tandläkare — inte i ett köpcentrum. Först en gratis kontroll av emaljen (15 min), sedan fast pris. Boka en tid som passar dig.\"",
+"answer": "good",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Kontrast mot alternativet, gratis första steg, fast pris, en tydlig uppmaning. Klarspråk: korta meningar, vardagsord.",
+"principles": [
+"sampling",
+"specificity",
+"sv_klarsprak"
+],
+"lang": "sv",
+"id": "t8-1-02",
+"track": "8",
+"source_name": "Isof (Språkrådet): Vad är klarspråk?",
+"source_url": "https://www.isof.se/svenska-spraket/klarsprak/lar-dig-mer-om-klarsprak/vad-ar-klarsprak",
+"title": "Bra eller dåligt? Bedöm, och visa sedan förklaringen.",
+"options": [],
+"v": 2,
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "8.1",
+"prompt": "Bra eller dåligt? Bedöm, och visa sedan förklaringen.",
+"artifact": "Annons: \"Botox -25% hela november! Begränsat antal platser.\"",
+"answer": "bad",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Receptbelagda läkemedel (botulinumtoxin) får inte marknadsföras till allmänheten i Sverige. Det är ett lagbrott, inte bara en policyrisk.",
+"principles": [
+"sv_law",
+"policy"
+],
+"lang": "sv",
+"id": "t8-1-03",
+"track": "8",
+"source_name": "Läkemedelsverket: Reklam för läkemedel som används vid estetiska injektioner",
+"source_url": "https://www.lakemedelsverket.se/sv/medicinteknik/anvanda/sakra-estetiska-injektionsprodukter/reklam-for-lakemedel-som-anvands-vid-estetiska-injektioner",
+"title": "Bra eller dåligt? Bedöm, och visa sedan förklaringen.",
+"options": [],
+"v": 2,
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "8.1",
+"prompt": "Bra eller dåligt? Bedöm, och visa sedan förklaringen.",
+"artifact": "Kallmejl, ämnesrad: \"Er Google-profil\"",
+"answer": "good",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Kort (2–3 ord), personligt och relevant — ser ut som ett mejl från en kollega, inte reklam (Belkins).",
+"principles": [
+"brevity",
+"personalization"
+],
+"lang": "sv",
+"id": "t8-1-04",
+"track": "8",
+"source_name": "Belkins, 'How different B2B cold email subject lines perform: 2025 study' (5.5M emails)",
+"source_url": "https://belkins.io/blog/b2b-cold-email-subject-line-statistics",
+"title": "Bra eller dåligt? Bedöm, och visa sedan förklaringen.",
+"options": [],
+"v": 2,
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "8.1",
+"prompt": "Bra eller dåligt? Bedöm, och visa sedan förklaringen.",
+"artifact": "Kallmejl, öppning: \"Hoppas allt är bra med dig! Jag heter Oskar och driver Synlig Media, en byrå som hjälper företag att växa digitalt med smarta lösningar.\"",
+"answer": "bad",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Två meningar om avsändaren innan läsaren får något. 'Smarta lösningar' säger ingenting. Börja med en konkret iakttagelse om deras klinik.",
+"principles": [
+"personalization",
+"specificity"
+],
+"lang": "sv",
+"id": "t8-1-05",
+"track": "8",
+"source_name": "Gong, '7 cold email statistics that can refine your engagement strategy'",
+"source_url": "https://www.gong.io/blog/cold-email-stats",
+"title": "Bra eller dåligt? Bedöm, och visa sedan förklaringen.",
+"options": [],
+"v": 2,
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "8.1",
+"prompt": "Bra eller dåligt? Bedöm, och visa sedan förklaringen.",
+"artifact": "Annons, fysioterapi: \"Ont i knät efter löprundan? Våra fysioterapeuter börjar alltid med en 45 minuters bedömning och en skriftlig plan. Boka online.\"",
+"answer": "good",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Beskriver en vanlig situation (inte 'du lider av…'), konkret process, tydlig uppmaning. Policysäker.",
+"principles": [
+"reader_callout",
+"specificity",
+"policy"
+],
+"lang": "sv",
+"id": "t8-1-06",
+"track": "8",
+"source_name": "Meta Transparency Center: Personal attributes (ad standard)",
+"source_url": "https://transparency.meta.com/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes/",
+"title": "Bra eller dåligt? Bedöm, och visa sedan förklaringen.",
+"options": [],
+"v": 2,
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "8.1",
+"prompt": "Bra eller dåligt? Bedöm, och visa sedan förklaringen.",
+"artifact": "Annons: \"Hatar du dina rynkor? Se 10 år yngre ut på en vecka!\"",
+"answer": "bad",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Negativ självbild + tidsbestämt resultatlöfte: bryter mot Metas hälsopolicy och är inte trovärdigt.",
+"principles": [
+"policy",
+"specificity"
+],
+"lang": "sv",
+"id": "t8-1-07",
+"track": "8",
+"source_name": "Meta Transparency Center, Advertising Standards: Health and Wellness",
+"source_url": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/",
+"title": "Bra eller dåligt? Bedöm, och visa sedan förklaringen.",
+"options": [],
+"v": 2,
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "8.1",
+"prompt": "Bra eller dåligt? Bedöm, och visa sedan förklaringen.",
+"artifact": "Annons: \"Vi erbjuder ett brett utbud av högkvalitativa behandlingar för hela familjen i en trivsam miljö.\"",
+"answer": "bad",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Byråkratisk, abstrakt och generisk. Klarspråk: säg vad, för vem och vad läsaren ska göra.",
+"principles": [
+"sv_klarsprak",
+"specificity"
+],
+"lang": "sv",
+"id": "t8-1-08",
+"track": "8",
+"source_name": "Isof (Språkrådet): Vad är klarspråk?",
+"source_url": "https://www.isof.se/svenska-spraket/klarsprak/lar-dig-mer-om-klarsprak/vad-ar-klarsprak",
+"title": "Bra eller dåligt? Bedöm, och visa sedan förklaringen.",
+"options": [],
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "8.2",
+"prompt": "Tandklinik, kall målgrupp. Vilken första rad är starkare?",
+"options": [
+{
+"text": "\"Ny i Hammarby Sjöstad? Vi tar emot nya patienter i november — första undersökningen 495 kr.\""
+},
+{
+"text": "\"Välkommen till Klinik Söder — din trygghet sedan 1998.\""
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "B ropar på läsaren (ny i området), ger en nyhet och ett konkret pris. A handlar om kliniken.",
+"principles": [
+"reader_callout",
+"news",
+"specificity"
+],
+"lang": "sv",
+"id": "t8-2-01",
+"track": "8",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan",
+"source_url": "https://www.loc.gov/item/23009362/",
+"title": "Tandklinik, kall målgrupp. Vilken första rad är starkare?",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "8.2",
+"prompt": "Vilken uppmaning (CTA) passar ett första kallmejl bäst?",
+"options": [
+{
+"text": "\"Har du 30 minuter på tisdag kl. 10 för ett möte?\""
+},
+{
+"text": "\"Vill du att jag skickar rapporten?\""
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Intressebaserad CTA (ett litet ja) slår en specifik mötestid i kalla mejl (Gong).",
+"principles": [
+"interest_cta"
+],
+"lang": "sv",
+"id": "t8-2-02",
+"track": "8",
+"source_name": "Gong Labs, 'Surprising cold email CTA that increases meeting bookings' (304,174 emails)",
+"source_url": "https://www.gong.io/blog/this-surprising-cold-email-cta-will-help-you-book-a-lot-more-meetings",
+"title": "Vilken uppmaning (CTA) passar ett första kallmejl bäst?",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "8.2",
+"prompt": "Vilken rubrik är tydligast enligt klarspråk?",
+"options": [
+{
+"text": "\"Syns ni på Google-kartan?\""
+},
+{
+"text": "\"Optimering av er digitala lokala närvaro\""
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Vardagsord, en fråga läsaren direkt kan svara på. Klarspråk: skriv för mottagaren.",
+"principles": [
+"sv_klarsprak",
+"clarity"
+],
+"lang": "sv",
+"id": "t8-2-03",
+"track": "8",
+"source_name": "Isof (Språkrådet): Vad är klarspråk?",
+"source_url": "https://www.isof.se/svenska-spraket/klarsprak/lar-dig-mer-om-klarsprak/vad-ar-klarsprak",
+"title": "Vilken rubrik är tydligast enligt klarspråk?",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "8.2",
+"prompt": "Hudklinik. Vilket erbjudande är mest konkret?",
+"options": [
+{
+"text": "\"Gratis hudanalys (20 min) med legitimerad sjuksköterska — du får en skriftlig plan och ett fast pris.\""
+},
+{
+"text": "\"Fri konsultation\""
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Konkret: tid, vem, vad du får. Mer specifikt = mer trovärdigt (Hopkins).",
+"principles": [
+"specificity",
+"sampling"
+],
+"lang": "sv",
+"id": "t8-2-04",
+"track": "8",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan",
+"source_url": "https://www.loc.gov/item/23009362/",
+"title": "Hudklinik. Vilket erbjudande är mest konkret?",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "8.2",
+"prompt": "Vilken mening har lägst LIX (lättast att läsa)?",
+"options": [
+{
+"text": "\"Vi hittar en behandling som passar dig. Du får veta priset först.\""
+},
+{
+"text": "\"Vi tillhandahåller omfattande behandlingsalternativ anpassade efter individuella förutsättningar.\""
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "LIX = ordlängd + meningslängd. Korta meningar och korta ord ger lägre LIX och läses snabbare i flödet.",
+"principles": [
+"sv_klarsprak",
+"brevity"
+],
+"lang": "sv",
+"id": "t8-2-05",
+"track": "8",
+"source_name": "Wikipedia (sv): LIX — läsbarhetsindex",
+"source_url": "https://sv.wikipedia.org/wiki/LIX",
+"title": "Vilken mening har lägst LIX (lättast att läsa)?",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "8.2",
+"prompt": "Ämnesrad till klinikägare. Vilken ser minst ut som reklam?",
+"options": [
+{
+"text": "\"ERBJUDANDE: Fler patienter garanterat!!!\""
+},
+{
+"text": "\"Fråga om er klinik\""
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Kort, personlig, ingen hype. Hype-ord och versaler sänker svarsfrekvensen (Belkins).",
+"principles": [
+"brevity",
+"personalization"
+],
+"lang": "sv",
+"id": "t8-2-06",
+"track": "8",
+"source_name": "Belkins, 'How different B2B cold email subject lines perform: 2025 study' (5.5M emails)",
+"source_url": "https://belkins.io/blog/b2b-cold-email-subject-line-statistics",
+"title": "Ämnesrad till klinikägare. Vilken ser minst ut som reklam?",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "8.2",
+"prompt": "Fysioterapi, Meta. Vilken text följer Metas regel om personliga egenskaper?",
+"options": [
+{
+"text": "\"Ryggont som kommer tillbaka? Vi börjar med en bedömning och en plan du kan följa hemma.\""
+},
+{
+"text": "\"Du som har ryggont — vi vet hur du lider.\""
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "A påstår att mottagaren har ett hälsotillstånd. B beskriver en situation.",
+"principles": [
+"policy"
+],
+"lang": "sv",
+"id": "t8-2-07",
+"track": "8",
+"source_name": "Meta Transparency Center: Personal attributes (ad standard)",
+"source_url": "https://transparency.meta.com/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes/",
+"title": "Fysioterapi, Meta. Vilken text följer Metas regel om personliga …",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "8.2",
+"prompt": "Socialt bevis i en annons för en tandklinik. Vilket är starkast (om siffrorna är sanna)?",
+"options": [
+{
+"text": "\"214 omdömen på Google, snitt 4,8★ — läs dem innan du bokar.\""
+},
+{
+"text": "\"Tusentals nöjda patienter!\""
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Specifikt och kontrollerbart. Använd bara riktiga siffror.",
+"principles": [
+"proof",
+"specificity"
+],
+"lang": "sv",
+"id": "t8-2-08",
+"track": "8",
+"source_name": "Campaign, excerpt from Ogilvy's 'Confessions of an Advertising Man'",
+"source_url": "https://www.campaignlive.co.uk/article/excerpt-confessions-advertising-man/996114",
+"title": "Socialt bevis i en annons för en tandklinik. Vilket är starkast …",
+"v": 2,
+"speed": true
+},
+{
+"type": "write",
+"module": "8.3",
+"prompt": "UPPDRAG: Skriv en Meta-annons på svenska (primärtext ≤ 50 ord + rubrik ≤ 5 ord) för en tandklinik i Uppsala som tar emot nya patienter. Policysäker, klarspråk.",
+"model_answers": [
+"Primärtext: \"Ny i Uppsala eller dags att byta tandläkare? Vi tar emot nya patienter i november. Första besöket: undersökning och röntgen, sedan får du ett fast pris för eventuell behandling. Boka online på 2 minuter.\"\nRubrik: \"Nya patienter välkomna\""
+],
+"steps": [
+"Ropa på läsaren (ny i stan / vill byta).",
+"Ge en nyhet eller ett skäl att agera nu.",
+"Konkret första steg + fast pris.",
+"Kort uppmaning.",
+"Läs högt: korta meningar, vardagsord."
+],
+"checklist": [
+"Läsaren nämns",
+"Konkret första steg",
+"Fast pris/trygghet",
+"Tydlig CTA",
+"≤50 ord",
+"Ingen hälsopåstående om läsaren"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"reader_callout",
+"sv_klarsprak",
+"policy"
+],
+"kind": "primary",
+"lang": "sv",
+"id": "t8-3-01",
+"track": "8",
+"source_name": "Isof (Språkrådet): Vad är klarspråk?",
+"source_url": "https://www.isof.se/svenska-spraket/klarsprak/lar-dig-mer-om-klarsprak/vad-ar-klarsprak",
+"title": "UPPDRAG: Skriv en Meta-annons på svenska (primärtext ≤ 50 ord + …",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "write",
+"module": "8.3",
+"prompt": "UPPDRAG: Skriv ett kallmejl på svenska (≤ 70 ord + ämnesrad 2–4 ord) från Synlig Media till en fysioterapiklinik som saknar öppettider i sin Google-profil.",
+"model_answers": [
+"Ämne: Era öppettider\n\nHej Johan,\n\nNär jag sökte \"fysioterapeut Västerås\" saknades era öppettider på Google-kartan — kliniken ovanför er visar \"Öppet till 19\". Sådant påverkar vem folk ringer.\n\nVill du att jag skickar en gratis lista med de 5 saker som saknas i er profil?\n\n/Oskar, Synlig Media"
+],
+"steps": [
+"Konkret iakttagelse som går att kontrollera.",
+"En mening om varför det spelar roll.",
+"Litet ja som CTA.",
+"Inga bilagor eller länkar i första mejlet."
+],
+"checklist": [
+"Personlig första rad",
+"Specifik iakttagelse",
+"Varför det spelar roll",
+"Intresse-CTA",
+"≤70 ord",
+"Ämnesrad 2–4 ord"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"personalization",
+"interest_cta",
+"brevity"
+],
+"kind": "email",
+"lang": "sv",
+"id": "t8-3-02",
+"track": "8",
+"source_name": "Gong Labs, 'Surprising cold email CTA that increases meeting bookings' (304,174 emails)",
+"source_url": "https://www.gong.io/blog/this-surprising-cold-email-cta-will-help-you-book-a-lot-more-meetings",
+"title": "UPPDRAG: Skriv ett kallmejl på svenska (≤ 70 ord + ämnesrad 2–4 …",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "write",
+"module": "8.3",
+"prompt": "UPPDRAG: Skriv om denna text till klarspråk (max 2 meningar): \"Vi tillhandahåller ett brett spektrum av estetiska behandlingsalternativ i en professionell och trygg miljö med fokus på individanpassade lösningar.\"",
+"model_answers": [
+"\"Vi hjälper dig hitta en behandling som passar dig. Du träffar en legitimerad sjuksköterska och får ett fast pris innan du bestämmer dig.\""
+],
+"steps": [
+"Byt substantiv ('tillhandahåller', 'alternativ') mot verb.",
+"Skriv 'du' och 'vi'.",
+"Byt abstrakt ('trygg miljö') mot ett konkret bevis (legitimerad sjuksköterska, fast pris)."
+],
+"checklist": [
+"Max 2 meningar",
+"Du/vi-tilltal",
+"Konkret bevis",
+"Inga floskler"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"sv_klarsprak",
+"specificity"
+],
+"kind": "primary",
+"lang": "sv",
+"id": "t8-3-03",
+"track": "8",
+"source_name": "Isof (Språkrådet): Vad är klarspråk?",
+"source_url": "https://www.isof.se/svenska-spraket/klarsprak/lar-dig-mer-om-klarsprak/vad-ar-klarsprak",
+"title": "UPPDRAG: Skriv om denna text till klarspråk (max 2 meningar): \"V…",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "write",
+"module": "8.3",
+"prompt": "UPPDRAG: Skriv 3 rubriker (≤ 6 ord) på svenska för Synlig Medias gratis 'Google-kartan'-rapport. En per vinkel: nyfikenhet, konkurrent, siffra.",
+"model_answers": [
+"1) \"Syns er klinik på kartan?\"\n2) \"Därför väljer de grannkliniken\"\n3) \"Plats 7 → plats 3?\" (använd bara riktiga exempel)"
+],
+"steps": [
+"Nyfikenhet kopplad till egenintresse (Caples).",
+"Konkurrentvinkeln: visa vad de förlorar.",
+"Siffror gör det konkret — men hitta inte på resultat."
+],
+"checklist": [
+"3 olika vinklar",
+"≤6 ord var",
+"Läsarens egenintresse",
+"Inga påhittade resultat"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"curiosity_gap",
+"self_interest",
+"specificity"
+],
+"kind": "headline",
+"lang": "sv",
+"id": "t8-3-04",
+"track": "8",
+"source_name": "Wikipedia: John Caples",
+"source_url": "https://en.wikipedia.org/wiki/John_Caples",
+"title": "UPPDRAG: Skriv 3 rubriker (≤ 6 ord) på svenska för Synlig Medias…",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "lesson",
+"module": "9.1",
+"prompt": "The first 3 seconds decide everything",
+"body": "TikTok reports that over 63% of the highest-CTR video ads show the key message or product within the first 3 seconds (as quoted by Demand Curve). Meta/Nielsen found up to 47% of a video ad's value is delivered in the first 3 seconds. So: no logo intros, no slow fades. Open with the reader, the problem, the result or the product — on screen AND in captions (most feeds start muted).",
+"example": "Meta: captioned video ads increase view time by an average of 12%.",
+"drill": {
+"q": "Which opening is stronger for a 20-second clinic video?",
+"options": [
+"0–3s: animated clinic logo with music",
+"0–3s: nurse to camera, caption: 'What we check before ANY laser treatment'"
+],
+"answer": 1,
+"why": "Key message + human face + caption in the first 3 seconds. A logo intro wastes the most valuable seconds."
+},
+"evidence_type": "principle",
+"metric": "",
+"explanation": "Key message + human face + caption in the first 3 seconds. A logo intro wastes the most valuable seconds.",
+"principles": [
+"first3",
+"hook",
+"sound_off"
+],
+"id": "t9-1-01",
+"track": "9",
+"source_name": "Demand Curve Growth Program, 'How to Make TikTok Ads that Convert' (quotes TikTok's 63% / first-3-seconds finding)",
+"source_url": "https://gp.demandcurve.com/lessons/how-to-make-tiktok-ads-that-convert",
+"title": "The first 3 seconds decide everything",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "lesson",
+"module": "9.1",
+"prompt": "Hook types that work (and how to pick one)",
+"body": "Common hook types: call-out ('Clinic owners in Stockholm…'), result-first ('This took us from 4 to 19 bookings/week' — only if true), contrarian ('Stop posting before/after photos'), mistake ('The #1 mistake on your Google profile'), question, story-open ('Last Tuesday a patient told me…'), pattern interrupt (unexpected visual). Pick the one that fits the audience's awareness level (Schwartz): unaware people need a story/problem; most-aware need the offer.",
+"example": "Upworthy's archive shows the same thing for headlines: concrete, curiosity-plus-benefit lines beat vague ones.",
+"drill": {
+"q": "Most-aware audience (already follows the clinic). Best hook?",
+"options": [
+"A 30-second story about why teeth matter",
+"'Evening slots are open this week — book in 2 min'"
+],
+"answer": 1,
+"why": "Most-aware people need the offer, not education."
+},
+"evidence_type": "principle",
+"metric": "",
+"explanation": "Most-aware people need the offer, not education.",
+"principles": [
+"awareness",
+"hook"
+],
+"id": "t9-1-02",
+"track": "9",
+"source_name": "Personal MBA: Levels of Awareness (summary of Schwartz, Breakthrough Advertising)",
+"source_url": "https://personalmba.com/levels-of-awareness/",
+"title": "Hook types that work (and how to pick one)",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "pick",
+"module": "9.1",
+"prompt": "TikTok/Reels hook for a skincare brand (DTC). Which first line is stronger?",
+"options": [
+{
+"text": "\"Hi guys! So today I want to talk a little bit about our brand story…\""
+},
+{
+"text": "\"I tested this €19 serum for 30 days. Here's what actually changed (and what didn't).\""
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Result-first + specific price/time + honest framing. The first is a slow start. (A real ad must have real results.)",
+"principles": [
+"first3",
+"specificity",
+"hook"
+],
+"id": "t9-1-03",
+"track": "9",
+"source_name": "Demand Curve Growth Program, 'How to Make TikTok Ads that Convert' (quotes TikTok's 63% / first-3-seconds finding)",
+"source_url": "https://gp.demandcurve.com/lessons/how-to-make-tiktok-ads-that-convert",
+"title": "TikTok/Reels hook for a skincare brand (DTC). Which first line i…",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "9.1",
+"prompt": "UGC-style vs polished studio ad for a cold TikTok audience. Which is the better FIRST test?",
+"options": [
+{
+"text": "A 4K studio spot with a voice-over and logo animation"
+},
+{
+"text": "A creator talking to camera, filmed on a phone, showing the product in use"
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Native-looking creator content usually fits short-form feeds better; Meta also reports partnership (creator) ads averaging 19% lower CPA in its studies. Test both — but start native.",
+"principles": [
+"ugc",
+"first3"
+],
+"id": "t9-1-04",
+"track": "9",
+"source_name": "Meta for Business, 'New AI-powered tools to scale creator and brand partnerships' (partnership ads stats)",
+"source_url": "https://www.facebook.com/business/news/new-ai-powered-tools-to-scale-creator-and-brand-partnerships",
+"title": "UGC-style vs polished studio ad for a cold TikTok audience. Whic…",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "9.1",
+"prompt": "Which on-screen text works better in the first frame (muted)?",
+"options": [
+{
+"text": "\"Dry skin in winter? 3 things a dermatologist nurse checks first\""
+},
+{
+"text": "\"✨ Introducing the future of skincare ✨\""
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Specific reader + specific promise readable in one glance. The first is vague hype.",
+"principles": [
+"sound_off",
+"specificity",
+"reader_callout"
+],
+"id": "t9-1-05",
+"track": "9",
+"source_name": "Meta for Business, 'Capture Attention with Updated Features for Video Ads'",
+"source_url": "https://www.facebook.com/business/news/updated-features-for-video-ads",
+"title": "Which on-screen text works better in the first frame (muted)?",
+"v": 2,
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "9.1",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "Video ad plan: 0–2s product spinning on white, 2–6s logo, 6–15s text 'Shop now'. No captions, no person.",
+"answer": "bad",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Slow start, no hook, no human, no message muted. Most viewers are gone before second 3.",
+"principles": [
+"first3",
+"hook",
+"sound_off"
+],
+"id": "t9-1-06",
+"track": "9",
+"source_name": "Meta for Business, 'Capture Attention with Updated Features for Video Ads'",
+"source_url": "https://www.facebook.com/business/news/updated-features-for-video-ads",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": [],
+"v": 2,
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "9.1",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "Video ad plan: 0–2s creator holds the product to camera: 'I stopped buying 3 products because of this one.' Captions on. 2–12s demo. 12–15s offer + CTA.",
+"answer": "good",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Product + hook in the first 2 seconds, captions, demo then offer. Classic short-form structure.",
+"principles": [
+"first3",
+"ugc",
+"sound_off"
+],
+"id": "t9-1-07",
+"track": "9",
+"source_name": "Demand Curve Growth Program, 'How to Make TikTok Ads that Convert' (quotes TikTok's 63% / first-3-seconds finding)",
+"source_url": "https://gp.demandcurve.com/lessons/how-to-make-tiktok-ads-that-convert",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": [],
+"v": 2,
+"speed": true
+},
+{
+"type": "missing",
+"module": "9.1",
+"prompt": "What's missing or wrong? Tick everything that applies, then reveal.",
+"artifact": "Reels ad: 0–4s drone shot of Stockholm, 4–8s clinic exterior, 8–20s music with team photos, ends with 'Link in bio'.",
+"answer": [
+"slow_start",
+"weak_hook",
+"no_offer",
+"no_cta"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Key message never arrives; no offer; vague CTA (and 'link in bio' is wrong for an ad).",
+"principles": [
+"first3",
+"offer",
+"cta"
+],
+"id": "t9-1-08",
+"track": "9",
+"source_name": "Demand Curve Growth Program, 'How to Make TikTok Ads that Convert' (quotes TikTok's 63% / first-3-seconds finding)",
+"source_url": "https://gp.demandcurve.com/lessons/how-to-make-tiktok-ads-that-convert",
+"title": "What's missing or wrong? Tick everything that applies, then reve…",
+"options": [],
+"v": 2
+},
+{
+"type": "lesson",
+"module": "9.2",
+"prompt": "UGC script structure: Hook → Problem → Demo/Proof → Offer → CTA",
+"body": "A simple, repeatable structure for a 15–30 s creator ad: (1) Hook, 0–3 s: call-out or result-first line. (2) Problem, 3–7 s: the situation in the viewer's words. (3) Demo / proof, 7–20 s: show it working, one specific detail, a real review. (4) Offer, 20–25 s: what they get, price or free first step. (5) CTA, last 3 s: one action. Write 3 hooks for every body — hooks are the cheapest thing to test.",
+"example": "Demand Curve's TikTok lesson: lead with a hook, sell with stories, keep it short; test many hooks.",
+"drill": {
+"q": "You have one good body and budget for 3 videos. Best test?",
+"options": [
+"3 different bodies with the same hook",
+"The same body with 3 different hooks"
+],
+"answer": 1,
+"why": "Hooks drive most of the variance in watch time; testing hooks on a proven body is cheap and fast."
+},
+"evidence_type": "principle",
+"metric": "",
+"explanation": "Hooks drive most of the variance in watch time; testing hooks on a proven body is cheap and fast.",
+"principles": [
+"first3",
+"test_everything"
+],
+"id": "t9-2-01",
+"track": "9",
+"source_name": "Demand Curve Growth Program, 'How to Make TikTok Ads that Convert' (quotes TikTok's 63% / first-3-seconds finding)",
+"source_url": "https://gp.demandcurve.com/lessons/how-to-make-tiktok-ads-that-convert",
+"title": "UGC script structure: Hook → Problem → Demo/Proof → Offer → CTA",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "write",
+"module": "9.2",
+"prompt": "BRIEF: Write a 20-second UGC script (with timestamps) for a DTC electric toothbrush (Swedish brand, 499 kr, 60-day return). Include 3 alternative hooks.",
+"model_answers": [
+"HOOKS: (a) 'My dentist asked what I changed — it was this 499 kr brush.' (b) 'Stop buying 1,500 kr electric toothbrushes.' (c) 'I tested this for 60 days. Honest review.'\n0–3s: [creator to camera, brush in hand] Hook (a).\n3–7s: 'I used to rush brushing and my gums bled.' (own experience, not a claim about the viewer)\n7–16s: [close-up demo] '2-minute timer, buzzes every 30 seconds so you do all 4 zones.' Show it.\n16–20s: '499 kr, and 60 days to send it back if you don't like it. Link below.'"
+],
+"steps": [
+"Write 3 hooks first.",
+"Problem in the creator's own words (no health claims about the viewer).",
+"Show, don't tell: one demo detail.",
+"Offer + risk reversal.",
+"One CTA."
+],
+"checklist": [
+"3 hooks",
+"Hook ≤3s",
+"Demo detail",
+"Offer + risk reversal",
+"One CTA",
+"No health claims"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"first3",
+"ugc",
+"risk_reversal"
+],
+"kind": "script",
+"lang": "en",
+"id": "t9-2-02",
+"track": "9",
+"source_name": "Demand Curve Growth Program, 'How to Make TikTok Ads that Convert' (quotes TikTok's 63% / first-3-seconds finding)",
+"source_url": "https://gp.demandcurve.com/lessons/how-to-make-tiktok-ads-that-convert",
+"title": "BRIEF: Write a 20-second UGC script (with timestamps) for a DTC …",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "write",
+"module": "9.2",
+"prompt": "BRIEF: Turn Synlig Media's offer into a 15-second talking-head Reel for clinic owners (Oskar on camera). Write the script with timestamps.",
+"model_answers": [
+"0–3s: 'Clinic owners: search your own clinic on Google Maps right now. Are you top 3?'\n3–8s: [screen recording of a map] 'Most patients only call the top 3. The difference is usually 2–3 things in your profile.'\n8–13s: 'I'll send you a free one-page report showing exactly which — vs your 3 nearest competitors.'\n13–15s: 'Tap \"Get report\".'"
+],
+"steps": [
+"Call out the reader + a self-check in the hook.",
+"Show the problem on screen.",
+"Free sample offer.",
+"One CTA."
+],
+"checklist": [
+"Reader callout hook",
+"Visual proof",
+"Free offer",
+"One CTA",
+"≤15 s"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"first3",
+"sampling",
+"reader_callout"
+],
+"kind": "script",
+"lang": "en",
+"id": "t9-2-03",
+"track": "9",
+"source_name": "Demand Curve Growth Program, 'How to Make TikTok Ads that Convert' (quotes TikTok's 63% / first-3-seconds finding)",
+"source_url": "https://gp.demandcurve.com/lessons/how-to-make-tiktok-ads-that-convert",
+"title": "BRIEF: Turn Synlig Media's offer into a 15-second talking-head R…",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "pick",
+"module": "9.2",
+"prompt": "Which CTA ending fits a cold short-form ad best?",
+"options": [
+{
+"text": "\"Tap 'Shop now' — free shipping and 60-day returns.\""
+},
+{
+"text": "\"Follow us for more content!\""
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "A clear action tied to the offer and risk reversal. 'Follow us' is a different, weaker goal for a sales ad.",
+"principles": [
+"cta",
+"risk_reversal"
+],
+"id": "t9-2-04",
+"track": "9",
+"source_name": "Michael Aagaard, 'How to Design Call to Action Buttons that Convert' (Unbounce)",
+"source_url": "https://unbounce.com/conversion-rate-optimization/design-call-to-action-buttons/",
+"title": "Which CTA ending fits a cold short-form ad best?",
+"v": 2,
+"speed": true
+},
+{
+"type": "lesson",
+"module": "10.1",
+"prompt": "Search ads answer a question the person just typed",
+"body": "On Meta you interrupt people; on Google they ask. So the ad must mirror the search (the keyword), answer the intent (urgent? price? near me?) and give a reason to click you. Google's guidance for responsive search ads (RSAs): give up to 15 headlines and 4 descriptions, include your keywords, make headlines distinct, and run at least 2 RSAs per ad group. Google reports that improving Ad Strength from Poor to Excellent is associated with ~15% more conversions on average (Google internal data — correlation, not a guarantee).",
+"example": "Google Ads Help: 'Advertisers who improve Ad Strength… from \"Poor\" to \"Excellent\" see 15% more conversions on average.'",
+"drill": {
+"q": "Search: 'akut tandläkare stockholm'. Which RSA headline matches the intent best?",
+"options": [
+"'Stockholms trevligaste tandläkare'",
+"'Akut tandläkare idag — Stockholm'"
+],
+"answer": 1,
+"why": "Urgent intent + keyword + location. The first ignores the urgency."
+},
+"evidence_type": "principle",
+"metric": "",
+"explanation": "Urgent intent + keyword + location. The first ignores the urgency.",
+"principles": [
+"search_intent",
+"clarity"
+],
+"id": "t10-1-01",
+"track": "10",
+"source_name": "Google Ads Help: About Ad Strength for responsive search ads",
+"source_url": "https://support.google.com/google-ads/answer/9921843?hl=en",
+"title": "Search ads answer a question the person just typed",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "pick",
+"module": "10.1",
+"prompt": "Search: 'invisalign pris'. Which headline best matches the intent?",
+"options": [
+{
+"text": "\"Världsklass tandreglering\""
+},
+{
+"text": "\"Invisalign från 29 900 kr — fast pris\" (use your real price)"
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "The searcher wants a price. Answer it (with the real price) and add a trust element.",
+"principles": [
+"search_intent",
+"specificity"
+],
+"id": "t10-1-02",
+"track": "10",
+"source_name": "Google Ads Help: Best practices for creating effective responsive search ads",
+"source_url": "https://support.google.com/google-ads/answer/6167122?hl=en",
+"title": "Search: 'invisalign pris'. Which headline best matches the intent?",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "10.1",
+"prompt": "Search: 'fysioterapeut nära mig'. Which description is stronger?",
+"options": [
+{
+"text": "\"Vi har lång erfarenhet och brinner för rörelse.\""
+},
+{
+"text": "\"3 min från Odenplan. Tider samma vecka. Boka online direkt.\""
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "'Near me' = distance & convenience. Location, availability and an easy booking answer it.",
+"principles": [
+"search_intent",
+"local"
+],
+"id": "t10-1-03",
+"track": "10",
+"source_name": "Google Ads Help: Best practices for creating effective responsive search ads",
+"source_url": "https://support.google.com/google-ads/answer/6167122?hl=en",
+"title": "Search: 'fysioterapeut nära mig'. Which description is stronger?",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "10.1",
+"prompt": "Two RSAs in an ad group. Which set of headlines gives Google more useful variety?",
+"options": [
+{
+"text": "15 headlines that are small variations of 'Best Dental Clinic Stockholm'"
+},
+{
+"text": "15 distinct headlines: keyword, price, location, proof (reviews), offer, CTA, availability"
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Google recommends distinct headlines covering different angles; near-duplicates add nothing to test.",
+"principles": [
+"search_intent",
+"creative_targeting"
+],
+"id": "t10-1-04",
+"track": "10",
+"source_name": "Google Ads Help: Best practices for creating effective responsive search ads",
+"source_url": "https://support.google.com/google-ads/answer/6167122?hl=en",
+"title": "Two RSAs in an ad group. Which set of headlines gives Google mor…",
+"v": 2,
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "10.1",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "RSA for search 'tandblekning stockholm': H1 'Tandblekning i Stockholm' · H2 'Hos legitimerad tandläkare' · H3 'Fast pris efter kontroll' · D1 'Gratis emaljkontroll (15 min) först. Boka online.'",
+"answer": "good",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Keyword in H1, trust in H2, price clarity in H3, a free first step + CTA in the description.",
+"principles": [
+"search_intent",
+"sampling",
+"specificity"
+],
+"id": "t10-1-05",
+"track": "10",
+"source_name": "Google Ads Help: Best practices for creating effective responsive search ads",
+"source_url": "https://support.google.com/google-ads/answer/6167122?hl=en",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": [],
+"v": 2,
+"speed": true
+},
+{
+"type": "goodbad",
+"module": "10.1",
+"prompt": "Good or bad? Rate it, then reveal the breakdown.",
+"artifact": "RSA for search 'akut tandvärk': H1 'Välkommen till oss' · H2 'Modern klinik' · H3 'Kvalitet sedan 1998'",
+"answer": "bad",
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Ignores the urgent intent entirely — no 'akut', no 'idag', no phone number or availability.",
+"principles": [
+"search_intent"
+],
+"id": "t10-1-06",
+"track": "10",
+"source_name": "Google Ads Help: Best practices for creating effective responsive search ads",
+"source_url": "https://support.google.com/google-ads/answer/6167122?hl=en",
+"title": "Good or bad? Rate it, then reveal the breakdown.",
+"options": [],
+"v": 2,
+"speed": true
+},
+{
+"type": "missing",
+"module": "10.1",
+"prompt": "What's missing or wrong? Tick everything that applies, then reveal.",
+"artifact": "Search: 'billig tandläkare göteborg'. Ad: 'Premium Dental Experience — Luxury Care in Stockholm'.",
+"answer": [
+"intent_mismatch",
+"wrong_audience",
+"no_local"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Wrong city, wrong promise (luxury vs cheap), no price. Fails the search intent on every level.",
+"principles": [
+"search_intent",
+"local"
+],
+"id": "t10-1-07",
+"track": "10",
+"source_name": "Google Ads Help: Best practices for creating effective responsive search ads",
+"source_url": "https://support.google.com/google-ads/answer/6167122?hl=en",
+"title": "What's missing or wrong? Tick everything that applies, then reve…",
+"options": [],
+"v": 2
+},
+{
+"type": "lesson",
+"module": "10.2",
+"prompt": "Keywords, match types and negatives",
+"body": "Broad match reaches related searches (Google uses signals to interpret meaning), phrase match requires the meaning of your phrase, exact match the same meaning as the keyword. Negative keywords stop your ad showing for searches you don't want ('gratis', 'jobb', 'utbildning' for a clinic). Small local budgets usually start with phrase/exact on high-intent terms plus a good negative list, then expand.",
+"example": "Google Ads Help: 'About keyword matching options' and 'About negative keywords'.",
+"drill": {
+"q": "A clinic with 3,000 kr/month. Which keyword to start with?",
+"options": [
+"Broad: 'tänder'",
+"Phrase: \"tandläkare södermalm\""
+],
+"answer": 1,
+"why": "High intent + local + controlled reach. 'tänder' is broad and mostly informational."
+},
+"evidence_type": "principle",
+"metric": "",
+"explanation": "High intent + local + controlled reach. 'tänder' is broad and mostly informational.",
+"principles": [
+"match_types",
+"search_intent"
+],
+"id": "t10-2-01",
+"track": "10",
+"source_name": "Google Ads Help: About keyword matching options",
+"source_url": "https://support.google.com/google-ads/answer/7478529?hl=en",
+"title": "Keywords, match types and negatives",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "pick",
+"module": "10.2",
+"prompt": "Which negative keyword list fits a dental clinic's search campaign?",
+"options": [
+{
+"text": "'akut', 'pris', 'nära mig'"
+},
+{
+"text": "'jobb', 'lön', 'utbildning', 'gratis'"
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Job-seekers and students won't book. 'Akut', 'pris', 'nära mig' are high-intent terms you WANT.",
+"principles": [
+"match_types"
+],
+"id": "t10-2-02",
+"track": "10",
+"source_name": "Google Ads Help: About negative keywords",
+"source_url": "https://support.google.com/google-ads/answer/2453972?hl=en",
+"title": "Which negative keyword list fits a dental clinic's search campai…",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "10.2",
+"prompt": "Which search shows the highest commercial intent for a physio clinic?",
+"options": [
+{
+"text": "\"vad är fysioterapi\""
+},
+{
+"text": "\"boka fysioterapeut kungsholmen\""
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "'Boka' + location = ready to act. The first is informational research.",
+"principles": [
+"search_intent",
+"awareness"
+],
+"id": "t10-2-03",
+"track": "10",
+"source_name": "Google Ads Help: About keyword matching options",
+"source_url": "https://support.google.com/google-ads/answer/7478529?hl=en",
+"title": "Which search shows the highest commercial intent for a physio cl…",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "10.2",
+"prompt": "Search term report shows your 'tandimplantat' ad got clicks from these searches. Which should you add as a NEGATIVE?",
+"options": [
+{
+"text": "'tandimplantat pris stockholm'"
+},
+{
+"text": "'tandimplantat akut'"
+},
+{
+"text": "'tandimplantat utbildning tandsköterska'"
+},
+{
+"text": "'tandimplantat erfarenheter'"
+}
+],
+"answer": 2,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "A training course search will never book an implant. The others are potential patients at different stages.",
+"principles": [
+"match_types"
+],
+"multi": true,
+"id": "t10-2-04",
+"track": "10",
+"source_name": "Google Ads Help: About negative keywords",
+"source_url": "https://support.google.com/google-ads/answer/2453972?hl=en",
+"title": "Search term report shows your 'tandimplantat' ad got clicks from…",
+"v": 2
+},
+{
+"type": "write",
+"module": "10.2",
+"prompt": "BRIEF: Write an RSA for a physio clinic near Odenplan: 5 headlines (≤ 30 characters each) and 2 descriptions (≤ 90 characters each) for the keyword \"fysioterapeut odenplan\".",
+"model_answers": [
+"H1: Fysioterapeut vid Odenplan\nH2: Tider samma vecka\nH3: Bedömning 45 min + plan\nH4: 4,8★ på Google (om sant)\nH5: Boka online på 2 min\nD1: 3 min från Odenplan. Legitimerade fysioterapeuter. Boka en tid som passar dig.\nD2: Första besöket: bedömning och skriftlig plan. Fast pris, inga paket."
+],
+"steps": [
+"Put the keyword in H1.",
+"Cover distinct angles: availability, process, proof, CTA.",
+"Keep each headline ≤30 characters.",
+"Descriptions: location + trust + CTA."
+],
+"checklist": [
+"Keyword in H1",
+"5 distinct angles",
+"≤30 chars each",
+"Descriptions ≤90 chars",
+"Real numbers only"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"search_intent",
+"specificity"
+],
+"kind": "rsa",
+"lang": "sv",
+"id": "t10-2-05",
+"track": "10",
+"source_name": "Google Ads Help: Best practices for creating effective responsive search ads",
+"source_url": "https://support.google.com/google-ads/answer/6167122?hl=en",
+"title": "BRIEF: Write an RSA for a physio clinic near Odenplan: 5 headlin…",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "lesson",
+"module": "11.1",
+"prompt": "The ad metrics you must read fluently",
+"body": "CTR = clicks ÷ impressions. CPC = spend ÷ clicks. CPM = spend ÷ impressions × 1,000. CPA (cost per acquisition/lead) = spend ÷ conversions. Conversion rate = conversions ÷ clicks. ROAS = revenue ÷ ad spend. Hook rate (common agency metric, not an official Meta field) = 3-second video plays ÷ impressions. Hold rate ≈ ThruPlays (or 15 s views) ÷ 3-second plays. All numbers in this track are TEACHING EXAMPLES, not benchmarks.",
+"example": "Google Ads Help defines CTR as clicks ÷ impressions; Meta's Business Help Center has a glossary of its metrics.",
+"drill": {
+"q": "An ad had 20,000 impressions and 300 clicks. CTR?",
+"options": [
+"1.5%",
+"15%"
+],
+"answer": 0,
+"why": "300 ÷ 20,000 = 0.015 = 1.5%."
+},
+"evidence_type": "principle",
+"metric": "",
+"explanation": "300 ÷ 20,000 = 0.015 = 1.5%.",
+"principles": [
+"metrics"
+],
+"id": "t11-1-01",
+"track": "11",
+"source_name": "Google Ads Help: Clickthrough rate (CTR): Definition",
+"source_url": "https://support.google.com/google-ads/answer/2615875?hl=en",
+"title": "The ad metrics you must read fluently",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "pick",
+"module": "11.1",
+"prompt": "Example numbers: spend 3,000 kr, 150 clicks, 6 booked consultations. What is the CPA (cost per booking)?",
+"options": [
+{
+"text": "500 kr"
+},
+{
+"text": "20 kr"
+},
+{
+"text": "200 kr"
+},
+{
+"text": "50 kr"
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "CPA = 3,000 ÷ 6 = 500 kr. (CPC would be 3,000 ÷ 150 = 20 kr.)",
+"principles": [
+"metrics"
+],
+"multi": true,
+"id": "t11-1-02",
+"track": "11",
+"source_name": "Google Ads Help: Clickthrough rate (CTR): Definition",
+"source_url": "https://support.google.com/google-ads/answer/2615875?hl=en",
+"title": "Example numbers: spend 3,000 kr, 150 clicks, 6 booked consultati…",
+"v": 2
+},
+{
+"type": "pick",
+"module": "11.1",
+"prompt": "Example numbers: spend 2,000 kr for 80,000 impressions. CPM?",
+"options": [
+{
+"text": "25 kr"
+},
+{
+"text": "40 kr"
+},
+{
+"text": "2.5 kr"
+},
+{
+"text": "250 kr"
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "CPM = 2,000 ÷ 80,000 × 1,000 = 25 kr.",
+"principles": [
+"metrics"
+],
+"multi": true,
+"id": "t11-1-03",
+"track": "11",
+"source_name": "Google Ads Help: Clickthrough rate (CTR): Definition",
+"source_url": "https://support.google.com/google-ads/answer/2615875?hl=en",
+"title": "Example numbers: spend 2,000 kr for 80,000 impressions. CPM?",
+"v": 2
+},
+{
+"type": "pick",
+"module": "11.1",
+"prompt": "Example numbers (DTC store): ad spend 10,000 kr, revenue 32,000 kr. ROAS?",
+"options": [
+{
+"text": "0.31"
+},
+{
+"text": "320%… of profit"
+},
+{
+"text": "3.2"
+},
+{
+"text": "22,000 kr"
+}
+],
+"answer": 2,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "ROAS = 32,000 ÷ 10,000 = 3.2 (revenue, not profit — margin matters).",
+"principles": [
+"metrics"
+],
+"multi": true,
+"id": "t11-1-04",
+"track": "11",
+"source_name": "Google Ads Help: Clickthrough rate (CTR): Definition",
+"source_url": "https://support.google.com/google-ads/answer/2615875?hl=en",
+"title": "Example numbers (DTC store): ad spend 10,000 kr, revenue 32,000 …",
+"v": 2
+},
+{
+"type": "pick",
+"module": "11.1",
+"prompt": "Example numbers: a Reel got 50,000 impressions and 12,500 three-second plays. Hook rate?",
+"options": [
+{
+"text": "12.5%"
+},
+{
+"text": "40%"
+},
+{
+"text": "25%"
+},
+{
+"text": "4%"
+}
+],
+"answer": 2,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "12,500 ÷ 50,000 = 25%. (Agency metric; benchmarks vary a lot by account.)",
+"principles": [
+"metrics",
+"first3"
+],
+"multi": true,
+"id": "t11-1-05",
+"track": "11",
+"source_name": "Meta Business Help Center: About ad performance metrics (glossary)",
+"source_url": "https://www.facebook.com/business/help/447834205249495",
+"title": "Example numbers: a Reel got 50,000 impressions and 12,500 three-…",
+"v": 2
+},
+{
+"type": "pick",
+"module": "11.1",
+"prompt": "Ad A: CTR 2.5%, CPA 900 kr. Ad B: CTR 0.9%, CPA 350 kr. Goal: booked consultations. Which is the better ad?",
+"options": [
+{
+"text": "Ad B — it gets bookings cheaper"
+},
+{
+"text": "Ad A — much higher CTR"
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Judge an ad on the business goal (CPA), not a vanity metric. High CTR with poor conversion often means the ad attracts the wrong clicks.",
+"principles": [
+"metrics"
+],
+"id": "t11-1-06",
+"track": "11",
+"source_name": "Google Ads Help: Clickthrough rate (CTR): Definition",
+"source_url": "https://support.google.com/google-ads/answer/2615875?hl=en",
+"title": "Ad A: CTR 2.5%, CPA 900 kr. Ad B: CTR 0.9%, CPA 350 kr. Goal: bo…",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "11.1",
+"prompt": "Example: CPM rose from 60 kr to 95 kr this week while CTR and conversion rate stayed flat. What most likely changed?",
+"options": [
+{
+"text": "The creative got worse"
+},
+{
+"text": "Auction competition/costs rose (e.g. seasonal, Black Friday) — CPA rises even if the ad is fine"
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "CPM is mostly the price of attention in the auction. If CTR and CVR are stable, the ad isn't the problem.",
+"principles": [
+"metrics"
+],
+"id": "t11-1-07",
+"track": "11",
+"source_name": "Meta Business Help Center: About ad performance metrics (glossary)",
+"source_url": "https://www.facebook.com/business/help/447834205249495",
+"title": "Example: CPM rose from 60 kr to 95 kr this week while CTR and co…",
+"v": 2,
+"speed": true
+},
+{
+"type": "missing",
+"module": "11.1",
+"prompt": "What's missing or wrong? Tick everything that applies, then reveal.",
+"artifact": "Agency report to a client: 'Great week! Reach up 40%, 1,200 likes, CTR 3.1%.' (Client goal: booked consultations.)",
+"answer": [
+"wrong_metric",
+"no_proof"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "No conversions, no CPA, no booked consultations. Reporting vanity metrics hides whether the goal was met.",
+"principles": [
+"metrics"
+],
+"id": "t11-1-08",
+"track": "11",
+"source_name": "Google Ads Help: Clickthrough rate (CTR): Definition",
+"source_url": "https://support.google.com/google-ads/answer/2615875?hl=en",
+"title": "What's missing or wrong? Tick everything that applies, then reve…",
+"options": [],
+"v": 2
+},
+{
+"type": "pick",
+"module": "11.1",
+"prompt": "Example: a DTC store has a 40% gross margin. What's the break-even ROAS (ignoring other costs)?",
+"options": [
+{
+"text": "4.0"
+},
+{
+"text": "2.5"
+},
+{
+"text": "0.4"
+},
+{
+"text": "1.4"
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Break-even ROAS = 1 ÷ margin = 1 ÷ 0.4 = 2.5. Below 2.5 each sale loses money on ad cost alone.",
+"principles": [
+"metrics",
+"offer"
+],
+"multi": true,
+"id": "t11-1-09",
+"track": "11",
+"source_name": "Google Ads Help: Clickthrough rate (CTR): Definition",
+"source_url": "https://support.google.com/google-ads/answer/2615875?hl=en",
+"title": "Example: a DTC store has a 40% gross margin. What's the break-ev…",
+"v": 2
+},
+{
+"type": "lesson",
+"module": "11.2",
+"prompt": "Reading a test: is the difference real?",
+"body": "Small samples lie. If ad A got 3 leads and ad B got 6, that's not 'B is 2x better' — it could easily be chance. Decide the sample size BEFORE you start (Evan Miller's calculator), don't stop the test the moment it looks good ('peeking' inflates false winners), and judge on the goal metric. Real-world example: MarketingSherpa reported a +38.4% open-rate win at only 80% confidence — directional, not proof.",
+"example": "Evan Miller, 'How Not To Run an A/B Test': repeated significance testing (peeking) makes false positives much more likely.",
+"drill": {
+"q": "Ad A: 3 bookings. Ad B: 6 bookings. Same spend (1,000 kr each). Best conclusion?",
+"options": [
+"B is twice as good — kill A",
+"Too little data — keep running or test a bigger change"
+],
+"answer": 1,
+"why": "With single-digit conversions the difference is well within chance."
+},
+"evidence_type": "principle",
+"metric": "",
+"explanation": "With single-digit conversions the difference is well within chance.",
+"principles": [
+"sample_size"
+],
+"id": "t11-2-01",
+"track": "11",
+"source_name": "Evan Miller, 'How Not To Run an A/B Test' (peeking problem)",
+"source_url": "https://www.evanmiller.org/how-not-to-run-an-ab-test.html",
+"title": "Reading a test: is the difference real?",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "pick",
+"module": "11.2",
+"prompt": "You check your A/B test every morning and stop it the first day B is 'significant'. What's the problem?",
+"options": [
+{
+"text": "Nothing — significance is significance"
+},
+{
+"text": "Peeking: repeatedly checking and stopping early inflates false winners"
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Evan Miller: decide the sample size in advance; repeated checks make a 'significant' result much more likely by chance.",
+"principles": [
+"sample_size"
+],
+"id": "t11-2-02",
+"track": "11",
+"source_name": "Evan Miller, 'How Not To Run an A/B Test' (peeking problem)",
+"source_url": "https://www.evanmiller.org/how-not-to-run-an-ab-test.html",
+"title": "You check your A/B test every morning and stop it the first day …",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "11.2",
+"prompt": "Baseline conversion 2%, you want to detect a 20% relative lift (2% → 2.4%). Roughly how many visitors per variant do you need (95% / 80%)?",
+"options": [
+{
+"text": "~2,000,000"
+},
+{
+"text": "~200"
+},
+{
+"text": "~20,000"
+},
+{
+"text": "~2,000"
+}
+],
+"answer": 2,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Evan Miller's calculator gives roughly 20,000 per variant for these numbers (exact figure depends on settings). Small lifts on low rates need big samples — clinics rarely have that traffic, so test BIG differences.",
+"principles": [
+"sample_size"
+],
+"multi": true,
+"id": "t11-2-03",
+"track": "11",
+"source_name": "Evan Miller, 'Sample Size Calculator' (A/B test sample sizes)",
+"source_url": "https://www.evanmiller.org/ab-testing/sample-size.html",
+"title": "Baseline conversion 2%, you want to detect a 20% relative lift (…",
+"v": 2
+},
+{
+"type": "pick",
+"module": "11.2",
+"prompt": "Small clinic, ~40 leads/month. What kind of test makes sense?",
+"options": [
+{
+"text": "Button colour blue vs green"
+},
+{
+"text": "Two very different offers (free consultation vs fixed-price first visit)"
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "With little data you can only detect large effects. Test big, different ideas — not tiny tweaks.",
+"principles": [
+"sample_size",
+"test_everything"
+],
+"id": "t11-2-04",
+"track": "11",
+"source_name": "Evan Miller, 'Sample Size Calculator' (A/B test sample sizes)",
+"source_url": "https://www.evanmiller.org/ab-testing/sample-size.html",
+"title": "Small clinic, ~40 leads/month. What kind of test makes sense?",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "11.2",
+"prompt": "Upworthy test: 79 clicks / 2,736 impressions vs 35 / 2,593. Is this likely a real difference?",
+"options": [
+{
+"text": "Yes — the archive data gives z≈3.9, very unlikely to be chance"
+},
+{
+"text": "No — 2,700 impressions is too small to ever tell"
+}
+],
+"answer": 0,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "A big difference (2.9% vs 1.35%) can be detected with a few thousand impressions. Effect size and sample size work together.",
+"principles": [
+"sample_size"
+],
+"id": "t11-2-05",
+"track": "11",
+"source_name": "Upworthy Research Archive (Matias, Munger, Aubin Le Quere, Ebersole), exploratory dataset on OSF",
+"source_url": "https://osf.io/jd64p/",
+"title": "Upworthy test: 79 clicks / 2,736 impressions vs 35 / 2,593. Is t…",
+"v": 2,
+"speed": true
+},
+{
+"type": "write",
+"module": "11.2",
+"prompt": "BRIEF: Write a short test report (≤ 120 words) for a client. Example data (teaching numbers): Ad A 'free consultation' — spend 4,000 kr, 11 bookings. Ad B 'fixed price first visit' — spend 4,000 kr, 19 bookings. Say what you'd conclude, how confident you are, and the next test.",
+"model_answers": [
+"\"Result: B ('fixed-price first visit') got 19 bookings vs 11 for A at the same spend — CPA 211 kr vs 364 kr. That's a promising signal, but with ~30 bookings total it's not conclusive. Next: keep B running as the control, and test a new hook on B (price-first vs nurse-on-camera) for 2 more weeks or 40+ bookings before we scale budget.\""
+],
+"steps": [
+"State the goal metric (bookings/CPA).",
+"Give both numbers.",
+"Be honest about confidence.",
+"Recommend one next test."
+],
+"checklist": [
+"Goal metric used",
+"Both variants' numbers",
+"Confidence caveat",
+"One clear next step",
+"≤120 words"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"metrics",
+"sample_size"
+],
+"kind": "plan",
+"lang": "en",
+"id": "t11-2-06",
+"track": "11",
+"source_name": "Evan Miller, 'Sample Size Calculator' (A/B test sample sizes)",
+"source_url": "https://www.evanmiller.org/ab-testing/sample-size.html",
+"title": "BRIEF: Write a short test report (≤ 120 words) for a client. Exa…",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "lesson",
+"module": "12.1",
+"prompt": "What DTC agencies look for in an intern",
+"body": "Agencies like SoScale run Meta, TikTok and Google for e-commerce brands. In interviews they test taste and thinking: can you tear down an ad (hook, angle, offer, proof, format), propose tests with a clear hypothesis, read numbers (CPA, ROAS, hook rate) and explain WHY. Bring a small portfolio: 3 teardowns of a brand's live ads from the Meta Ad Library, a 3-ad test plan, and your own results (Synlig Media) with honest numbers.",
+"example": "The Meta Ad Library is public: you can see any brand's active ads and when they started running (no performance data).",
+"drill": {
+"q": "Interviewer: 'Which of this brand's ads would you scale?' Best answer?",
+"options": [
+"'The prettiest one.'",
+"'The one that's been running 4+ months with several variations — that's a signal it works — but I'd confirm with their CPA data.'"
+],
+"answer": 1,
+"why": "Use the long-running proxy honestly and ask for real data."
+},
+"evidence_type": "principle",
+"metric": "",
+"explanation": "Use the long-running proxy honestly and ask for real data.",
+"principles": [
+"test_everything",
+"creative_targeting"
+],
+"id": "t12-1-01",
+"track": "12",
+"source_name": "Meta Ad Library",
+"source_url": "https://www.facebook.com/ads/library/",
+"title": "What DTC agencies look for in an intern",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "write",
+"module": "12.1",
+"prompt": "BRIEF: Pick any DTC brand and open its ads in the Meta Ad Library. Write a teardown of ONE ad: hook, angle, offer, proof, format, CTA, how long it has run, and what you'd test next (≤ 150 words).",
+"model_answers": [
+"Example structure (not a real ad): 'Brand: [X]. Ad started [date] (4 months — long-running signal). Format: 9:16 UGC, creator in bathroom. Hook (0–2s): \"I stopped buying 3 products because of this.\" Angle: simplification. Offer: 20% first order + free shipping. Proof: on-screen review stars + creator demo. CTA: Shop now. Why it likely works: native look, result-first hook, risk reversal. Next test: same body, 3 new hooks (price-first, problem-first, founder).'"
+],
+"steps": [
+"Note run time as a proxy (no performance data in Ad Library).",
+"Name the angle, not just the format.",
+"Find the offer and the proof.",
+"End with a concrete test idea."
+],
+"checklist": [
+"Run time noted",
+"Hook quoted",
+"Angle named",
+"Offer + proof",
+"Next test",
+"Proxy caveat"
+],
+"evidence_type": "long_running",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"test_everything",
+"first3",
+"creative_targeting"
+],
+"kind": "plan",
+"lang": "en",
+"id": "t12-1-02",
+"track": "12",
+"source_name": "Meta Ad Library",
+"source_url": "https://www.facebook.com/ads/library/",
+"title": "BRIEF: Pick any DTC brand and open its ads in the Meta Ad Librar…",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "write",
+"module": "12.1",
+"prompt": "BRIEF: Write a 3-ad test plan for a DTC brand (example: Swedish electric toothbrush, 499 kr). For each ad: angle, hook, format, and the hypothesis. Then say how you'd judge the winner.",
+"model_answers": [
+"Ad 1 — Angle: price vs premium brands. Hook: 'Stop paying 1,500 kr for a toothbrush.' Format: UGC talking head. Hypothesis: price-sensitive buyers convert on comparison.\nAd 2 — Angle: dentist/expert proof. Hook: 'What my dental hygienist said about this 499 kr brush.' Format: creator + expert quote card. Hypothesis: proof lowers perceived risk.\nAd 3 — Angle: risk reversal. Hook: 'Try it 60 days. Hate it? Send it back.' Format: static image with offer. Hypothesis: the return policy is the main objection-killer.\nJudge: CPA and ROAS after a pre-set budget (e.g. 50 purchases per ad or 2 weeks), not CTR."
+],
+"steps": [
+"Use 3 genuinely different angles (Andromeda: diversification).",
+"One hypothesis per ad.",
+"Decide the success metric and stop rule before launch."
+],
+"checklist": [
+"3 different angles",
+"Hook per ad",
+"Hypothesis per ad",
+"Success metric = CPA/ROAS",
+"Stop rule before launch"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"creative_targeting",
+"test_everything",
+"sample_size"
+],
+"kind": "plan",
+"lang": "en",
+"id": "t12-1-03",
+"track": "12",
+"source_name": "Meta for Business, 'The Creative Advantage: Unlocking the Power of Diversification with Meta Andromeda'",
+"source_url": "https://www.facebook.com/business/news/the-creative-advantage-unlocking-the-power-of-diversification-with-meta-andromeda",
+"title": "BRIEF: Write a 3-ad test plan for a DTC brand (example: Swedish …",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "write",
+"module": "12.1",
+"prompt": "BRIEF: Interview question — 'Tell us about a campaign you ran and what you learned.' Write a 6-sentence answer using Synlig Media (use your REAL numbers; placeholders below).",
+"model_answers": [
+"\"I run Synlig Media, where I get leads for Swedish clinics with cold email and Meta ads. My offer is a free 'Google-kartan' report that leads into a 4,900 kr profile fix. I tested two cold-email CTAs: asking for a call vs offering the free report. The report CTA got [X]% replies vs [Y]% — so I moved to interest-based CTAs, which matches Gong's data. On Meta, my best ad used a map visual of the clinic's ranking, and my mistake was judging early on CTR instead of booked calls. Now I set a goal metric and a sample size before I start.\""
+],
+"steps": [
+"Situation (who, what).",
+"Action: the test you ran.",
+"Result with real numbers.",
+"Lesson + what you changed.",
+"Show you know the principle behind it."
+],
+"checklist": [
+"Real context",
+"A specific test",
+"Real numbers (no inventing)",
+"A mistake + lesson",
+"Principle named",
+"≤6 sentences"
+],
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Compare your draft with the models, then score yourself with the checklist.",
+"principles": [
+"test_everything",
+"metrics"
+],
+"kind": "plan",
+"lang": "en",
+"id": "t12-1-04",
+"track": "12",
+"source_name": "Gong Labs, 'Surprising cold email CTA that increases meeting bookings' (304,174 emails)",
+"source_url": "https://www.gong.io/blog/this-surprising-cold-email-cta-will-help-you-book-a-lot-more-meetings",
+"title": "BRIEF: Interview question — 'Tell us about a campaign you ran an…",
+"options": [],
+"answer": null,
+"v": 2
+},
+{
+"type": "pick",
+"module": "12.1",
+"prompt": "Interview: 'Our client's ROAS dropped from 3.5 to 2.4 this month. What do you check first?'",
+"options": [
+{
+"text": "'Change all the creatives immediately.'"
+},
+{
+"text": "'Check what changed: CPM (auction), CTR (creative fatigue), conversion rate (site/offer/stock), and AOV — then fix the one that moved.'"
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Diagnose by decomposing the metric. ROAS = (CTR × CVR × AOV) ÷ CPM-driven cost. Find the moving part before acting.",
+"principles": [
+"metrics"
+],
+"id": "t12-1-05",
+"track": "12",
+"source_name": "Google Ads Help: Clickthrough rate (CTR): Definition",
+"source_url": "https://support.google.com/google-ads/answer/2615875?hl=en",
+"title": "Interview: 'Our client's ROAS dropped from 3.5 to 2.4 this month…",
+"v": 2,
+"speed": true
+},
+{
+"type": "pick",
+"module": "12.1",
+"prompt": "Interview: 'Why do you think this ad has run for 8 months?' Strongest answer?",
+"options": [
+{
+"text": "'Because it definitely has the best ROAS.'"
+},
+{
+"text": "'Long run time suggests it's profitable, but the Ad Library shows no performance data — I'd treat it as a signal, then look at why: hook, offer, proof.'"
+}
+],
+"answer": 1,
+"evidence_type": "teaching",
+"metric": "",
+"explanation": "Show you know the proxy's limits. Agencies value honest, evidence-based reasoning.",
+"principles": [
+"test_everything"
+],
+"id": "t12-1-06",
+"track": "12",
+"source_name": "Meta Ad Library",
+"source_url": "https://www.facebook.com/ads/library/",
+"title": "Interview: 'Why do you think this ad has run for 8 months?' Stro…",
+"v": 2
+}
+],
+"principles": {
+"specificity": {
+"label": "Be specific: numbers & facts (Hopkins)",
+"source_url": "https://www.loc.gov/item/23009362/",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan"
+},
+"reason_why": {
+"label": "Reason-why copy (Hopkins)",
+"source_url": "https://www.loc.gov/item/23009362/",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan"
+},
+"reader_callout": {
+"label": "Headline picks the reader (Hopkins)",
+"source_url": "https://www.loc.gov/item/23009362/",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan"
+},
+"sampling": {
+"label": "Samples / free first step (Hopkins, Lauder)",
+"source_url": "https://www.loc.gov/item/23009362/",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan"
+},
+"test_everything": {
+"label": "Test everything (Hopkins, Caples)",
+"source_url": "https://www.loc.gov/item/23009362/",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan"
+},
+"service": {
+"label": "Offer service, not salesmanship (Hopkins)",
+"source_url": "https://www.loc.gov/item/23009362/",
+"source_name": "Claude C. Hopkins, Scientific Advertising (1923), Library of Congress public-domain scan"
+},
+"headline_80": {
+"label": "Headline = 80 cents of the dollar (Ogilvy)",
+"source_url": "https://www.campaignlive.co.uk/article/excerpt-confessions-advertising-man/996114",
+"source_name": "Campaign, excerpt from Ogilvy's 'Confessions of an Advertising Man'"
+},
+"big_idea": {
+"label": "Big idea / one memorable fact (Ogilvy)",
+"source_url": "https://damngoodads.com/ads/rolls-royce-electric-clock/",
+"source_name": "Damn Good Ads: Rolls-Royce 'At 60 miles an hour' (1958)"
+},
+"proof": {
+"label": "Proof: testimonials, facts, demonstrations (Ogilvy)",
+"source_url": "https://www.campaignlive.co.uk/article/excerpt-confessions-advertising-man/996114",
+"source_name": "Campaign, excerpt from Ogilvy's 'Confessions of an Advertising Man'"
+},
+"self_interest": {
+"label": "Self-interest headline (Caples)",
+"source_url": "https://en.wikipedia.org/wiki/John_Caples",
+"source_name": "Wikipedia: John Caples"
+},
+"news": {
+"label": "News headline (Caples)",
+"source_url": "https://en.wikipedia.org/wiki/John_Caples",
+"source_name": "Wikipedia: John Caples"
+},
+"curiosity_gap": {
+"label": "Curiosity — but tied to self-interest (Caples)",
+"source_url": "https://en.wikipedia.org/wiki/John_Caples",
+"source_name": "Wikipedia: John Caples"
+},
+"story": {
+"label": "Story / drama in the headline (Caples, Conroy)",
+"source_url": "https://swipeharbor.com/blog/they-laughed-when-i-sat-down-at-the-piano",
+"source_name": "SwipeHarbor teardown of the 1926 Screenland printing of the piano ad"
+},
+"awareness": {
+"label": "Match the prospect's awareness level (Schwartz)",
+"source_url": "https://personalmba.com/levels-of-awareness/",
+"source_name": "Personal MBA: Levels of Awareness (summary of Schwartz, Breakthrough Advertising)"
+},
+"sophistication": {
+"label": "Market sophistication: claim → mechanism → identification (Schwartz)",
+"source_url": "https://nordiccopy.com/market-sophistication/",
+"source_name": "NordicCopy: What is Market Sophistication? (summary of Schwartz)"
+},
+"value_equation": {
+"label": "Value equation: outcome × likelihood ÷ (time × effort) (Hormozi)",
+"source_url": "https://www.acquisition.com/training",
+"source_name": "Acquisition.com free training ($100M Offers, value equation)"
+},
+"risk_reversal": {
+"label": "Lower risk: free trial, guarantee (Hormozi, Highrise test)",
+"source_url": "https://signalvnoise.com/posts/1525-writing-decisions-headline-tests-on-the-highrise-signup-page",
+"source_name": "Jason Fried, 'Writing Decisions: Headline tests on the Highrise signup page' (Signal v. Noise)"
+},
+"offer": {
+"label": "A clear, concrete offer",
+"source_url": "https://www.acquisition.com/training",
+"source_name": "Acquisition.com free training ($100M Offers, value equation)"
+},
+"cta": {
+"label": "One clear call to action",
+"source_url": "https://unbounce.com/conversion-rate-optimization/design-call-to-action-buttons/",
+"source_name": "Michael Aagaard, 'How to Design Call to Action Buttons that Convert' (Unbounce)"
+},
+"clarity": {
+"label": "Clarity beats cleverness",
+"source_url": "https://upworthy.natematias.com/",
+"source_name": "Upworthy Research Archive site"
+},
+"too_clever": {
+"label": "Too clever / pun-driven = unclear",
+"source_url": "https://upworthy.natematias.com/",
+"source_name": "Upworthy Research Archive site"
+},
+"concrete_image": {
+"label": "Concrete, picturable words",
+"source_url": "https://upworthy.natematias.com/",
+"source_name": "Upworthy Research Archive site"
+},
+"emotion": {
+"label": "Emotion & human reaction",
+"source_url": "https://blog.boomerangapp.com/2016/02/7-tips-for-getting-more-responses-to-your-emails-with-data/",
+"source_name": "Boomerang, '7 Tips for Getting More Responses to Your Emails (With Data!)' (40M+ emails)"
+},
+"hook": {
+"label": "3-second hook (Meta: up to 47% of video value in first 3s)",
+"source_url": "https://www.facebook.com/business/news/updated-features-for-video-ads",
+"source_name": "Meta for Business, 'Capture Attention with Updated Features for Video Ads'"
+},
+"sound_off": {
+"label": "Design for sound-off: captions & visual message",
+"source_url": "https://www.facebook.com/business/news/updated-features-for-video-ads",
+"source_name": "Meta for Business, 'Capture Attention with Updated Features for Video Ads'"
+},
+"face": {
+"label": "Human face / eye contact draws attention",
+"source_url": "https://adespresso.com/blog/facebook-video-thumbnail-impact-experiment/",
+"source_name": "AdEspresso, 'Facebook Video Thumbnail: Is it Essential...? (a $1,000 Experiment)'"
+},
+"contrast": {
+"label": "Contrast & single focal point (thumb-stop)",
+"source_url": "https://www.facebook.com/business/news/insights/capturing-attention-feed-video-creative",
+"source_name": "Facebook IQ, 'Capturing Attention in Feed: The Science Behind Effective Video Creative' (2016)"
+},
+"creative_targeting": {
+"label": "Creative is targeting: diversify concepts (Andromeda)",
+"source_url": "https://www.facebook.com/business/news/the-creative-advantage-unlocking-the-power-of-diversification-with-meta-andromeda",
+"source_name": "Meta for Business, 'The Creative Advantage: Unlocking the Power of Diversification with Meta Andromeda'"
+},
+"policy": {
+"label": "Meta health policy: no negative self-perception, no unqualified timed promises",
+"source_url": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/",
+"source_name": "Meta Transparency Center, Advertising Standards: Health and Wellness"
+},
+"personalization": {
+"label": "Relevant personalization (cold email)",
+"source_url": "https://belkins.io/blog/b2b-cold-email-subject-line-statistics",
+"source_name": "Belkins, 'How different B2B cold email subject lines perform: 2025 study' (5.5M emails)"
+},
+"brevity": {
+"label": "Short, plain, easy to read (cold email)",
+"source_url": "https://blog.boomerangapp.com/2016/02/7-tips-for-getting-more-responses-to-your-emails-with-data/",
+"source_name": "Boomerang, '7 Tips for Getting More Responses to Your Emails (With Data!)' (40M+ emails)"
+},
+"interest_cta": {
+"label": "Interest-based CTA for cold email (Gong)",
+"source_url": "https://www.gong.io/blog/this-surprising-cold-email-cta-will-help-you-book-a-lot-more-meetings",
+"source_name": "Gong Labs, 'Surprising cold email CTA that increases meeting bookings' (304,174 emails)"
+},
+"followup": {
+"label": "Follow up 1-3 times, politely (Woodpecker, Gong)",
+"source_url": "https://woodpecker.co/blog/follow-up-statistics/",
+"source_name": "Woodpecker, 'These Stats Prove The Importance of Follow-up Emails'"
+},
+"gratitude": {
+"label": "Gratitude closings (Boomerang)",
+"source_url": "https://blog.boomerangapp.com/2017/01/how-to-end-an-email-email-sign-offs/",
+"source_name": "Boomerang, 'Forget Best or Sincerely, This Email Closing Gets the Most Replies' (350,000+ threads)"
+},
+"reciprocity": {
+"label": "Reciprocity & fairness framing (BIT)",
+"source_url": "https://www.bi.team/articles/increasing-donor-organ-registration/",
+"source_name": "Behavioural Insights Team, 'Increasing organ donor registration'"
+},
+"social_proof": {
+"label": "Social proof (use carefully)",
+"source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6150960/",
+"source_name": "Sallis et al., organ donor registration RCT with 1,085,322 GOV.UK users (BMC/PMC)"
+},
+"search_intent": {
+"label": "Match the search intent (Google RSA)",
+"source_url": "https://support.google.com/google-ads/answer/6167122?hl=en",
+"source_name": "Google Ads Help: Best practices for creating effective responsive search ads"
+},
+"match_types": {
+"label": "Keyword match types & negatives (Google)",
+"source_url": "https://support.google.com/google-ads/answer/7478529?hl=en",
+"source_name": "Google Ads Help: About keyword matching options"
+},
+"metrics": {
+"label": "Read the right metric (CTR, CPC, CPM, CPA, ROAS)",
+"source_url": "https://support.google.com/google-ads/answer/2615875?hl=en",
+"source_name": "Google Ads Help: Clickthrough rate (CTR): Definition"
+},
+"sample_size": {
+"label": "Enough data before calling a test (sample size, no peeking)",
+"source_url": "https://www.evanmiller.org/ab-testing/sample-size.html",
+"source_name": "Evan Miller, 'Sample Size Calculator' (A/B test sample sizes)"
+},
+"ugc": {
+"label": "Creator / UGC-style proof (Meta partnership ads, TikTok)",
+"source_url": "https://www.facebook.com/business/news/new-ai-powered-tools-to-scale-creator-and-brand-partnerships",
+"source_name": "Meta for Business, 'New AI-powered tools to scale creator and brand partnerships' (partnership ads stats)"
+},
+"first3": {
+"label": "Key message in the first 3 seconds (TikTok, Meta)",
+"source_url": "https://gp.demandcurve.com/lessons/how-to-make-tiktok-ads-that-convert",
+"source_name": "Demand Curve Growth Program, 'How to Make TikTok Ads that Convert' (quotes TikTok's 63% / first-3-seconds finding)"
+},
+"local": {
+"label": "Local relevance & Google Business Profile",
+"source_url": "https://support.google.com/business/answer/7091",
+"source_name": "Google Business Profile Help: Tips to improve your local ranking on Google"
+},
+"sv_klarsprak": {
+"label": "Klarspråk: skriv enkelt och begripligt (Isof)",
+"source_url": "https://www.isof.se/svenska-spraket/klarsprak/lar-dig-mer-om-klarsprak/vad-ar-klarsprak",
+"source_name": "Isof (Språkrådet): Vad är klarspråk?"
+},
+"sv_law": {
+"label": "Swedish rules: no Rx-drug ads, 18+ for aesthetic injections",
+"source_url": "https://www.lakemedelsverket.se/sv/medicinteknik/anvanda/sakra-estetiska-injektionsprodukter/reklam-for-lakemedel-som-anvands-vid-estetiska-injektioner",
+"source_name": "Läkemedelsverket: Reklam för läkemedel som används vid estetiska injektioner"
+},
+"friction": {
+"label": "Remove friction: fewer fields, smaller steps",
+"source_url": "https://manikrathee.com/barack-obama-contribute.html",
+"source_name": "Manik Rathee (Obama 2012 digital team designer), 'Barack Obama — Contribute' (sequential donation form)"
+},
+"social_norm": {
+"label": "Social norms: 'people like you do this' (BIT)",
+"source_url": "https://assets.publishing.service.gov.uk/media/5a789ae740f0b62b22cbb536/BIT_FraudErrorDebt_accessible.pdf",
+"source_name": "Behavioural Insights Team / Cabinet Office, 'Applying behavioural insights to reduce fraud, error and debt' (2012, GOV.UK PDF)"
+}
+},
+"flags": {
+"no_number": "No specific number / fact",
+"no_offer": "No clear offer",
+"weak_hook": "Weak hook / first line",
+"no_proof": "No proof",
+"no_cta": "No clear CTA",
+"wrong_audience": "Wrong or missing audience callout",
+"too_clever": "Too clever / unclear",
+"too_long": "Too long / cluttered",
+"policy_risk": "Meta policy risk",
+"no_personalization": "No personalization / relevance",
+"low_contrast": "Low contrast / no focal point",
+"too_much_text": "Too much text on image",
+"hype": "Hype / unbelievable claim",
+"big_ask": "Asks too much (effort or time)",
+"no_local": "No local / place signal",
+"intent_mismatch": "Doesn't match the search intent",
+"slow_start": "Slow start: key message after 3 seconds",
+"wrong_metric": "Judged on the wrong metric"
+},
+"evidence_labels": {
+"proven_test": "PROVEN TEST (real A/B test, known winner)",
+"long_running": "LONG-RUNNING SIGNAL (ran for years / Ad Library proxy)",
+"case_study": "PUBLISHED CASE STUDY / BENCHMARK (reported results, not independently verified)",
+"teaching": "Teaching example (written for practice, not real performance data)",
+"principle": "PRINCIPLE LESSON (cited source)"
+}
+};
